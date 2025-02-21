@@ -9,23 +9,7 @@
           "effectTitle": "Kiss Your Partner",
           "effectID": "315446315336768",
           "effectPrompt": "Kiss each other",
-          "isPaid": true
-        },
-        {
-          "title": "Hug Your Partner",
-          "image": "https://upload.orotv.shop/uploads/1738965661487-630460236.gif",
-          "effectTitle": "Hug Your Partner",
-          "effectID": "303624424723200",
-          "effectPrompt": "Hug each other",
           "isPaid": false
-        },
-        {
-          "title": "Muscle Surge",
-          "image": "https://upload.orotv.shop/uploads/1738966396557-615648391.gif",
-          "effectTitle": "Muscle Surge",
-          "effectID": "308621408717184",
-          "effectPrompt": "Show off your strong muscles and have everyone hooked.",
-          "isPaid": true
         }
       ]
     },
