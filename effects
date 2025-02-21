@@ -20,6 +20,27 @@
           "isPaid": false
         }
       ]
+    },
+    {
+      "sectionTitle": "Transform Me",
+      "containers": [
+        {
+          "title": "Height Plus",
+          "image": "url_here",
+          "effectTitle": "Height Enhancement",
+          "effectID": "height_001",
+          "effectPrompt": "Generate height increase",
+          "isPaid": true
+        },
+        {
+          "title": "Perfect Smile",
+          "image": "url_here",
+          "effectTitle": "Smile Enhancement",
+          "effectID": "smile_001",
+          "effectPrompt": "Generate perfect smile",
+          "isPaid": true
+        }
+      ]
     }
   ]
 }
