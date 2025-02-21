@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "sectionTitle": "Fight or Mercy",
+      "containers": [
+        {
+          "title": "Muscle Surge",
+          "image": "url_here",
+          "effectTitle": "Muscle Effect",
+          "effectID": "muscle_001",
+          "effectPrompt": "Generate muscle enhancement",
+          "isPaid": true
+        },
+        {
+          "title": "Baby Face",
+          "image": "url_here",
+          "effectTitle": "Youth Effect",
+          "effectID": "youth_001",
+          "effectPrompt": "Generate younger appearance",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}
