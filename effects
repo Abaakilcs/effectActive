@@ -4,56 +4,19 @@
       "sectionTitle": "Kiss or Hug",
       "containers": [
        {
-          "title": "Baby Face",
-          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
-          "effectTitle": "Baby Face",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
+          "title": "Kiss Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1738965431614-551449104.gif",
+          "effectTitle": "Kiss Your Partner",
+          "effectID": "315446315336768",
+          "effectPrompt": "Kiss each other",
           "isPaid": true
         },
         {
-          "title": "Baby Face 2",
-          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
-          "effectTitle": "Baby Face",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": true
-        },
-         {
-          "title": "Baby Face 3",
-          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
-          "effectTitle": "Baby Face",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": true
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Kiss or Hug 2",
-      "containers": [
-       {
-          "title": "Baby Face",
-          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
-          "effectTitle": "Baby Face",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": true
-        },
-        {
-          "title": "Baby Face 2",
-          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
-          "effectTitle": "Baby Face",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": true
-        },
-         {
-          "title": "Baby Face 3",
-          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
-          "effectTitle": "Baby Face",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
+          "title": "Hug Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1738965661487-630460236.gif",
+          "effectTitle": "Hug Your Partner",
+          "effectID": "303624424723200",
+          "effectPrompt": "Hug each other",
           "isPaid": true
         }
       ]
@@ -61,13 +24,13 @@
     {
       "sectionTitle": "Transform Me",
       "containers": [
-        {
+       {
           "title": "Muscle Surge",
           "image": "https://upload.orotv.shop/uploads/1738966396557-615648391.gif",
           "effectTitle": "Muscle Surge",
           "effectID": "308621408717184",
           "effectPrompt": "Show off your strong muscles and have everyone hooked.",
-          "isPaid": true
+          "isPaid": false
         },
         {
           "title": "Baby Face",
@@ -75,9 +38,114 @@
           "effectTitle": "Baby Face",
           "effectID": "315446232403008",
           "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": true
+          "isPaid": false
         }
       ]
-    }
+    },
+    {
+      "sectionTitle": "Fight or Mercy",
+      "containers": [
+        {
+          "title": "Fight !",
+          "image": "https://upload.orotv.shop/uploads/1738860358647-950994733.gif",
+          "effectTitle": "Fight Club",
+          "effectID": "315446315336768",
+          "effectPrompt": "Let the battle begin",
+          "isPaid": false
+        },
+        {
+          "title": "Hug Jesus",
+          "image": "https://upload.orotv.shop/uploads/1738860402751-579194956.gif",
+          "effectTitle": "Warmth of Jesus",
+          "effectID": "316826014376384",
+          "effectPrompt": "Find peace in Jesus' arms.",
+          "isPaid": false
+        }
+      ]
+    },
+     {
+     "sectionTitle": "Hug an Animal",
+      "containers": [
+        {
+          "title": "Hug a Tiger",
+          "image": "https://upload.orotv.shop/uploads/1738860715280-92709643.gif",
+          "effectTitle": "The Tiger's Touch",
+          "effectID": "313649491716544",
+          "effectPrompt": "A giant tiger appears and snuggles up with you.",
+          "isPaid": false
+        },
+        {
+          "title": "Hug a Snake",
+          "image": "https://upload.orotv.shop/uploads/1738860757154-510165406.gif",
+          "effectTitle": "Snake Snuggle",
+          "effectID": "313359048325568",
+          "effectPrompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+     "sectionTitle": "Manipulate Your Hair",
+      "containers": [
+        {
+          "title": "Long Hair",
+          "image": "https://upload.orotv.shop/uploads/1738860806133-580598409.gif",
+          "effectTitle": "Long Hair Magic",
+          "effectID": "308552687706496",
+          "effectPrompt": "Grow lots of hair. Never be bald.",
+          "isPaid": false
+        },
+        {
+          "title": "Curly Hair",
+          "image": "https://upload.orotv.shop/uploads/1738860843454-557706959.gif",
+          "effectTitle": "Sheep Curls",
+          "effectID": "310371322329472",
+          "effectPrompt": "Change hairstyle for a better mood",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+     "sectionTitle": "Feels Asian",
+      "containers": [
+        {
+          "title": "Become Wukong",
+          "image": "https://upload.orotv.shop/uploads/1738860938262-926930487.gif",
+          "effectTitle": "Black Myth: Wukong",
+          "effectID": "313359209531840",
+          "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
+          "isPaid": false
+        },
+        {
+          "title": "Chinese Queen Dress",
+          "image": "https://upload.orotv.shop/uploads/1738860997310-406135739.gif",
+          "effectTitle": "Chinese New Year Dress",
+          "effectID": "317013509917440",
+          "effectPrompt": "Have good luck in 2025",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+     "sectionTitle": "Objects",
+      "containers": [
+        {
+          "title": "Squich it",
+          "image": "https://upload.orotv.shop/uploads/1738861112344-245175016.gif",
+          "effectTitle": "Squish It",
+          "effectID": "302325299692608",
+          "effectPrompt": "A pair of hands appears and squishes the [OBJECT] as if it's slime",
+          "isPaid": false
+        },
+        {
+          "title": "Blast it",
+          "image": "https://upload.orotv.shop/uploads/1738861084170-933412775.gif",
+          "effectTitle": "Lego Blast",
+          "effectID": "302325299702848",
+          "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
+          "isPaid": false
+        }
+      ]
+    },
   ]
 }
