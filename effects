@@ -18,6 +18,14 @@
           "effectID": "315446232403008",
           "effectPrompt": "Take off the mask and return to childhood",
           "isPaid": true
+        },
+         {
+          "title": "Baby Face 3",
+          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
+          "effectTitle": "Baby Face",
+          "effectID": "315446232403008",
+          "effectPrompt": "Take off the mask and return to childhood",
+          "isPaid": true
         }
       ]
     },
