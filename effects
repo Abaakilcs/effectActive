@@ -1,29 +1,6 @@
 {
   "sections": [
     {
-      "sectionTitle": "Kiss or Hug",
-      "containers": [
-       {
-          "title": "Kiss Your Partner",
-          "image": "https://upload.orotv.shop/uploads/1738965431614-551449104.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectTitle": "Kiss Your Partner",
-          "effectID": "315446315336768",
-          "effectPrompt": "Kiss each other",
-          "isPaid": true
-        },
-        {
-          "title": "Hug Your Partner",
-          "image": "https://upload.orotv.shop/uploads/1738965661487-630460236.gif",
-          "blurHash": "L9Fqdg00~V0g;JXnnhRk01x^R5%M",
-          "effectTitle": "Hug Your Partner",
-          "effectID": "303624424723200",
-          "effectPrompt": "Hug each other",
-          "isPaid": true
-        }
-      ]
-    },
-    {
       "sectionTitle": "Transform Me",
       "containers": [
        {
