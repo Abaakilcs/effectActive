@@ -45,6 +45,38 @@
           "isPaid": false
         }
       ]
+      },
+      {
+      "sectionTitle": "Marvel Fantasy",
+      "containers": [
+       {
+          "title": "Become Venom!",
+          "image": "https://upload.orotv.shop/uploads/1740671604668-540382581.gif",
+          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
+          "effectTitle": "Become Venom!",
+          "effectID": "303624537709312",
+          "effectPrompt": "Transform into a [BLACK] Venom",
+          "isPaid": true
+        }
+        {
+          "title": "Hulk",
+          "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
+          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
+          "effectTitle": "Unleash the Beast",
+          "effectID": "304826314164992",
+          "effectPrompt": "Unleash the Beast",
+          "isPaid": true
+        }
+        {
+          "title": "Wonder Woman",
+          "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
+          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
+          "effectTitle": "Wonder Woman",
+          "effectID": "309283958194560",
+          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
+          "isPaid": true
+        },
+      ]
     },
     {
       "sectionTitle": "Fight or Mercy",
