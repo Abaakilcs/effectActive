@@ -57,7 +57,7 @@
           "effectID": "303624537709312",
           "effectPrompt": "Transform into a [BLACK] Venom",
           "isPaid": true
-        }
+        },
         {
           "title": "Hulk",
           "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
@@ -66,7 +66,7 @@
           "effectID": "304826314164992",
           "effectPrompt": "Unleash the Beast",
           "isPaid": true
-        }
+        },
         {
           "title": "Wonder Woman",
           "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
@@ -75,7 +75,7 @@
           "effectID": "309283958194560",
           "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
           "isPaid": true
-        },
+        }
       ]
     },
     {
