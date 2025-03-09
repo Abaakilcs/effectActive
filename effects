@@ -23,6 +23,38 @@
         }
       ]
     },
+     {
+      "sectionTitle": "Trending..",
+      "containers": [
+       {
+          "title": "Let's Dance!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250304_2.gif",
+          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
+          "effectTitle": "Let's Dance!",
+          "effectID": "324641581197696",
+          "effectPrompt": "Everyone, join the Disco Party Jam!",
+          "isPaid": true
+        },
+        {
+          "title": "360° View",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.gif",
+          "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
+          "effectTitle": "360° View",
+          "effectID": "324641385496960",
+          "effectPrompt": "Rotate 360 degrees in the microwave oven",
+          "isPaid": true
+        },
+        {
+          "title": "Jellycat",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
+          "blurHash": "L6F;=%*003000Kv}5Rx]%$-;-7RP",
+          "effectTitle": "Jellycat",
+          "effectID": "324640938615168",
+          "effectPrompt": "Transform into a cute, cuddly plush toy!",
+          "isPaid": true
+        }
+      ]
+      },
     {
       "sectionTitle": "Transform Me",
       "containers": [
@@ -34,6 +66,15 @@
           "effectID": "308621408717184",
           "effectPrompt": "Show off your strong muscles and have everyone hooked.",
           "isPaid": false
+        },
+        {
+          "title": "Bikini Show!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.gif",
+          "blurHash": "LFB:?Ixt_Nt7IUM{9GWWR*of%Lt6",
+          "effectTitle": "Bikini Show!",
+          "effectID": "313555098280384",
+          "effectPrompt": "Catch the wave, rock that bikini vibe!",
+          "isPaid": true
         },
         {
           "title": "Baby Face",
@@ -91,6 +132,15 @@
           "isPaid": false
         },
         {
+          "title": "Holy Wings",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.gif",
+          "blurHash": "LtPP6?tR~Uj?-;R-ozjYM|s,RQRQ",
+          "effectTitle": "Holy Wings",
+          "effectID": "313649622731200",
+          "effectPrompt": "Get beautiful wings and lift off into sky",
+          "isPaid": false
+        },
+        {
           "title": "Hug Jesus",
           "image": "https://upload.orotv.shop/uploads/1738860402751-579194956.gif",
           "blurHash": "LGGR#S~p?ZRjIUD%9GRj9FM{x]xu",
@@ -112,6 +162,15 @@
           "effectID": "313649491716544",
           "effectPrompt": "A giant tiger appears and snuggles up with you.",
           "isPaid": false
+        },
+        {
+          "title": "Hug a Polar Bear",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.gif",
+          "blurHash": "LgLVtZvz2wtQ}Ts9buWBr;X9$dj[",
+          "effectTitle": "Hug a Polar Bear",
+          "effectID": "325501134629952",
+          "effectPrompt": "A polar bear suddenly jumps out and hugs you",
+          "isPaid": true
         },
         {
           "title": "Hug a Snake",
