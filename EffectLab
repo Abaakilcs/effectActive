@@ -1,7 +1,20 @@
 {
   "sections": [
     {
-      "sectionTitle": "Kiss or Hug",
+      "sectionTitle": "Muscle Power",
+      "containers": [
+        {
+          "title": "Muscle Surge",
+          "image": "https://upload.orotv.shop/uploads/1742180009825-439113743.gif",
+          "blurHash": "L4BogT~A000LMdIpyC%L01Rk^*%1",
+          "effectID": "308621408717184",
+          "effectPrompt": "Show off your strong muscles and have everyone hooked.",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Romance Collection",
       "containers": [
         {
           "title": "Kiss Your Partner",
@@ -18,491 +31,12 @@
           "effectID": "303624424723200",
           "effectPrompt": "Hug each other",
           "isPaid": true
-        },
-        {
-          "title": "Kiss Me, AI!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321958627120000",
-          "effectPrompt": "No Lover? Get an AI Sweetheart!",
-          "isPaid": true
         }
       ]
     },
     {
-      "sectionTitle": "Trending..",
+      "sectionTitle": "Action Zone",
       "containers": [
-        {
-          "title": "Let's Dance!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250316.gif",
-          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
-          "effectID": "324641581197696",
-          "effectPrompt": "Everyone, join the Disco Party Jam!",
-          "isPaid": true
-        },
-        {
-          "title": "360° Microwave",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.gif",
-          "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
-          "effectID": "324641385496960",
-          "effectPrompt": "Rotate 360 degrees in the microwave oven",
-          "isPaid": true
-        },
-        {
-          "title": "Jellycat Everything",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
-          "blurHash": "L6F;=%*003000Kv}5Rx]%$-;-7RP",
-          "effectID": "324640938615168",
-          "effectPrompt": "Transform into a cute, cuddly plush toy!",
-          "isPaid": true
-        },
-        {
-          "title": "Minions Takeover!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minion_250312.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "326911344716672",
-          "effectPrompt": "Your little buddies got you styled!",
-          "isPaid": true
-        },
-        {
-          "title": "Night Night",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sleep_250314.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "327306291348352",
-          "effectPrompt": "It's time to take a good rest",
-          "isPaid": true
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Transform Me",
-      "containers": [
-        {
-          "title": "Muscle Surge",
-          "image": "https://upload.orotv.shop/uploads/1742180009825-439113743.gif",
-          "blurHash": "L4BogT~A000LMdIpyC%L01Rk^*%1",
-          "effectID": "308621408717184",
-          "effectPrompt": "Show off your strong muscles and have everyone hooked.",
-          "isPaid": false
-        },
-        {
-          "title": "Bikini Up!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.gif",
-          "blurHash": "LFB:?Ixt_Nt7IUM{9GWWR*of%Lt6",
-          "effectID": "313555098280384",
-          "effectPrompt": "Catch the wave, rock that bikini vibe!",
-          "isPaid": true
-        },
-        {
-          "title": "Baby Face",
-          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
-          "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": false
-        },
-        {
-          "title": "Gender Swap",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_genderchange_250221.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "323578865822784",
-          "effectPrompt": "Change your gender with one click",
-          "isPaid": false
-        },
-        {
-          "title": "Vogue Walk",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "322852853601344",
-          "effectPrompt": "Walk like a supermodel and shine brighter than ever",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Marvel Fantasy",
-      "containers": [
-        {
-          "title": "We Are Venom!",
-          "image": "https://upload.orotv.shop/uploads/1740671604668-540382581.gif",
-          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
-          "effectID": "303624537709312",
-          "effectPrompt": "Transform into a [BLACK] Venom",
-          "isPaid": true
-        },
-        {
-          "title": "Hulk",
-          "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
-          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
-          "effectID": "304826314164992",
-          "effectPrompt": "Unleash the Beast",
-          "isPaid": true
-        },
-        {
-          "title": "Wonder Woman",
-          "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
-          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
-          "effectID": "309283958194560",
-          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
-          "isPaid": true
-        },
-        {
-          "title": "Iron Man",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ironman.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826054394624",
-          "effectPrompt": "Activate Iron Mode",
-          "isPaid": false
-        },
-        {
-          "title": "Batman",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_batman.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826374632192",
-          "effectPrompt": "Transform into a Batman and embrace the night",
-          "isPaid": false
-        },
-        {
-          "title": "COLORFUL Venom!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_colorfulvenom.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs", 
-          "effectID": "304358279051648",
-          "effectPrompt": "Transform into a [COLORFUL] Venom",
-          "isPaid": false
-        },
-        {
-          "title": "Get a Venom buddy",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_venombuddy.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "306059795500352",
-          "effectPrompt": "Your Venom buddy appears and gives you a hug",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Fight or Mercy",
-      "containers": [
-        {
-          "title": "Kungfu Club",
-          "image": "https://upload.orotv.shop/uploads/1738860358647-950994733.gif",
-          "blurHash": "LDFFQs~qw[^+NeVr9GIo4mWBxuM{",
-          "effectID": "315447659476032",
-          "effectPrompt": "Let the battle begin",
-          "isPaid": false
-        },
-        {
-          "title": "Holy Wings",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.gif",
-          "blurHash": "LtPP6?tR~Uj?-;R-ozjYM|s,RQRQ",
-          "effectID": "313649622731200",
-          "effectPrompt": "Get beautiful wings and lift off into sky",
-          "isPaid": false
-        },
-        {
-          "title": "Warmth of Jesus",
-          "image": "https://upload.orotv.shop/uploads/1738860402751-579194956.gif",
-          "blurHash": "LGGR#S~p?ZRjIUD%9GRj9FM{x]xu",
-          "effectID": "316826014376384",
-          "effectPrompt": "Find peace in Jesus' arms.",
-          "isPaid": false
-        },
-        {
-          "title": "Fire Roar",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "326607027713088",
-          "effectPrompt": "Unleash your inner flame",
-          "isPaid": true
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Hug an Animal",
-      "containers": [
-        {
-          "title": "The Tiger's Touch",
-          "image": "https://upload.orotv.shop/uploads/1738860715280-92709643.gif",
-          "blurHash": "L5GIV=-h00=}0JIC$;--Te9aDj.7",
-          "effectID": "313649491716544",
-          "effectPrompt": "A giant tiger appears and snuggles up with you.",
-          "isPaid": false
-        },
-        {
-          "title": "Polar Bear Shock",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.gif",
-          "blurHash": "LgLVtZvz2wtQ}Ts9buWBr;X9$dj[",
-          "effectID": "325501134629952",
-          "effectPrompt": "A polar bear suddenly jumps out and hugs you",
-          "isPaid": false
-        },
-        {
-          "title": "Snake Snuggle",
-          "image": "https://upload.orotv.shop/uploads/1738860757154-510165406.gif",
-          "blurHash": "L8Q%@,yD_l^R#rRj.7xasAs:9tNG",
-          "effectID": "313359048325568",
-          "effectPrompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Manipulate Your Hair",
-      "containers": [
-        {
-          "title": "Long Hair Magic",
-          "image": "https://upload.orotv.shop/uploads/1738860806133-580598409.gif",
-          "blurHash": "L7G8v3RO00*0^gxv_NIT%#5[#600",
-          "effectID": "308552687706496",
-          "effectPrompt": "Grow lots of hair. Never be bald.",
-          "isPaid": false
-        },
-        {
-          "title": "Sheep Curls",
-          "image": "https://upload.orotv.shop/uploads/1738860843454-557706959.gif",
-          "blurHash": "LRNci,4o~p?a%1M{D*M|WBaxRjIV",
-          "effectID": "310371322329472",
-          "effectPrompt": "Change hairstyle for a better mood",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Feels Asian",
-      "containers": [
-        {
-          "title": "Black Myth: Wukong",
-          "image": "https://upload.orotv.shop/uploads/1738860938262-926930487.gif",
-          "blurHash": "LJIXWx=A_LH@5Y9Gt8Mx58-;IVNI",
-          "effectID": "313359209531840",
-          "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
-          "isPaid": false
-        },
-        {
-          "title": "Chinese New Year Dress",
-          "image": "https://upload.orotv.shop/uploads/1738860997310-406135739.gif",
-          "blurHash": "L7D9htpI0001}5I=pKV@-=SinMIA",
-          "effectID": "317013509917440",
-          "effectPrompt": "Have good luck in 2025",
-          "isPaid": false
-        },
-        {
-          "title": "Sailor Moon",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sailormoon.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "313359138372032",
-          "effectPrompt": "Moon Prism Power, Make Up!",
-          "isPaid": false
-        },
-        {
-          "title": "Nezha: Wild Flame",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_nezha_250215.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321956534408064",
-          "effectPrompt": "Transform into Nezha and fight against fate!",
-          "isPaid": false
-        },
-        {
-          "title": "Aobing: Icy Frost",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aobing_250215.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321957680919424",
-          "effectPrompt": "Transform into Aobing and fight for my own path!",
-          "isPaid": false
-        },
-        {
-          "title": "God of Wealth",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_godofwealth_250124.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "313358844899776",
-          "effectPrompt": "Wear the Wealth Armor and have a prosperous New Year!",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Objects",
-      "containers": [
-        {
-          "title": "Squish It",
-          "image": "https://upload.orotv.shop/uploads/1738861112344-245175016.gif",
-          "blurHash": "L6B537000y_NtR%M00%19F%2#SIU",
-          "effectID": "302325299692608",
-          "effectPrompt": "A pair of hands appears and squishes the [OBJECT] as if it's slime",
-          "isPaid": false
-        },
-        {
-          "title": "Lego Blast",
-          "image": "https://upload.orotv.shop/uploads/1738861084170-933412775.gif",
-          "blurHash": "LGIFF?9aC,={rCn#Ac^h?a^gvzI=",
-          "effectID": "302325299702848",
-          "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
-          "isPaid": false
-        },
-        {
-          "title": "Alive Art",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aliveart.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299721280",
-          "effectPrompt": "Make everything alive",
-          "isPaid": false
-        },
-        {
-          "title": "Leggy Run",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299711040",
-          "effectPrompt": "The [OBJECT] grows legs and runs away",
-          "isPaid": false
-        },
-        {
-          "title": "Anything, Robot",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "313358700761536",
-          "effectPrompt": "Transform into a robot",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Villains & Heroes",
-      "containers": [
-        {
-          "title": "Joker's Rebirth",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jokerrebirth.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826126435072",
-          "effectPrompt": "Transform into a Joker",
-          "isPaid": false
-        },
-        {
-          "title": "Hot Harley Quinn",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_harleyquinn.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "307489434436288",
-          "effectPrompt": "Transform into Harley Quinn, mastering allure and chaos",
-          "isPaid": false
-        },
-        {
-          "title": "Crazy Cat Woman",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_catwoman.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "307489548427968", 
-          "effectPrompt": "Transform into a Crazy Cat Woman and slay",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Seasonal Celebrations",
-      "containers": [
-        {
-          "title": "Carnival Queen",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "325728504863808",
-          "effectPrompt": "Get the most eye-catching carnival costume in one second!",
-          "isPaid": false
-        },
-        {
-          "title": "Sakura Flood",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sakura_250305.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "325367418993728",
-          "effectPrompt": "Turn the world into a Sakura Utopia",
-          "isPaid": true
-        },
-        {
-          "title": "2025 Oscar Winner",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_oscar_250226.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321956810449792",
-          "effectPrompt": "Pick up the Oscar trophy and cheer for yourself",
-          "isPaid": false
-        },
-        {
-          "title": "Santa's Secret Gifts",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_santa%27sgift_0115.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "311521768592256",
-          "effectPrompt": "I want a：",
-          "isPaid": false
-        },
-        {
-          "title": "Where is Santa?",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whereissanta_0115.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "311521879229312",
-          "effectPrompt": "Discovering Santa Claus in the parallel world!",
-          "isPaid": false
-        },
-        {
-          "title": "Christmas OOTD",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_santaoutfit_0115.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "312314911869312",
-          "effectPrompt": "Dress up as a Christmas star",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Mythical & Mystical",
-      "containers": [
-        {
-          "title": "Pomba Gira Slay",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321958080134016",
-          "effectPrompt": "Unleash desire, embrace power! You are Pomba Gira!",
-          "isPaid": false
-        },
-        {
-          "title": "Smoking Vibe",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "316645675647872",
-          "effectPrompt": "Smoke cigar, vibe like a boss.",
-          "isPaid": false
-        },
-        {
-          "title": "Wizard Hat",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wizardhat.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299661888",
-          "effectPrompt": "The [SUBJECT] wears a magic wizard hat",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Spooky Encounters",
-      "containers": [
-        {
-          "title": "Monster Invades",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_monsterinvade2.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299682368",
-          "effectPrompt": "A monster suddenly appears in the [SCENE] and starts walking around",
-          "isPaid": false
-        },
-        {
-          "title": "Zombie Mode",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiemode.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299651648",
-          "effectPrompt": "The [SUBJECT] suddenly transforms into a zombie.",
-          "isPaid": false
-        },
-        {
-          "title": "Zombie Hand",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_zombiehand.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299672128",
-          "effectPrompt": "A zombie hand appears in the [SCENE]",
-          "isPaid": false
-        },
         {
           "title": "Wicked Shots",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wickedshot.gif",
@@ -514,22 +48,40 @@
       ]
     },
     {
-      "sectionTitle": "Gaming Inspired",
+      "sectionTitle": "Fun With Objects",
       "containers": [
         {
-          "title": "Squid Game",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squid_250115.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "316139945292864",
-          "effectPrompt": "Put on the mask. The game begins now.",
+          "title": "Squish It",
+          "image": "https://upload.orotv.shop/uploads/1738861112344-245175016.gif",
+          "blurHash": "L6B537000y_NtR%M00%19F%2#SIU",
+          "effectID": "302325299692608",
+          "effectPrompt": "A pair of hands appears and squishes the [OBJECT] as if it's slime",
           "isPaid": false
-        },
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Destruction Effects",
+      "containers": [
         {
-          "title": "Young-hee's Gaze",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squiddoll_250115_1.gif",
+          "title": "Lego Blast",
+          "image": "https://upload.orotv.shop/uploads/1738861084170-933412775.gif",
+          "blurHash": "LGIFF?9aC,={rCn#Ac^h?a^gvzI=",
+          "effectID": "302325299702848",
+          "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Creative Magic",
+      "containers": [
+        {
+          "title": "Alive Art",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aliveart.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "317013620689664",
-          "effectPrompt": "Red Light, Green Light",
+          "effectID": "302325299721280",
+          "effectPrompt": "Make everything alive",
           "isPaid": false
         }
       ]
