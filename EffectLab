@@ -1,1 +1,256 @@
-test
+{
+  "sections": [
+    {
+      "sectionTitle": "Kiss or Hug",
+      "containers": [
+       {
+          "title": "Kiss Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1738965431614-551449104.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectTitle": "Kiss Your Partner",
+          "effectID": "315446315336768",
+          "effectPrompt": "Kiss each other",
+          "isPaid": true
+        },
+        {
+          "title": "Hug Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1738965661487-630460236.gif",
+          "blurHash": "L9Fqdg00~V0g;JXnnhRk01x^R5%M",
+          "effectTitle": "Hug Your Partner",
+          "effectID": "303624424723200",
+          "effectPrompt": "Hug each other",
+          "isPaid": true
+        }
+      ]
+    },
+     {
+      "sectionTitle": "Trending..",
+      "containers": [
+       {
+          "title": "Let's Dance!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250304_2.gif",
+          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
+          "effectTitle": "Let's Dance!",
+          "effectID": "324641581197696",
+          "effectPrompt": "Everyone, join the Disco Party Jam!",
+          "isPaid": true
+        },
+        {
+          "title": "360° View",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.gif",
+          "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
+          "effectTitle": "360° View",
+          "effectID": "324641385496960",
+          "effectPrompt": "Rotate 360 degrees in the microwave oven",
+          "isPaid": true
+        },
+        {
+          "title": "Jellycat",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
+          "blurHash": "L6F;=%*003000Kv}5Rx]%$-;-7RP",
+          "effectTitle": "Jellycat",
+          "effectID": "324640938615168",
+          "effectPrompt": "Transform into a cute, cuddly plush toy!",
+          "isPaid": true
+        }
+      ]
+      },
+    {
+      "sectionTitle": "Transform Me",
+      "containers": [
+       {
+          "title": "Muscle Surge",
+          "image": "https://upload.orotv.shop/uploads/1738966396557-615648391.gif",
+          "blurHash": "L4BogT~A000LMdIpyC%L01Rk^*%1",
+          "effectTitle": "Muscle Surge",
+          "effectID": "308621408717184",
+          "effectPrompt": "Show off your strong muscles and have everyone hooked.",
+          "isPaid": false
+        },
+        {
+          "title": "Bikini Show!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.gif",
+          "blurHash": "LFB:?Ixt_Nt7IUM{9GWWR*of%Lt6",
+          "effectTitle": "Bikini Show!",
+          "effectID": "313555098280384",
+          "effectPrompt": "Catch the wave, rock that bikini vibe!",
+          "isPaid": true
+        },
+        {
+          "title": "Baby Face",
+          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
+          "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
+          "effectTitle": "Baby Face",
+          "effectID": "315446232403008",
+          "effectPrompt": "Take off the mask and return to childhood",
+          "isPaid": false
+        }
+      ]
+      },
+      {
+      "sectionTitle": "Marvel Fantasy",
+      "containers": [
+       {
+          "title": "Become Venom!",
+          "image": "https://upload.orotv.shop/uploads/1740671604668-540382581.gif",
+          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
+          "effectTitle": "Become Venom!",
+          "effectID": "303624537709312",
+          "effectPrompt": "Transform into a [BLACK] Venom",
+          "isPaid": true
+        },
+        {
+          "title": "Hulk",
+          "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
+          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
+          "effectTitle": "Unleash the Beast",
+          "effectID": "304826314164992",
+          "effectPrompt": "Unleash the Beast",
+          "isPaid": true
+        },
+        {
+          "title": "Wonder Woman",
+          "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
+          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
+          "effectTitle": "Wonder Woman",
+          "effectID": "309283958194560",
+          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
+          "isPaid": true
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Fight or Mercy",
+      "containers": [
+        {
+          "title": "Fight !",
+          "image": "https://upload.orotv.shop/uploads/1738860358647-950994733.gif",
+          "blurHash": "LDFFQs~qw[^+NeVr9GIo4mWBxuM{",
+          "effectTitle": "Fight Club",
+          "effectID": "315446315336768",
+          "effectPrompt": "Let the battle begin",
+          "isPaid": false
+        },
+        {
+          "title": "Holy Wings",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.gif",
+          "blurHash": "LtPP6?tR~Uj?-;R-ozjYM|s,RQRQ",
+          "effectTitle": "Holy Wings",
+          "effectID": "313649622731200",
+          "effectPrompt": "Get beautiful wings and lift off into sky",
+          "isPaid": false
+        },
+        {
+          "title": "Hug Jesus",
+          "image": "https://upload.orotv.shop/uploads/1738860402751-579194956.gif",
+          "blurHash": "LGGR#S~p?ZRjIUD%9GRj9FM{x]xu",
+          "effectTitle": "Warmth of Jesus",
+          "effectID": "316826014376384",
+          "effectPrompt": "Find peace in Jesus' arms.",
+          "isPaid": false
+        }
+      ]
+    },
+     {
+     "sectionTitle": "Hug an Animal",
+      "containers": [
+        {
+          "title": "Hug a Tiger",
+          "image": "https://upload.orotv.shop/uploads/1738860715280-92709643.gif",
+          "blurHash": "L5GIV=-h00=}0JIC$;--Te9aDj.7",
+          "effectTitle": "The Tiger's Touch",
+          "effectID": "313649491716544",
+          "effectPrompt": "A giant tiger appears and snuggles up with you.",
+          "isPaid": false
+        },
+        {
+          "title": "Hug a Polar Bear",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_polarbear_250304.gif",
+          "blurHash": "LgLVtZvz2wtQ}Ts9buWBr;X9$dj[",
+          "effectTitle": "Hug a Polar Bear",
+          "effectID": "325501134629952",
+          "effectPrompt": "A polar bear suddenly jumps out and hugs you",
+          "isPaid": true
+        },
+        {
+          "title": "Hug a Snake",
+          "image": "https://upload.orotv.shop/uploads/1738860757154-510165406.gif",
+          "blurHash": "L8Q%@,yD_l^R#rRj.7xasAs:9tNG",
+          "effectTitle": "Snake Snuggle",
+          "effectID": "313359048325568",
+          "effectPrompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+     "sectionTitle": "Manipulate Your Hair",
+      "containers": [
+        {
+          "title": "Long Hair",
+          "image": "https://upload.orotv.shop/uploads/1738860806133-580598409.gif",
+          "blurHash": "L7G8v3RO00*0^gxv_NIT%#5[#600",
+          "effectTitle": "Long Hair Magic",
+          "effectID": "308552687706496",
+          "effectPrompt": "Grow lots of hair. Never be bald.",
+          "isPaid": false
+        },
+        {
+          "title": "Curly Hair",
+          "image": "https://upload.orotv.shop/uploads/1738860843454-557706959.gif",
+          "blurHash": "LRNci,4o~p?a%1M{D*M|WBaxRjIV",
+          "effectTitle": "Sheep Curls",
+          "effectID": "310371322329472",
+          "effectPrompt": "Change hairstyle for a better mood",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+     "sectionTitle": "Feels Asian",
+      "containers": [
+        {
+          "title": "Become Wukong",
+          "image": "https://upload.orotv.shop/uploads/1738860938262-926930487.gif",
+          "blurHash": "LJIXWx=A_LH@5Y9Gt8Mx58-;IVNI",
+          "effectTitle": "Black Myth: Wukong",
+          "effectID": "313359209531840",
+          "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
+          "isPaid": false
+        },
+        {
+          "title": "Chinese Queen Dress",
+          "image": "https://upload.orotv.shop/uploads/1738860997310-406135739.gif",
+          "blurHash": "L7D9htpI0001}5I=pKV@-=SinMIA",
+          "effectTitle": "Chinese New Year Dress",
+          "effectID": "317013509917440",
+          "effectPrompt": "Have good luck in 2025",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+     "sectionTitle": "Objects",
+      "containers": [
+        {
+          "title": "Squich it",
+          "image": "https://upload.orotv.shop/uploads/1738861112344-245175016.gif",
+          "blurHash": "L6B537000y_NtR%M00%19F%2#SIU",
+          "effectTitle": "Squish It",
+          "effectID": "302325299692608",
+          "effectPrompt": "A pair of hands appears and squishes the [OBJECT] as if it's slime",
+          "isPaid": false
+        },
+        {
+          "title": "Blast it",
+          "image": "https://upload.orotv.shop/uploads/1738861084170-933412775.gif",
+          "blurHash": "LGIFF?9aC,={rCn#Ac^h?a^gvzI=",
+          "effectTitle": "Lego Blast",
+          "effectID": "302325299702848",
+          "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}
