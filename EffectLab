@@ -578,7 +578,8 @@
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "316139945292864",
           "effectPrompt": "Put on the mask. The game begins now.",
-          "isPaid": false
+          "isPaid": true,
+          "isPika": false
         },
         {
           "title": "Young-hee's Gaze",
@@ -586,7 +587,8 @@
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "317013620689664",
           "effectPrompt": "Red Light, Green Light",
-          "isPaid": false
+          "isPaid": true,
+          "isPika": false
         }
       ]
     }
