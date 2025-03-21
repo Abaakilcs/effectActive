@@ -569,7 +569,7 @@
         }
       ]
     },
-    {
+     {
       "sectionTitle": "Gaming Inspired",
       "containers": [
         {
@@ -578,10 +578,17 @@
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "316139945292864",
           "effectPrompt": "Put on the mask. The game begins now.",
-          "isPaid": false,
-          "isPika": false
+          "isPaid": false
         },
         {
           "title": "Young-hee's Gaze",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squiddoll_250115_1.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "317013620689664",
+          "effectPrompt": "Red Light, Green Light",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}
