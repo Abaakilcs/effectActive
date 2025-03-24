@@ -122,6 +122,15 @@
           "isPika": false
         },
         {
+          "title": "Minions Takeover!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minion_250312.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "326911344716672",
+          "effectPrompt": "Your little buddies got you styled!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
           "title": "Night Night",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sleep_250314.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
@@ -301,6 +310,74 @@
           "effectPrompt": "Leprechaun Me",
           "isPaid": true,
           "isPika": true
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Marvel Fantasy",
+      "containers": [
+        {
+          "title": "We Are Venom!",
+          "image": "https://upload.orotv.shop/uploads/1740671604668-540382581.gif",
+          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
+          "effectID": "303624537709312",
+          "effectPrompt": "Transform into a [BLACK] Venom",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Hulk",
+          "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
+          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
+          "effectID": "304826314164992",
+          "effectPrompt": "Unleash the Beast",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Wonder Woman",
+          "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
+          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
+          "effectID": "309283958194560",
+          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Iron Man",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ironman.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304826054394624",
+          "effectPrompt": "Activate Iron Mode",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Batman",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_batman.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304826374632192",
+          "effectPrompt": "Transform into a Batman and embrace the night",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "COLORFUL Venom!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_colorfulvenom.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs", 
+          "effectID": "304358279051648",
+          "effectPrompt": "Transform into a [COLORFUL] Venom",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Get a Venom buddy",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_venombuddy.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "306059795500352",
+          "effectPrompt": "Your Venom buddy appears and gives you a hug",
+          "isPaid": false,
+          "isPika": false
         }
       ]
     },
@@ -639,7 +716,62 @@
           "isPika": true
           }
       ]
-    }
+    }, 
+    {
+  "sectionTitle": "Villains & Heroes",
+  "containers": [
+    {
+      "title": "Joker's Rebirth",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jokerrebirth.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "304826126435072",
+      "effectPrompt": "Transform into a Joker",
+      "isPaid": false,
+      "isPika": false
+    },
+    {
+      "title": "Hot Harley Quinn",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_harleyquinn.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "307489434436288",
+      "effectPrompt": "Transform into Harley Quinn, mastering allure and chaos",
+      "isPaid": false,
+      "isPika": false
+    },
+    {
+      "title": "Crazy Cat Woman",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_catwoman.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "307489548427968", 
+      "effectPrompt": "Transform into a Crazy Cat Woman and slay",
+      "isPaid": false,
+      "isPika": false
+      }
+    ]
+   },
+    {
+  "sectionTitle": "Gaming Inspired",
+  "containers": [
+    {
+      "title": "Squid Game",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squid_250115.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "316139945292864",
+      "effectPrompt": "Put on the mask. The game begins now.",
+      "isPaid": true,
+      "isPika": false
+    },
+    {
+      "title": "Young-hee's Gaze",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squiddoll_250115_1.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "317013620689664",
+      "effectPrompt": "Red Light, Green Light",
+      "isPaid": true,
+       "isPika": false
+      }
+    ]
+   }
   ]
 }
 
