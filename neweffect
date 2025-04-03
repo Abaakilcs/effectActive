@@ -1,28 +1,6 @@
 {
   "sections": [
     {
-      "sectionTitle": “Trending Anime Style”,
-    "containers": [
-{
-"title": "Ghibli Live!",
-"image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-"blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-"effectID": "330523675191680",
-"effectPrompt": "Turn your photo into a living Ghibli story!",
-"isPaid": true,
-"isPika": false
-},
-{
-"title": "Ghibli Magic",
-"image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.gif",
-"blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-"effectID": "330688573362560",
-"effectPrompt": "Turn your photo into a Ghibli-style masterpiece!",
-"isPaid": true,
-"isPika": false
-}
-]
-},
       "sectionTitle": "Kiss or Hug",
       "containers": [
         {
