@@ -1,58 +1,8 @@
 {
   "sections": [
     {
-      "sectionTitle": "Trending Anime Style",
-      "containers": [
-        {
-          "title": "Anime Live!",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "330523675191680",
-          "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Anime Magic",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "330688573362560",
-          "effectPrompt": "Turn your photo into a Ghibli-style masterpiece!",
-          "isPaid": true,
-          "isPika": false
-        }
-      ]
-    },
-    {
       "sectionTitle": "Kiss or Hug",
       "containers": [
-        {
-          "title": "Kiss Your Partner",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "315446315336768",
-          "effectPrompt": "Kiss each other",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Hug Your Partner",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L9Fqdg00~V0g;JXnnhRk01x^R5%M",
-          "effectID": "303624424723200",
-          "effectPrompt": "Hug each other",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Kiss Me, AI!",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321958627120000",
-          "effectPrompt": "No Lover? Get an AI Sweetheart!",
-          "isPaid": true,
-          "isPika": false
-        },
         {
           "title": "Crazy in Love",
           "image": "https://upload.orotv.shop/uploads/1742602585770-382468112.gif",
@@ -118,51 +68,6 @@
       "sectionTitle": "Trending..",
       "containers": [
         {
-          "title": "Let's Dance!",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
-          "effectID": "324641581197696",
-          "effectPrompt": "Everyone, join the Disco Party Jam!",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "360° Microwave",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
-          "effectID": "324641385496960",
-          "effectPrompt": "Rotate 360 degrees in the microwave oven",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Jellycat Everything",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L6F;=%*003000Kv}5Rx]%$-;-7RP",
-          "effectID": "324640938615168",
-          "effectPrompt": "Transform into a cute, cuddly plush toy!",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Minions Takeover!",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "326911344716672",
-          "effectPrompt": "Your little buddies got you styled!",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Night Night",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "327306291348352",
-          "effectPrompt": "It's time to take a good rest",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
           "title": "VIP Me",
           "image": "https://upload.orotv.shop/uploads/1742596031752-227144077.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
@@ -185,51 +90,6 @@
     {
       "sectionTitle": "Transform Me",
       "containers": [
-        {
-          "title": "Muscle Surge",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L4BogT~A000LMdIpyC%L01Rk^*%1",
-          "effectID": "308621408717184",
-          "effectPrompt": "Show off your strong muscles and have everyone hooked.",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Bikini Up!",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LFB:?Ixt_Nt7IUM{9GWWR*of%Lt6",
-          "effectID": "313555098280384",
-          "effectPrompt": "Catch the wave, rock that bikini vibe!",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Baby Face",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
-          "effectID": "315446232403008",
-          "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Gender Swap",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "323578865822784",
-          "effectPrompt": "Change your gender with one click",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Vogue Walk",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "322852853601344",
-          "effectPrompt": "Walk like a supermodel and shine brighter than ever",
-          "isPaid": false,
-          "isPika": false
-        },
         {
           "title": "Baby Me",
           "image": "https://upload.orotv.shop/uploads/1742517112517-640341305.gif",
@@ -337,103 +197,8 @@
       ]
     },
     {
-      "sectionTitle": "Marvel Fantasy",
-      "containers": [
-        {
-          "title": "We Are Venom!",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
-          "effectID": "303624537709312",
-          "effectPrompt": "Transform into a [BLACK] Venom",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Hulk",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
-          "effectID": "304826314164992",
-          "effectPrompt": "Unleash the Beast",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Wonder Woman",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
-          "effectID": "309283958194560",
-          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Iron Man",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826054394624",
-          "effectPrompt": "Activate Iron Mode",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Batman",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826374632192",
-          "effectPrompt": "Transform into a Batman and embrace the night",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "COLORFUL Venom!",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304358279051648",
-          "effectPrompt": "Transform into a [COLORFUL] Venom",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Get a Venom buddy",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "306059795500352",
-          "effectPrompt": "Your Venom buddy appears and gives you a hug",
-          "isPaid": false,
-          "isPika": false
-        }
-      ]
-    },
-    {
       "sectionTitle": "Animals & Creatures",
       "containers": [
-        {
-          "title": "The Tiger's Touch",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L5GIV=-h00=}0JIC$;--Te9aDj.7",
-          "effectID": "313649491716544",
-          "effectPrompt": "A giant tiger appears and snuggles up with you.",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Polar Bear Shock",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LgLVtZvz2wtQ}Ts9buWBr;X9$dj[",
-          "effectID": "325501134629952",
-          "effectPrompt": "A polar bear suddenly jumps out and hugs you",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Snake Snuggle",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Q%@,yD_l^R#rRj.7xasAs:9tNG",
-          "effectID": "313359048325568",
-          "effectPrompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
-          "isPaid": false,
-          "isPika": false
-        },
         {
           "title": "Puppy Me",
           "image": "https://upload.orotv.shop/uploads/1742595242861-863180372.gif",
@@ -448,42 +213,6 @@
     {
       "sectionTitle": "Object Manipulations",
       "containers": [
-        {
-          "title": "Squish It",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L6B537000y_NtR%M00%19F%2#SIU",
-          "effectID": "302325299692608",
-          "effectPrompt": "A pair of hands appears and squishes the [OBJECT] as if it's slime",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Lego Blast",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LGIFF?9aC,={rCn#Ac^h?a^gvzI=",
-          "effectID": "302325299702848",
-          "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Alive Art",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299721280",
-          "effectPrompt": "Make everything alive",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Leggy Run",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "302325299711040",
-          "effectPrompt": "The [OBJECT] grows legs and runs away",
-          "isPaid": false,
-          "isPika": false
-        },
         {
           "title": "Poke it",
           "image": "https://upload.orotv.shop/uploads/1742591601892-175609500.gif",
@@ -559,29 +288,6 @@
       ]
     },
     {
-      "sectionTitle": "Manipulate Your Hair",
-      "containers": [
-        {
-          "title": "Long Hair Magic",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L7G8v3RO00*0^gxv_NIT%#5[#600",
-          "effectID": "308552687706496",
-          "effectPrompt": "Grow lots of hair. Never be bald.",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Sheep Curls",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LRNci,4o~p?a%1M{D*M|WBaxRjIV",
-          "effectID": "310371322329472",
-          "effectPrompt": "Change hairstyle for a better mood",
-          "isPaid": false,
-          "isPika": false
-        }
-      ]
-    },
-    {
       "sectionTitle": "Visual Effects & Illusions",
       "containers": [
         {
@@ -624,7 +330,7 @@
           "title": "Inflate it",
           "image": "https://upload.orotv.shop/uploads/1742594320644-776047028.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-         "effectID": "Inflate it",
+          "effectID": "Inflate it",
           "effectPrompt": "Inflate it",
           "isPaid": true,
           "isPika": true
@@ -676,60 +382,6 @@
       "sectionTitle": "Feels Asian",
       "containers": [
         {
-          "title": "Black Myth: Wukong",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "LJIXWx=A_LH@5Y9Gt8Mx58-;IVNI",
-          "effectID": "313359209531840",
-          "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Chinese New Year Dress",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L7D9htpI0001}5I=pKV@-=SinMIA",
-          "effectID": "317013509917440",
-          "effectPrompt": "Have good luck in 2025",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Sailor Moon",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "313359138372032",
-          "effectPrompt": "Moon Prism Power, Make Up!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Nezha: Wild Flame",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321956534408064",
-          "effectPrompt": "Transform into Nezha and fight against fate!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Aobing: Icy Frost",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321957680919424",
-          "effectPrompt": "Transform into Aobing and fight for my own path!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "God of Wealth",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "313358844899776",
-          "effectPrompt": "Wear the Wealth Armor and have a prosperous New Year!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
           "title": "Jungle Me",
           "image": "https://upload.orotv.shop/uploads/1742596120408-436218897.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
@@ -737,61 +389,6 @@
           "effectPrompt": "Jungle Me",
           "isPaid": true,
           "isPika": true
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Villains & Heroes",
-      "containers": [
-        {
-          "title": "Joker's Rebirth",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826126435072",
-          "effectPrompt": "Transform into a Joker",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Hot Harley Quinn",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "307489434436288",
-          "effectPrompt": "Transform into Harley Quinn, mastering allure and chaos",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Crazy Cat Woman",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "307489548427968",
-          "effectPrompt": "Transform into a Crazy Cat Woman and slay",
-          "isPaid": false,
-          "isPika": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Gaming Inspired",
-      "containers": [
-        {
-          "title": "Squid Game",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "316139945292864",
-          "effectPrompt": "Put on the mask. The game begins now.",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Young-hee's Gaze",
-          "image": "https://upload.orotv.shop/uploads/1744491603474-319191481.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "317013620689664",
-          "effectPrompt": "Red Light, Green Light",
-          "isPaid": true,
-          "isPika": false
         }
       ]
     }
