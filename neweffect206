@@ -24,56 +24,6 @@
       ]
       },
     {
-      "sectionTitle": "Romantic Gestures",
-      "containers": [
-        {
-          "title": "Cupid Strike",
-          "image": "https://upload.orotv.shop/uploads/1742602613686-178100277.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "Cupid Strike",
-          "effectPrompt": "Cupid Strike",
-          "isPaid": true,
-          "isPika": true
-        },
-        {
-          "title": "Proposal",
-          "image": "https://upload.orotv.shop/uploads/1742602643072-737880099.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "Proposal",
-          "effectPrompt": "Proposal",
-          "isPaid": true,
-          "isPika": true
-        },
-        {
-          "title": "Love Bomb",
-          "image": "https://upload.orotv.shop/uploads/1742602671865-803341848.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "Love Bomb",
-          "effectPrompt": "Love Bomb",
-          "isPaid": true,
-          "isPika": true
-        },
-        {
-          "title": "Hearts Bouquet",
-          "image": "https://upload.orotv.shop/uploads/1742602694740-452853680.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "Hearts Bouquet",
-          "effectPrompt": "Hearts Bouquet",
-          "isPaid": true,
-          "isPika": true
-        },
-        {
-          "title": "Rose",
-          "image": "https://upload.orotv.shop/uploads/1742602537691-43934485.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "Rose",
-          "effectPrompt": "Rose",
-          "isPaid": true,
-          "isPika": true
-        }
-      ]
-    },
-    {
       "sectionTitle": "Trending..",
       "containers": [
         {
@@ -86,7 +36,7 @@
           "isPika": false
         },
         {
-          "title": "360° Microwave",
+          "title": "360 Microwave",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.gif",
           "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
           "effectID": "324641385496960",
@@ -145,29 +95,11 @@
           "isPika": false
         },
         {
-          "title": "Bikini Up!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.gif",
-          "blurHash": "LFB:?Ixt_Nt7IUM{9GWWR*of%Lt6",
-          "effectID": "313555098280384",
-          "effectPrompt": "Catch the wave, rock that bikini vibe!",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
           "title": "Baby Face",
           "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
           "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
           "effectID": "315446232403008",
           "effectPrompt": "Take off the mask and return to childhood",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Gender Swap",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_genderchange_250221.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "323578865822784",
-          "effectPrompt": "Change your gender with one click",
           "isPaid": false,
           "isPika": false
         },
