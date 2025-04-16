@@ -28,7 +28,7 @@
       "containers": [
         {
           "title": "Kiss Your Partner",
-          "image": "https://useapi.net/docs/api-pixverse-v2/get-pixverse-videos-effects",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss_250113.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "315446315336768",
           "effectPrompt": "Kiss each other",
