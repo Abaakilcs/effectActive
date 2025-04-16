@@ -1,10 +1,10 @@
 {
   "sections": [
-     {
+    {
       "sectionTitle": "Trending Anime Style",
       "containers": [
         {
-          "title": "Anime Live!",
+          "title": "Ghibli Live!",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "330523675191680",
@@ -13,7 +13,7 @@
           "isPika": false
         },
         {
-          "title": "Anime Magic",
+          "title": "Ghibli Magic",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "330688573362560",
@@ -22,7 +22,98 @@
           "isPika": false
         }
       ]
-      },
+    },
+        {
+      "sectionTitle": "Kiss or Hug",
+      "containers": [
+        {
+          "title": "Kiss Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1742180048616-421337023.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "315446315336768",
+          "effectPrompt": "Kiss each other",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Hug Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1742180069008-913500857.gif",
+          "blurHash": "L9Fqdg00~V0g;JXnnhRk01x^R5%M",
+          "effectID": "303624424723200",
+          "effectPrompt": "Hug each other",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Kiss Me, AI!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "321958627120000",
+          "effectPrompt": "No Lover? Get an AI Sweetheart!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Crazy in Love",
+          "image": "https://upload.orotv.shop/uploads/1742602585770-382468112.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "Crazy in Love",
+          "effectPrompt": "Crazy in Love",
+          "isPaid": true,
+          "isPika": true
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Romantic Gestures",
+      "containers": [
+        {
+          "title": "Cupid Strike",
+          "image": "https://upload.orotv.shop/uploads/1742602613686-178100277.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "Cupid Strike",
+          "effectPrompt": "Cupid Strike",
+          "isPaid": true,
+          "isPika": true
+        },
+        {
+          "title": "Proposal",
+          "image": "https://upload.orotv.shop/uploads/1742602643072-737880099.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "Proposal",
+          "effectPrompt": "Proposal",
+          "isPaid": true,
+          "isPika": true
+        },
+        {
+          "title": "Love Bomb",
+          "image": "https://upload.orotv.shop/uploads/1742602671865-803341848.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "Love Bomb",
+          "effectPrompt": "Love Bomb",
+          "isPaid": true,
+          "isPika": true
+        },
+        {
+          "title": "Hearts Bouquet",
+          "image": "https://upload.orotv.shop/uploads/1742602694740-452853680.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "Hearts Bouquet",
+          "effectPrompt": "Hearts Bouquet",
+          "isPaid": true,
+          "isPika": true
+        },
+        {
+          "title": "Rose",
+          "image": "https://upload.orotv.shop/uploads/1742602537691-43934485.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "Rose",
+          "effectPrompt": "Rose",
+          "isPaid": true,
+          "isPika": true
+        }
+      ]
+    },
     {
       "sectionTitle": "Trending..",
       "containers": [
@@ -36,7 +127,7 @@
           "isPika": false
         },
         {
-          "title": "360 Microwave",
+          "title": "360° Microwave",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.gif",
           "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
           "effectID": "324641385496960",
@@ -50,6 +141,15 @@
           "blurHash": "L6F;=%*003000Kv}5Rx]%$-;-7RP",
           "effectID": "324640938615168",
           "effectPrompt": "Transform into a cute, cuddly plush toy!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Minions Takeover!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minion_250312.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "326911344716672",
+          "effectPrompt": "Your little buddies got you styled!",
           "isPaid": true,
           "isPika": false
         },
@@ -95,11 +195,29 @@
           "isPika": false
         },
         {
+          "title": "Bikini Up!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bikini_250218.gif",
+          "blurHash": "LFB:?Ixt_Nt7IUM{9GWWR*of%Lt6",
+          "effectID": "313555098280384",
+          "effectPrompt": "Catch the wave, rock that bikini vibe!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
           "title": "Baby Face",
           "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
           "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
           "effectID": "315446232403008",
           "effectPrompt": "Take off the mask and return to childhood",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Gender Swap",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_genderchange_250221.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "323578865822784",
+          "effectPrompt": "Change your gender with one click",
           "isPaid": false,
           "isPika": false
         },
@@ -215,6 +333,74 @@
           "effectPrompt": "Leprechaun Me",
           "isPaid": true,
           "isPika": true
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Marvel Fantasy",
+      "containers": [
+        {
+          "title": "We Are Venom!",
+          "image": "https://upload.orotv.shop/uploads/1740671604668-540382581.gif",
+          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
+          "effectID": "303624537709312",
+          "effectPrompt": "Transform into a [BLACK] Venom",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Hulk",
+          "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
+          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
+          "effectID": "304826314164992",
+          "effectPrompt": "Unleash the Beast",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Wonder Woman",
+          "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
+          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
+          "effectID": "309283958194560",
+          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Iron Man",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ironman.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304826054394624",
+          "effectPrompt": "Activate Iron Mode",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Batman",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_batman.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304826374632192",
+          "effectPrompt": "Transform into a Batman and embrace the night",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "COLORFUL Venom!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_colorfulvenom.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs", 
+          "effectID": "304358279051648",
+          "effectPrompt": "Transform into a [COLORFUL] Venom",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Get a Venom buddy",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_venombuddy.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "306059795500352",
+          "effectPrompt": "Your Venom buddy appears and gives you a hug",
+          "isPaid": false,
+          "isPika": false
         }
       ]
     },
@@ -553,7 +739,62 @@
           "isPika": true
           }
       ]
-    }
+    }, 
+    {
+  "sectionTitle": "Villains & Heroes",
+  "containers": [
+    {
+      "title": "Joker's Rebirth",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jokerrebirth.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "304826126435072",
+      "effectPrompt": "Transform into a Joker",
+      "isPaid": false,
+      "isPika": false
+    },
+    {
+      "title": "Hot Harley Quinn",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_harleyquinn.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "307489434436288",
+      "effectPrompt": "Transform into Harley Quinn, mastering allure and chaos",
+      "isPaid": false,
+      "isPika": false
+    },
+    {
+      "title": "Crazy Cat Woman",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_catwoman.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "307489548427968", 
+      "effectPrompt": "Transform into a Crazy Cat Woman and slay",
+      "isPaid": false,
+      "isPika": false
+      }
+    ]
+   },
+    {
+  "sectionTitle": "Gaming Inspired",
+  "containers": [
+    {
+      "title": "Squid Game",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squid_250115.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "316139945292864",
+      "effectPrompt": "Put on the mask. The game begins now.",
+      "isPaid": true,
+      "isPika": false
+    },
+    {
+      "title": "Young-hee's Gaze",
+      "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squiddoll_250115_1.gif",
+      "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+      "effectID": "317013620689664",
+      "effectPrompt": "Red Light, Green Light",
+      "isPaid": true,
+       "isPika": false
+      }
+    ]
+   }
   ]
 }
 
