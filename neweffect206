@@ -20,6 +20,15 @@
           "effectPrompt": "Turn your photo into a Ghibli-style masterpiece!",
           "isPaid": true,
           "isPika": false
+        },
+        {
+          "title": "Retro Anime Pop",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "332758365690624",
+          "effectPrompt": "Pop yourself into a retro anime world!",
+          "isPaid": true,
+          "isPika": false
         }
       ]
     },
@@ -28,7 +37,7 @@
       "containers": [
         {
           "title": "Kiss Your Partner",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss_250113.gif",
+          "image": "https://upload.orotv.shop/uploads/1742180048616-421337023.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "315446315336768",
           "effectPrompt": "Kiss each other",
@@ -37,7 +46,7 @@
         },
         {
           "title": "Hug Your Partner",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hugyourlove.gif",
+          "image": "https://upload.orotv.shop/uploads/1742180069008-913500857.gif",
           "blurHash": "L9Fqdg00~V0g;JXnnhRk01x^R5%M",
           "effectID": "303624424723200",
           "effectPrompt": "Hug each other",
@@ -67,6 +76,15 @@
     {
       "sectionTitle": "Romantic Gestures",
       "containers": [
+        {
+          "title": "Forever Us",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fwedding_250321.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "326733946317888",
+          "effectPrompt": "Enjoy your wedding with the one you love most",
+          "isPaid": true,
+          "isPika": false
+        },
         {
           "title": "Cupid Strike",
           "image": "https://upload.orotv.shop/uploads/1742602613686-178100277.gif",
@@ -118,11 +136,20 @@
       "sectionTitle": "Trending..",
       "containers": [
         {
-          "title": "Let's Dance!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250316.gif",
+          "title": "Suit Try on",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_suit_250321.gif",
           "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
-          "effectID": "324641581197696",
-          "effectPrompt": "Everyone, join the Disco Party Jam!",
+          "effectID": "328545151283968",
+          "effectPrompt": "Suit up and be a real gentleman",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Money Tornado",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_money360_250326.gif",
+          "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
+          "effectID": "327829606196096",
+          "effectPrompt": "Money rains down, enjoy the wealth storm!",
           "isPaid": true,
           "isPika": false
         },
@@ -182,16 +209,57 @@
         }
       ]
     },
+     {
+      "sectionTitle": "Dancing",
+      "containers": [
+        {
+          "title": "Let's Dance!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250316.gif",
+          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
+          "effectID": "324641581197696",
+          "effectPrompt": "Everyone, join the Disco Party Jam!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Subject 3 Fever",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_subject3_250318.gif",
+          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
+          "effectID": "327828816843648",
+          "effectPrompt": "Subject 3 dance takes the world by storm!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Emergency Beat",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_emergency_250409.gif",
+          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
+          "effectID": "331864971269184",
+          "effectPrompt": "Emergency on the dance floor — time to slay!",
+          "isPaid": true,
+          "isPika": false
+        }
+      ]
+    },
     {
       "sectionTitle": "Transform Me",
       "containers": [
         {
           "title": "Muscle Surge",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_musclesurge.gif",
+          "image": "https://upload.orotv.shop/uploads/1742180009825-439113743.gif",
           "blurHash": "L4BogT~A000LMdIpyC%L01Rk^*%1",
           "effectID": "308621408717184",
           "effectPrompt": "Show off your strong muscles and have everyone hooked.",
           "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Huge Cutie",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hugecutie_250327.gif",
+          "blurHash": "LFB:?Ixt_Nt7IUM{9GWWR*of%Lt6",
+          "effectID": "329607251526400",
+          "effectPrompt": "Transform into an urban giant!",
+          "isPaid": true,
           "isPika": false
         },
         {
@@ -205,7 +273,7 @@
         },
         {
           "title": "Baby Face",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babyface_250113.gif",
+          "image": "https://upload.orotv.shop/uploads/1738859876783-419225134.gif",
           "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
           "effectID": "315446232403008",
           "effectPrompt": "Take off the mask and return to childhood",
