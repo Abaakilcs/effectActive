@@ -13,6 +13,33 @@
           "isPika": false
         },
         {
+          "title": "Mint Tool Box",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_toyfigure_250421.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "333134794738752",
+          "effectPrompt": "Sealed, styled, and ready for display.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Simpsons",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_simpson_250410.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "331927590628416",
+          "effectPrompt": "You're yellow, I'm yellow — Welcome to Springfield!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Clay Fool",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clay_250423.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "334237192507776",
+          "effectPrompt": "Turn into a wobbly wonder",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
           "title": "Ghibli Magic",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
@@ -222,6 +249,15 @@
           "isPika": false
         },
         {
+          "title": "Jiggle",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
+          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
+          "effectID": "333178074897472",
+          "effectPrompt": "Twist your waist, clap your hands, turn around and follow the beat.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
           "title": "Subject 3 Fever",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_subject3_250318.gif",
           "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
@@ -277,6 +313,15 @@
           "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
           "effectID": "315446232403008",
           "effectPrompt": "Take off the mask and return to childhood",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Transition",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.gif",
+          "blurHash": "LXKBRTD*pyRj?bxtoeofWn%1nNRk",
+          "effectID": "334005897813056",
+          "effectPrompt": "You can become anyone you want",
           "isPaid": false,
           "isPika": false
         },
@@ -356,6 +401,15 @@
           "effectPrompt": "Royal Me",
           "isPaid": true,
           "isPika": true
+        },
+        {
+          "title": "KILL BILL",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_killbill_250424.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "333181805861952",
+          "effectPrompt": "Swing the blade. Make the cut.",
+          "isPaid": true,
+          "isPika": false
         },
         {
           "title": "Zen Me",
