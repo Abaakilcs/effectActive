@@ -1,0 +1,33 @@
+{
+  "tabs": [
+    {
+      "tabTitle": "Effect",
+      "sections": [
+        {
+          "sectionTitle": "Cartoon Yourself",
+          "effects": [
+                        {
+           "title": "Ghibli Live!",
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", //  this is a gif full hd but in small box container size
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", // this is also a gif full hd and take up the whole screen 
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", // this is image to put in some places 
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "isittwopersons": true,
+          "isImageAI": true,
+          "isPika": false,
+          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png",
+        }
+          ]
+        },
+        {
+          "sectionTitle": "Sweet Wishes",
+          "effects": [
+            
+          ]
+        }
+      ]
+    }
+
+  ]
+}
