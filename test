@@ -8,9 +8,9 @@
           "effects": [
                         {
            "title": "Ghibli Live!",
-           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", //  this is a gif full hd but in small box container size
-          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", // this is also a gif full hd and take up the whole screen 
-          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", // this is image to put in some places 
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",  
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
           "isittwopersons": true,
@@ -25,9 +25,9 @@
           "effects": [
           {
            "title": "Ghibli Live!",
-           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", //  this is a gif full hd but in small box container size
-          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", // this is also a gif full hd and take up the whole screen 
-          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", // this is image to put in some places 
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",  
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
           "isittwopersons": true,
