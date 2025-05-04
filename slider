@@ -1,0 +1,14 @@
+{
+  "slider1": {
+    "name": "Welcome Slide",
+    "link": "https://example.com/slider1.jpg"
+  },
+  "slider2": {
+    "name": "Features Slide",
+    "link": "https://example.com/slider2.jpg"
+  },
+  "slider3": {
+    "name": "Get Started Slide",
+    "link": "https://example.com/slider3.jpg"
+  }
+}
