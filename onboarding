@@ -1,12 +1,12 @@
 {
-  "onboarding1_1": {
+  "onboarding1": {
     "imageBefore": "https://example.com/image1.jpg",
     "VideoUrl": "https://example.com/video1.mp4"
   },
   "onboarding2": {
     "VideoUrl": "https://example.com/video2.mp4"
   },
-  "onboarding1_2": {
+  "onboarding3": {
     "imageBefore": "https://example.com/image2.jpg",
     "VideoUrl": "https://example.com/video3.mp4"
   }
