@@ -7,39 +7,28 @@
           "sectionTitle": "Cartoon Yourself",
           "effects": [
            {
-           "title": "test 1",
-           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
-          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "title": "test 1",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "isittwopersons": true,
-          "isImageAI": true,
-          "isPika": false,
-          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
-        },
-        {
-           "title": "test 2",
-           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
-          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "type": "Pika.art",
+            },
+           {
+          "title": "test 1",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "isittwopersons": true,
-          "isImageAI": true,
-          "isPika": false,
-          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
-        }
+          "type": "PixVerse",
+            }
           ]
         },
         {
           "sectionTitle": "Sweet Wishes",
           "effects": [
           {
-           "title": "Ghibli Live!",
-           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "title": "Ghibli Live!",
+          "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png",
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
           "isittwopersons": true,
