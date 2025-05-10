@@ -4,11 +4,11 @@
   "tabTitle": "Effects",
   "sections": [
     {
-      "sectionTitle": "Epic Transformations",
+      "sectionTitle": "Transformations",
       "effects": [
         {
-          "title": "360\u00b0 Microwave",
-          "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd3ae6762-9b57-45ba-8c85-7127c9a206c2_seed1760657503.mp4",
+          "title": "360 Microwave",
+          "video": "https://upload.orotv.shop/videos/1746342263834-100124390.mp4",
           "effectID": 324641385496960,
           "effectPrompt": "Rotate 360 degrees in the microwave oven",
           "type": "PixVerse"
