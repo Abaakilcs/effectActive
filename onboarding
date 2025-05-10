@@ -1,17 +1,17 @@
 {
   "onboarding1": {
     "imageBefore": "https://example.com/image1.jpg",
-    "VideoUrl": "https://example.com/video1.mp4",
-    "Text": "https://example.com/video1.mp4"
+    "VideoUrl": "https://upload.orotv.shop/videos/1746342263834-100124390.mp4",
+    "Text": "text for page 1"
 
   },
   "onboarding2": {
-    "VideoUrl": "https://example.com/video1.mp4",
-    "Text": "https://example.com/video1.mp4"
+    "VideoUrl": "https://upload.orotv.shop/videos/1746342263834-100124390.mp4",
+    "Text": "text for page 2"
   },
   "onboarding3": {
     "imageBefore": "https://example.com/image2.jpg",
-    "VideoUrl": "https://example.com/video3.mp4"
+    "VideoUrl": "https://upload.orotv.shop/videos/1746342263834-100124390.mp4"
   }
 }
 
