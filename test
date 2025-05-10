@@ -8,14 +8,14 @@
           "effects": [
            {
           "title": "test 1",
-          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "video": "https://cdn.pika.art/v1/80c21b87-b119-47b4-9e9e-68461734cc92/Crumble_it_seed1479857820.mp4", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
           "type": "Pika.art"
             },
            {
           "title": "test 1",
-          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "video": "https://cdn.pika.art/v1/751ce511-5773-490a-8c80-a78ff6b6b2ba/Cake-ify_it_seed949612924.mp4", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
           "type": "PixVerse"
@@ -27,7 +27,7 @@
           "effects": [
            {
           "title": "test 3",
-          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "video": "https://cdn.pika.art/v1/0ff9f273-9e45-4014-942b-bcae15a8eeac/Crush_it_seed1634394166.mp4", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
           "type": "PixVerse"
