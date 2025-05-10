@@ -89,7 +89,7 @@
     },
 
    {
-      "tabTitle": "frames",
+      "tabTitle": "image2video",
       "sections": [
         {
           "sectionTitle": "bCool Transitions 1",
@@ -140,7 +140,7 @@
       ]
     },
 {
-      "tabTitle": "image2video",
+      "tabTitle": "frames",
       "sections": [
         {
           "sectionTitle": "baali",
