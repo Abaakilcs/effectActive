@@ -149,13 +149,13 @@
           "title": "test 1",
           "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "type": "AIimages",
+          "type": "AIimages"
             },
           {
           "title": "test 2",
           "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "type": "AIimages",
+          "type": "AIimages"
             }
           ]
         },
@@ -200,13 +200,13 @@
           "title": "test 1",
           "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "type": "AIimages",
+          "type": "AIimages"
             },
           {
           "title": "test 2",
           "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "type": "AIimages",
+          "type": "AIimages"
             }
           ]
         },
