@@ -1,7 +1,7 @@
 {
   "tabs": [
     {
-      "tabTitle": "Effect",
+      "tabTitle": "Effects",
       "sections": [
         {
           "sectionTitle": "Cartoon Yourself",
@@ -11,14 +11,14 @@
           "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "type": "Pika.art",
+          "type": "Pika.art"
             },
            {
           "title": "test 1",
           "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "type": "PixVerse",
+          "type": "PixVerse"
             }
           ]
         },
@@ -30,7 +30,7 @@
           "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
           "effectID": "330523675191680",
           "effectPrompt": "Turn your photo into a living Ghibli story!",
-          "type": "PixVerse",
+          "type": "PixVerse"
             }
           ]
         }
@@ -38,6 +38,160 @@
     },
         {
       "tabTitle": "aiimages",
+      "sections": [
+        {
+          "sectionTitle": "baali",
+          "effects": [
+          {
+          "title": "test 1",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "type": "AIimages"
+            },
+          {
+          "title": "test 2",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "type": "AIimages"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "yabala",
+          "effects": [
+          {
+           "title": "Ghibli Live!",
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",  
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "isittwopersons": true,
+          "isImageAI": true,
+          "isPika": false,
+          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
+          },
+        {
+           "title": "Live! 2",
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "isittwopersons": true,
+          "isImageAI": true,
+          "isPika": false,
+          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
+        }
+          ]
+        }
+      ]
+    },
+
+   {
+      "tabTitle": "frames",
+      "sections": [
+        {
+          "sectionTitle": "bCool Transitions 1",
+          "effects": [
+          {
+          "title": "test 1",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "type": "AIimages"
+            },
+          {
+          "title": "test 2",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "type": "AIimages"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Cool Transitions 2",
+          "effects": [
+          {
+           "title": "Ghibli Live!",
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",  
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "isittwopersons": true,
+          "isImageAI": true,
+          "isPika": false,
+          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
+          },
+        {
+           "title": "Live! 2",
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "isittwopersons": true,
+          "isImageAI": true,
+          "isPika": false,
+          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
+        }
+          ]
+        }
+      ]
+    },
+{
+      "tabTitle": "image2video",
+      "sections": [
+        {
+          "sectionTitle": "baali",
+          "effects": [
+          {
+          "title": "test 1",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "type": "AIimages",
+            },
+          {
+          "title": "test 2",
+          "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "type": "AIimages",
+            }
+          ]
+        },
+        {
+          "sectionTitle": "yabala",
+          "effects": [
+          {
+           "title": "Ghibli Live!",
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",  
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "isittwopersons": true,
+          "isImageAI": true,
+          "isPika": false,
+          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
+          },
+        {
+           "title": "Live! 2",
+           "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif", 
+          "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png", 
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living Ghibli story!",
+          "isittwopersons": true,
+          "isImageAI": true,
+          "isPika": false,
+          "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png"
+        }
+          ]
+        }
+      ]
+    },
+{
+      "tabTitle": "text2video",
       "sections": [
         {
           "sectionTitle": "baali",
