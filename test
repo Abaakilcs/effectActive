@@ -964,18 +964,25 @@
       "tabTitle": "aiimages",
       "sections": [
         {
-          "sectionTitle": "baali",
+          "sectionTitle": "Cartoon and Toys",
           "effects": [
             {
-              "title": "test 1",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
+              "title": "Ghibli-Style Image",
+              "video": "https://upload.orotv.shop/videos/ghibli.mp4",
               "effectPrompt": "Turn your photo into a living Ghibli story!",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271517177-275616803.jpg"
             },
             {
-              "title": "test 2",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
+              "title": "Toy Box",
+              "video": "https://upload.orotv.shop/videos/toybox.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
+            },
+            {
+              "title": "Pixar Style",
+              "video": "https://upload.orotv.shop/videos/Pixar.mp4",
               "effectPrompt": "Turn your photo into a living Ghibli story!",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
@@ -983,40 +990,35 @@
           ]
         },
         {
-          "sectionTitle": "yabala",
+          "sectionTitle": "Cartoon and Toys 2",
           "effects": [
             {
-              "title": "Ghibli Live!",
-              "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-              "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-              "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png",
-              "effectID": "330523675191680",
+              "title": "Ghibli-Style Image",
+              "video": "https://upload.orotv.shop/videos/ghibli.mp4",
               "effectPrompt": "Turn your photo into a living Ghibli story!",
-              "isittwopersons": true,
-              "isImageAI": true,
-              "isPika": false,
-              "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png",
-              "thumbnail": ""
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271517177-275616803.jpg"
             },
             {
-              "title": "Live! 2",
-              "gifBox": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-              "gifPortrait": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
-              "imageBefore": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png",
-              "effectID": "330523675191680",
+              "title": "Toy Box",
+              "video": "https://upload.orotv.shop/videos/toybox.mp4",
               "effectPrompt": "Turn your photo into a living Ghibli story!",
-              "isittwopersons": true,
-              "isImageAI": true,
-              "isPika": false,
-              "pikaLastframe": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.png",
-              "thumbnail": ""
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
+            },
+            {
+              "title": "Pixar Style",
+              "video": "https://upload.orotv.shop/videos/Pixar.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
             }
           ]
         }
       ]
     },
     {
-      "tabTitle": "image2video",
+      "tabTitle": "aivideo",
       "sections": [
         {
           "sectionTitle": "bCool Transitions 1",
