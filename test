@@ -990,6 +990,32 @@
           ]
         },
         {
+          "sectionTitle": "Cartoon and Toys",
+          "effects": [
+            {
+              "title": "Ghibli-Style Image",
+              "video": "https://upload.orotv.shop/videos/ghibli.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271517177-275616803.jpg"
+            },
+            {
+              "title": "Toy Box",
+              "video": "https://upload.orotv.shop/videos/toybox.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
+            },
+            {
+              "title": "Pixar Style",
+              "video": "https://upload.orotv.shop/videos/Pixar.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
+            }
+          ]
+        },
+        {
           "sectionTitle": "Cartoon and Toys 2",
           "effects": [
             {
