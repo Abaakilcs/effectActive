@@ -8,11 +8,11 @@
           "effects": [
             {
               "title": "360 Microwave",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd3ae6762-9b57-45ba-8c85-7127c9a206c2_seed1760657503.mp4",
+              "video": "https://upload.orotv.shop/videos/ghibli.mp4",
               "effectID": 324641385496960,
               "effectPrompt": "Rotate 360 degrees in the microwave oven",
               "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271466996-99814423.jpg"
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271516958-584366393.jpg" 
             },
             {
               "title": "Cake-ify it",
