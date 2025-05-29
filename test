@@ -1017,34 +1017,6 @@
           ]
         }
       ]
-        },
-         {
-          "sectionTitle": "More Anime Styles",
-          "effects": [
-            {
-              "title": "DreamWork Style",
-              "video": "https://upload.orotv.shop/videos/dreamworks.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
-              "type": "AIimages",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271517177-275616803.jpg"
-            },
-            {
-              "title": "Painting Style",
-              "video": "https://upload.orotv.shop/videos/anime.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
-              "type": "AIimages",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
-            },
-            {
-              "title": "Anime Style",
-              "video": "https://upload.orotv.shop/videos/painting.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
-              "type": "AIimages",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
-            }
-          ]
-        }
-      ]
     },
     {
       "tabTitle": "aivideo",
