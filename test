@@ -962,7 +962,8 @@
     },
     {
       "tabTitle": "aiimages",
-      "sections": [
+      "sections": 
+      [
         {
           "sectionTitle": "Cartoon and Toys",
           "effects": [
@@ -971,23 +972,51 @@
               "video": "https://upload.orotv.shop/videos/ghibli.mp4",
               "effectPrompt": "Turn your photo into a living Ghibli story!",
               "type": "AIimages",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271517177-275616803.jpg"
+              "thumbnail": "https://upload.orotv.shop/uploads/1748521229292-46084215.jpg"
             },
             {
               "title": "Toy Box",
               "video": "https://upload.orotv.shop/videos/toybox.mp4",
               "effectPrompt": "Turn your photo into a living Ghibli story!",
               "type": "AIimages",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
+              "thumbnail": "https://upload.orotv.shop/uploads/1748521229514-496693694.jpg"
             },
             {
               "title": "Pixar Style",
               "video": "https://upload.orotv.shop/videos/pixar.mp4",
               "effectPrompt": "Turn your photo into a living Ghibli story!",
               "type": "AIimages",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271517382-350573241.jpg"
+              "thumbnail": "https://upload.orotv.shop/uploads/1748521229740-636243363.jpg"
             }
           ]
+        },
+        {
+          "sectionTitle": "More Anime Styles",
+          "effects": [
+            {
+              "title": "DreamWork Style",
+              "video": "https://upload.orotv.shop/videos/dreamworks.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748521229938-808823914.jpg"
+            },
+            {
+              "title": "Painting Style",
+              "video": "https://upload.orotv.shop/videos/anime.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748521230150-802525262.jpg"
+            },
+            {
+              "title": "Anime Style",
+              "video": "https://upload.orotv.shop/videos/painting.mp4",
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748521230510-756185991.jpg"
+            }
+          ]
+        }
+      ]
         },
          {
           "sectionTitle": "More Anime Styles",
