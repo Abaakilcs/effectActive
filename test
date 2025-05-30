@@ -970,21 +970,21 @@
             {
               "title": "Ghibli-Style Image",
               "video": "https://upload.orotv.shop/videos/ghibli.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "effectPrompt": "Reimagine this image in the style of a Ghibli animation scene, with soft pastel tones, whimsical charm, and hand-drawn texture",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748521229292-46084215.jpg"
             },
             {
               "title": "Toy Box",
               "video": "https://upload.orotv.shop/videos/toybox.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "effectPrompt": "Turn this person into a realistic action figure inside a collector’s toy box, including accessories and packaging design",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748521229514-496693694.jpg"
             },
             {
               "title": "Pixar Style",
               "video": "https://upload.orotv.shop/videos/pixar.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "effectPrompt": "Transform this image into a Pixar-style 3D animation character with stylized proportions, bright lighting, and cinematic polish",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748521229740-636243363.jpg"
             }
@@ -996,21 +996,21 @@
             {
               "title": "DreamWork Style",
               "video": "https://upload.orotv.shop/videos/dreamworks.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "effectPrompt": "Transform this image into a 3D animated DreamWorks character with expressive facial features, vibrant lighting, and cinematic rendering",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748521229938-808823914.jpg"
             },
             {
               "title": "Painting Style",
               "video": "https://upload.orotv.shop/videos/anime.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "effectPrompt": "Turn this image into a detailed oil painting with rich textures and expressive brushstrokes, inspired by Van Gogh or classical artists",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748521230150-802525262.jpg"
             },
             {
               "title": "Anime Style",
               "video": "https://upload.orotv.shop/videos/painting.mp4",
-              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "effectPrompt": "Convert this image into a clean, vibrant anime style illustration with sharp lines, cell shading, and expressive anime eyes",
               "type": "AIimages",
               "thumbnail": "https://upload.orotv.shop/uploads/1748521230510-756185991.jpg"
             }
