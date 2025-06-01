@@ -3,19 +3,19 @@
     "imageBefore": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
     "VideoUrl": "https://upload.orotv.shop/videos/1748639264100-655355473.mp4",
     "thumbnail": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
-    "Text": "text for page 1"
+    "Text": "See your cartoon character"
 
   },
   "onboarding2": {
     "VideoUrl": "https://upload.orotv.shop/videos/1748557237710-286015621.mp4",
     "thumbnail": "https://upload.orotv.shop/videos/test11.mp4",
-    "Text": "Turn Your Image to All Styles"
+    "Text": "Kiss Your lover"
   },
   "onboarding3": {
-    "imageBefore": "https://example.com/image2.jpg",
-    "VideoUrl": "https://upload.orotv.shop/videos/test11.mp4",
-    "thumbnail": "https://upload.orotv.shop/videos/test11.mp4",
-    "Textup": "another test seter",
+    "imageBefore": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
+    "VideoUrl": "https://upload.orotv.shop/videos/1748557237710-286015621.mp4",
+    "thumbnail": "https://upload.orotv.shop/uploads/1748736491557-108037848.png",
+    "Textup": "Unleash your power",
     "Textdown": "text for page 2"
   }
 }
