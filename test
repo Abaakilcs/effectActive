@@ -682,7 +682,7 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1748271515361-581844926.jpg"
             },
             {
-              "title": "Snake Snuggle\n",
+              "title": "Snake Snuggle",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F5b497431-e2ef-45fd-800c-ea0f8fd21cc3_seed1484738985.mp4",
               "effectID": 313359048325568,
               "effectPrompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
@@ -690,7 +690,7 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1748271516260-704546799.jpg"
             },
             {
-              "title": "Kungfu Club\n",
+              "title": "Kungfu Club",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F9b4ae03d-5b50-4412-b9b5-c870095a2377_seed1530588576.mp4",
               "effectID": 315447659476032,
               "effectPrompt": "Let the battle begin",
@@ -709,7 +709,7 @@
           "sectionTitle": "Cartoon and Toys",
           "effects": [
             {
-              "title": "Ghibli-Style Image",
+              "title": "Anime-Retro Image",
               "video": "https://upload.orotv.shop/videos/ghibli.mp4",
               "effectPrompt": "Reimagine this image in the style of a Ghibli animation scene, with soft pastel tones, whimsical charm, and hand-drawn texture",
               "type": "AIimages",
@@ -723,7 +723,7 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1748521229514-496693694.jpg"
             },
             {
-              "title": "Pixar Style",
+              "title": "Cartoon Style",
               "video": "https://upload.orotv.shop/videos/pixar.mp4",
               "effectPrompt": "Transform this image into a Pixar-style 3D animation character with stylized proportions, bright lighting, and cinematic polish",
               "type": "AIimages",
