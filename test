@@ -65,6 +65,67 @@
           ]
         },
         {
+          "sectionTitle": "Cinematic Shots",
+          "effects": [
+            {
+              "title": "Hug Your Love",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c76b36d-6a7a-4de1-a4e5-fbb8f58ee659_seed1632518676.mp4",
+              "effectID": 303624424723200,
+              "effectPrompt": "Hug each other",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271513606-767191163.jpg"
+            },
+            {
+              "title": "Kiss Kiss",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa7a330e8-cdfc-4948-8cf6-541cba49bf28_seed1752510427.mp4",
+              "effectID": 315446315336768,
+              "effectPrompt": "Kiss each other",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271513848-315391064.jpg"
+            },
+            {
+              "title": "Subject 3 Fever",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86dc7d33-841d-4303-97bc-e644c9758205_seed1537586743.mp4",
+              "effectID": 327828816843648,
+              "effectPrompt": "Subject 3 dance takes the world by storm!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271511715-914331772.jpg"
+            },
+            {
+              "title": "The Tiger's Touch",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fcce4637f-dcb3-4b57-a9d5-0039d85439bd_seed1279182728.mp4",
+              "effectID": 313649491716544,
+              "effectPrompt": "A giant tiger appears and snuggles up with you.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271512008-46739559.jpg"
+            },
+            {
+              "title": "Born to Barbie",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fcce1f52c-ce3e-42ef-ae9b-fe26323045e6_seed502099998.mp4",
+              "effectID": 335261821526784,
+              "effectPrompt": "Join the Global Barbie Craze! \u2728",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271512316-4968510.jpg"
+            },
+            {
+              "title": "Kiss Me, AI!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86eacd94-b7ff-4d7c-a176-a571be752f27_seed612486461.mp4",
+              "effectID": 321958627120000,
+              "effectPrompt": "No Lover? Get an AI Sweetheart!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271514072-704454246.jpg"
+            },
+            {
+              "title": "Money Tornado",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F57372fd5-e023-4099-b82b-4af51bd14066_seed1254243651.mp4",
+              "effectID": 327829606196096,
+              "effectPrompt": "Money rains down, enjoy the wealth storm!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271514293-897589868.jpg"
+            }
+          ]
+        },
+        {
           "sectionTitle": "Funky Vibes",
           "effects": [
             {
@@ -841,67 +902,6 @@
               "effectPrompt": "A polar bear suddenly jumps out and hugs you",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271511452-745619231.jpg"
-            }
-          ]
-        },
-        {
-          "sectionTitle": "Cinematic Shots",
-          "effects": [
-            {
-              "title": "Subject 3 Fever",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86dc7d33-841d-4303-97bc-e644c9758205_seed1537586743.mp4",
-              "effectID": 327828816843648,
-              "effectPrompt": "Subject 3 dance takes the world by storm!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271511715-914331772.jpg"
-            },
-            {
-              "title": "The Tiger's Touch",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fcce4637f-dcb3-4b57-a9d5-0039d85439bd_seed1279182728.mp4",
-              "effectID": 313649491716544,
-              "effectPrompt": "A giant tiger appears and snuggles up with you.",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271512008-46739559.jpg"
-            },
-            {
-              "title": "Born to Barbie",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fcce1f52c-ce3e-42ef-ae9b-fe26323045e6_seed502099998.mp4",
-              "effectID": 335261821526784,
-              "effectPrompt": "Join the Global Barbie Craze! \u2728",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271512316-4968510.jpg"
-            },
-            {
-              "title": "Hug Your Love",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c76b36d-6a7a-4de1-a4e5-fbb8f58ee659_seed1632518676.mp4",
-              "effectID": 303624424723200,
-              "effectPrompt": "Hug each other",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271513606-767191163.jpg"
-            },
-            {
-              "title": "Kiss Kiss",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa7a330e8-cdfc-4948-8cf6-541cba49bf28_seed1752510427.mp4",
-              "effectID": 315446315336768,
-              "effectPrompt": "Kiss each other",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271513848-315391064.jpg"
-            },
-            {
-              "title": "Kiss Me, AI!",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86eacd94-b7ff-4d7c-a176-a571be752f27_seed612486461.mp4",
-              "effectID": 321958627120000,
-              "effectPrompt": "No Lover? Get an AI Sweetheart!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271514072-704454246.jpg"
-            },
-            {
-              "title": "Money Tornado",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F57372fd5-e023-4099-b82b-4af51bd14066_seed1254243651.mp4",
-              "effectID": 327829606196096,
-              "effectPrompt": "Money rains down, enjoy the wealth storm!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271514293-897589868.jpg"
             }
           ]
         },
