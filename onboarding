@@ -6,15 +6,18 @@
   },
   "onboarding2": {
     "VideoUrl": "https://cdn.pixabay.com/video/2023/02/16/150957-799711743_large.mp4",
-    "Text": "Kiss Your lover"
+    "Text": "Kiss Your lover",
+   "thumbnail": "https://upload.orotv.shop/uploads/1748736143455-494034520.png"
+    
   },
   "onboarding3": {
     "image": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
     "Text": "Unleash your power",
   },
-  "onboarding3": {
-    "image": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
-    "Text": "Unleash your power",
+  "onboarding4": {
+    "image1": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
+    "image2": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
+    "Text": "Unleash your power"
   }
 }
 
