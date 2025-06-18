@@ -68,22 +68,6 @@
           "sectionTitle": "Cinematic Shots",
           "effects": [
             {
-              "title": "Hug Your Love",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c76b36d-6a7a-4de1-a4e5-fbb8f58ee659_seed1632518676.mp4",
-              "effectID": 303624424723200,
-              "effectPrompt": "Hug each other",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271513606-767191163.jpg"
-            },
-            {
-              "title": "Kiss Kiss",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa7a330e8-cdfc-4948-8cf6-541cba49bf28_seed1752510427.mp4",
-              "effectID": 315446315336768,
-              "effectPrompt": "Kiss each other",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271513848-315391064.jpg"
-            },
-            {
               "title": "Subject 3 Fever",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86dc7d33-841d-4303-97bc-e644c9758205_seed1537586743.mp4",
               "effectID": 327828816843648,
