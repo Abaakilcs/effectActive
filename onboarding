@@ -11,7 +11,8 @@
     
   },
   "onboarding3": {
-    "image": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
+    "VideoUrl": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
+   "thumbnail": "https://upload.orotv.shop/uploads/1748736143455-494034520.png",
     "Text": "Unleash your power"
   },
   "onboarding4": {
