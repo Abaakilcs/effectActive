@@ -566,14 +566,6 @@
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271496809-801947413.jpg"
             },
-            {
-              "title": "Fire Roar",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F56d71e86-95ad-4869-849f-b78f5f2bc131_seed1457782325.mp4",
-              "effectID": 326607027713088,
-              "effectPrompt": "Unleash your inner flame",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271497093-975803980.jpg"
-            },
 
             {
               "title": "Holy Wings",
@@ -606,15 +598,6 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1748271501618-893503328.jpg"
             },
             {
-              "title": "Zombie Mode",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F2e8f92c2-56bb-4e26-acf2-44ef8ffae066_seed405750299.mp4",
-              "effectID": 302325299651648,
-              "effectPrompt": "The [SUBJECT] suddenly transforms into a zombie.",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271501847-167710031.jpg"
-            },
-
-            {
               "title": "Huge Cutie",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F9f6ad52d-a27c-438e-b1d8-03ea00543af7_seed1755554884.mp4",
               "effectID": 329607251526400,
@@ -637,28 +620,13 @@
               "effectPrompt": "Suit up and be a real gentleman",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271504520-211230416.jpg"
-            },
-            {
-              "title": "Vogue Walk",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc2bc6cbf-2b9f-4050-b70a-f1a005742a01_seed2076188134.mp4",
-              "effectID": 322852853601344,
-              "effectPrompt": "Walk like a supermodel and shine brighter than ever",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271504777-228330972.jpg"
             }
           ]
         },
         {
           "sectionTitle": "Dance Floor Fever",
           "effects": [
-            {
-              "title": "Baby Face",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa0de624a-6fe5-41d6-8886-51db0e24ab97_seed914441052.mp4",
-              "effectID": 315446232403008,
-              "effectPrompt": "Take off the mask and return to childhood",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271505021-846222308.jpg"
-            },
+
             {
               "title": "Lego Blast",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F704d8fff-f692-402b-9565-f42aca8ebe7b_seed996835961.mp4",
@@ -675,23 +643,6 @@
               "effectPrompt": "Puppy Me",
               "type": "Pika.art",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271505800-761932766.jpg"
-            },
-
-            {
-              "title": "Carnival Queen",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7f100ba3-37de-4bfc-b6f2-74a1f7aee15e_seed512263876.mp4",
-              "effectID": 325728504863808,
-              "effectPrompt": "Get the most eye-catching carnival costume in one second!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271507388-57843816.jpg"
-            },
-            {
-              "title": "Emergency Beat",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F29ef8b1d-9d20-4bde-80ba-bd55debeb8a9_seed1429573695.mp4",
-              "effectID": 331864971269184,
-              "effectPrompt": "Emergency on the dance floor \u2014 time to slay!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271508265-486473414.jpg"
             }
           ]
         },
@@ -784,36 +735,12 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1748271514842-585438043.jpg"
             },
             {
-              "title": "Warmth of Jesus",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fdf254ee2-16a6-46f4-b869-3cd1ea8e64bd_seed448608029.mp4",
-              "effectID": 316826014376384,
-              "effectPrompt": "Find peace in Jesus' arms.",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271515118-676368876.jpg"
-            },
-            {
               "title": "Retro Anime Pop",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F742073f2-0574-4321-a49e-391b6023a117_seed510891103.mp4",
               "effectID": 332758365690624,
               "effectPrompt": "Pop yourself into a retro anime world!",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271515361-581844926.jpg"
-            },
-            {
-              "title": "Snake Snuggle",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F5b497431-e2ef-45fd-800c-ea0f8fd21cc3_seed1484738985.mp4",
-              "effectID": 313359048325568,
-              "effectPrompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271516260-704546799.jpg"
-            },
-            {
-              "title": "Kungfu Club",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F9b4ae03d-5b50-4412-b9b5-c870095a2377_seed1530588576.mp4",
-              "effectID": 315447659476032,
-              "effectPrompt": "Let the battle begin",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271516958-584366393.jpg"
             }
           ]
         }
