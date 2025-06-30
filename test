@@ -465,14 +465,6 @@
               "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1748271505301-555301601.jpg"
-            },
-            {
-              "title": "Puppy Me",
-              "video": "https://cdn.pika.art/v1/c02e1be9-0d1c-4725-98ee-8b8828c3e96c/Puppy_Me_seed198862487.mp4",
-              "effectID": "Puppy Me",
-              "effectPrompt": "Puppy Me",
-              "type": "Pika.art",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271505800-761932766.jpg"
             }
           ]
         },
