@@ -15,6 +15,38 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1751454756950-133250738.png"
             },
             {
+              "title": "Neymar DJ Dance",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F75732365-00d7-4456-9146-c2a570d92d67_seed980343173.mp4",
+              "effectID": 343058215445568,
+              "effectPrompt": "Overly charming, let's possess this dance skills",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2Fae8422a5-7bfe-4bc6-8f41-ddd22c020259.jpg?x-oss-process=style/cover-webp"
+            },
+            {
+              "title": "Hands Up! Hands Up! ",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
+              "effectID": 343058324329536,
+              "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2F7cb99af3-1f4e-44c5-88f6-09f4320cf50b.jpg?x-oss-process=style/cover-webp"
+            },
+            {
+              "title": "Rainbow Moment",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fc53634-8b7c-4ab5-961a-c6e21deedc70_seed634978002.mp4",
+              "effectID": 340894729537344,
+              "effectPrompt": "Add rainbow to your world —pride shines all year",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2Ffc29976f-3294-418e-9ed6-ec0144882dce.jpg?x-oss-process=style/cover-webp"
+            },
+            {
+              "title": "Rainbow Moment",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fc53634-8b7c-4ab5-961a-c6e21deedc70_seed634978002.mp4",
+              "effectID": 340894729537344,
+              "effectPrompt": "Add rainbow to your world —pride shines all year",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2Ffc29976f-3294-418e-9ed6-ec0144882dce.jpg?x-oss-process=style/cover-webp"
+            },
+            {
               "title": "CCTV Me",
               "video": "https://cdn.pika.art/assets/pikaffects/cctv-me/video-0.mp4",
               "effectID": "CCTV Me",
