@@ -57,39 +57,63 @@
           ]
         },
         {
-          "sectionTitle": "Hot This Week",
+          "sectionTitle": "HOT This Week ",
           "effects": [
             {
-              "title": "Mermaid",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fba76c840-681e-42b0-be3f-e93ffb7e5d5c_seed0.mp4",
-              "effectID": 340541567573824,
-              "effectPrompt": "Dive in! Get your fins now!",
+              "title": "Hug Your Love",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c76b36d-6a7a-4de1-a4e5-fbb8f58ee659_seed1632518676.mp4",
+              "effectID": 303624424723200,
+              "effectPrompt": "Hug each other",
               "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1750680416794-355891620.jpg"
+              "thumbnail": "https://upload.orotv.shop/uploads/1748271513606-767191163.jpg"
             },
             {
-              "title": "Punch Face",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.mp4",
-              "effectID": 338083197718400,
-              "effectPrompt": "One punch and you're a meme now",
+              "title": "Old Photo Revival",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F49e21efa-6880-4afd-84ae-001b3a0925d1_seed264934742.mp4",
+              "effectID": 346384996936128,
+              "effectPrompt": "Breathe life into old photos—time travel through their eyes !",
               "type": "PixVerse",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.png"
+              "thumbnail": "https://media.pixverse.ai/upload%2F2bf1a869-06a9-48cc-9a34-3ec03b33bf2f.jpg?x-oss-process=style/cover-webp"
+            },
+                {
+              "title": "Who’s Arrested?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
+              "effectID": 342847495240768,
+              "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2F9cb94ad5-05e5-4c39-af4f-0bba7b5a3f21.jpg?x-oss-process=style/cover-webp"
             },
             {
-              "title": "Pixel World",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minecraft_250509.mp4",
-              "effectID": 337036093477184,
-              "effectPrompt": "One blast and you're all blocks —pixel life begins now!",
+              "title": "Baby Arrived",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0f716105-84fc-4c8e-8ade-d960c94d5ed2_seed913245063.mp4",
+              "effectID": 342874383633472,
+              "effectPrompt": "Mummy and daddy, I’m here!",
               "type": "PixVerse",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minecraft_250509.png"
+              "thumbnail": "https://media.pixverse.ai/upload%2F19bdf9c1-43cd-4e15-9620-34de6b14342a.jpg?x-oss-process=style/cover-webp"
             },
             {
-              "title": "Thunder God",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.mp4",
-              "effectID": 340383170699072,
-              "effectPrompt": "Lightning in your eyes. Thunder in your stare.",
+              "title": "Blueprint Supreme",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc6e85cc7-d57b-4798-a8ce-1e87fd6fc103_seed1521644676.mp4",
+              "effectID": 345883170158144,
+              "effectPrompt": "Singing karaoke in the villa, silver dragon fish in the pool?.",
               "type": "PixVerse",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.png"
+              "thumbnail": "https://media.pixverse.ai/upload%2Fde45aed0-4a5f-4c18-9b6f-e17a011b07f2.jpg?x-oss-process=style/cover-webp"
+            },
+            {
+              "title": "Sharksnap!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fb8f66d8a-4e27-42b8-beda-0afa43280710_seed179893417.mp4",
+              "effectID": 344131642438080,
+              "effectPrompt": "When life’s behind you with shark energy.",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2F48fa4387-fea6-47c1-9761-0435a6c4424d.jpg?x-oss-process=style/cover-webp"
+            },
+             {
+              "title": "Past Life Job",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F969db364-7a9f-4e86-8ae9-75b6bd11ff93_seed166399963.mp4",
+              "effectID": 344263482059200,
+              "effectPrompt": "Spin the career wheel and find out who you were before!",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2F1d0b7f7c-9be5-44bb-82bc-73173f62b1f6.jpg?x-oss-process=style/cover-webp"
             }
 
           ]
