@@ -45,6 +45,14 @@
               "effectPrompt": "Lo-Fi Me",
               "type": "Pika.art",
               "thumbnail": "https://upload.orotv.shop/uploads/1751456527474-993431329.png"
+            },
+            {
+              "title": "Who’s Arrested?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
+              "effectID": 342847495240768,
+              "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.png"
             }
           ]
         },
