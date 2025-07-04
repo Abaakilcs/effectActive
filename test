@@ -39,14 +39,6 @@
               "thumbnail": "https://media.pixverse.ai/upload%2Ffc29976f-3294-418e-9ed6-ec0144882dce.jpg?x-oss-process=style/cover-webp"
             },
             {
-              "title": "Rainbow Moment",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fc53634-8b7c-4ab5-961a-c6e21deedc70_seed634978002.mp4",
-              "effectID": 340894729537344,
-              "effectPrompt": "Add rainbow to your world —pride shines all year",
-              "type": "PixVerse",
-              "thumbnail": "https://media.pixverse.ai/upload%2Ffc29976f-3294-418e-9ed6-ec0144882dce.jpg?x-oss-process=style/cover-webp"
-            },
-            {
               "title": "CCTV Me",
               "video": "https://cdn.pika.art/assets/pikaffects/cctv-me/video-0.mp4",
               "effectID": "CCTV Me",
@@ -91,14 +83,6 @@
         {
           "sectionTitle": "HOT This Week ",
           "effects": [
-            {
-              "title": "Hug Your Love",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c76b36d-6a7a-4de1-a4e5-fbb8f58ee659_seed1632518676.mp4",
-              "effectID": 303624424723200,
-              "effectPrompt": "Hug each other",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271513606-767191163.jpg"
-            },
             {
               "title": "Old Photo Revival",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F49e21efa-6880-4afd-84ae-001b3a0925d1_seed264934742.mp4",
