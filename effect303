@@ -6,7 +6,16 @@
         {
           "sectionTitle": "New and Trending",
           "effects": [
+             {
+              "title": "Ride My Porsche",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd096a50c-a5cd-4e1e-9199-7200d862e6ff_seed634415694.mp4",
+              "effectID": 347130807494528,
+              "effectPrompt": "Get in the car, millionaire!",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2Fc775e931-59fc-4ab0-97fb-71515099d508.image%2Fpng?x-oss-process=style/cover-webp"
+            },
             {
+
               "title": "Labubu Style",
               "video": "https://cdn.pika.art/assets/pikaffects/labubu-style/video-0.mp4",
               "effectID": "Labubu Style",
