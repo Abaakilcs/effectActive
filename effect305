@@ -6,6 +6,22 @@
         {
           "sectionTitle": "New and Trending",
           "effects": [
+              {
+              "title": "My Girlfriendssss",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0125e7d1-caac-48df-b3ad-d30acd91b1df_seed1501329749.mp4",
+              "effectID": 349232644550272,
+              "effectPrompt": "They’re here for me, and I’m here for them.",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/upload%2Fc2c47888-b12c-464e-8fc5-176135f93e94.jpg?x-oss-process=style/cover-webp"
+            },
+            {
+              "title": "My Boyfriendsssss",
+              "video": "",
+              "effectID": 349232463042176,
+              "effectPrompt": "Too hot to handle. Too close to say no.",
+              "type": "PixVerse",
+              "thumbnail": ""
+            },
              {
               "title": "Ride My Porsche",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd096a50c-a5cd-4e1e-9199-7200d862e6ff_seed634415694.mp4",
