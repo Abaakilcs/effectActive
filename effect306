@@ -7,14 +7,6 @@
           "sectionTitle": "Epic Transformations",
           "effects": [
             {
-              "title": "Fin-tastic Mermaid",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fba76c840-681e-42b0-be3f-e93ffb7e5d5c_seed0.mp4",
-              "effectID": 340541567573824,
-              "effectPrompt": "Dive in! Get your fins now!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1750680416794-355891620.jpg"
-            },
-            {
               "title": "360 Microwave",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd3ae6762-9b57-45ba-8c85-7127c9a206c2_seed1760657503.mp4",
               "effectID": 324641385496960,
