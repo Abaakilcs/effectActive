@@ -339,56 +339,7 @@
             }
           ]
         },
-        {
-          "sectionTitle": "Action Overdrive",
-          "effects": [
-            {
-              "title": "Where is Santa?",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc09fbeb3-8593-49aa-b7b3-b16e2e270592_seed1373204993.mp4",
-              "effectID": 311521879229312,
-              "effectPrompt": "Discovering Santa Claus in the parallel world!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271487243-768148749.jpg"
-            },
-            {
-              "title": "Black Myth: Wukong",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c657bd7-be81-40dd-9ba6-9d694f0f122d_seed580271295.mp4",
-              "effectID": 313359209531840,
-              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271488972-650959842.jpg"
-            }
-          ]
-        },
-        {
-          "sectionTitle": "Anime Adventures",
-          "effects": [
-            {
-              "title": "Monster Invades",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa3277c13-4061-4cc5-b3dc-5ff52816d4e7_seed791183500.mp4",
-              "effectID": 302325299682368,
-              "effectPrompt": "A monster suddenly appears in the [SCENE] and starts walking around",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271493585-824012203.jpg"
-            },
-            {
-              "title": "Pomba Gira Slay",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0f7786be-ffe7-416b-be0f-1133c306ffe4_seed1771089396.mp4",
-              "effectID": 321958080134016,
-              "effectPrompt": "Unleash desire, embrace power! You are  Pomba Gira!",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271495264-438822071.jpg"
-            },
-            {
-              "title": "We Are Venom!",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fed127584-a26c-4259-b0cf-8560eb3187bf_seed555178994.mp4",
-              "effectID": 303624537709312,
-              "effectPrompt": "Transform into a [BLACK] Venom",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1748271496005-468549322.jpg"
-            }
-          ]
-        },
+        
         {
           "sectionTitle": "Mythical Legends",
           "effects": [
