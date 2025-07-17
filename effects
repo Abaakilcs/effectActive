@@ -1,37 +1,6 @@
 {
   "sections": [
-    {
-      "sectionTitle": "Kiss or Hug",
-      "containers": [
-        {
-          "title": "Kiss Your Partner",
-          "image": "https://upload.orotv.shop/uploads/1742180048616-421337023.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "315446315336768",
-          "effectPrompt": "Kiss each other",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Hug Your Partner",
-          "image": "https://upload.orotv.shop/uploads/1742180069008-913500857.gif",
-          "blurHash": "L9Fqdg00~V0g;JXnnhRk01x^R5%M",
-          "effectID": "303624424723200",
-          "effectPrompt": "Hug each other",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Kiss Me, AI!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321958627120000",
-          "effectPrompt": "No Lover? Get an AI Sweetheart!",
-          "isPaid": true,
-          "isPika": false
-        }
-      ]
-    },
+    
     {
       "sectionTitle": "Trending..",
       "containers": [
@@ -45,7 +14,7 @@
           "isPika": false
         },
         {
-          "title": "360° Microwave",
+          "title": "360 Microwave",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.gif",
           "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
           "effectID": "324641385496960",
@@ -59,15 +28,6 @@
           "blurHash": "L6F;=%*003000Kv}5Rx]%$-;-7RP",
           "effectID": "324640938615168",
           "effectPrompt": "Transform into a cute, cuddly plush toy!",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Minions Takeover!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minion_250312.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "326911344716672",
-          "effectPrompt": "Your little buddies got you styled!",
           "isPaid": true,
           "isPika": false
         },
@@ -127,74 +87,6 @@
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "322852853601344",
           "effectPrompt": "Walk like a supermodel and shine brighter than ever",
-          "isPaid": false,
-          "isPika": false
-        }
-      ]
-    },
-    {
-      "sectionTitle": "Marvel Fantasy",
-      "containers": [
-        {
-          "title": "We Are Venom!",
-          "image": "https://upload.orotv.shop/uploads/1740671604668-540382581.gif",
-          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
-          "effectID": "303624537709312",
-          "effectPrompt": "Transform into a [BLACK] Venom",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Hulk",
-          "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
-          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
-          "effectID": "304826314164992",
-          "effectPrompt": "Unleash the Beast",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Wonder Woman",
-          "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
-          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
-          "effectID": "309283958194560",
-          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Iron Man",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ironman.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826054394624",
-          "effectPrompt": "Activate Iron Mode",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Batman",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_batman.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826374632192",
-          "effectPrompt": "Transform into a Batman and embrace the night",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "COLORFUL Venom!",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_colorfulvenom.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs", 
-          "effectID": "304358279051648",
-          "effectPrompt": "Transform into a [COLORFUL] Venom",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Get a Venom buddy",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_venombuddy.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "306059795500352",
-          "effectPrompt": "Your Venom buddy appears and gives you a hug",
           "isPaid": false,
           "isPika": false
         }
@@ -318,33 +210,6 @@
           "isPika": false
         },
         {
-          "title": "Sailor Moon",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sailormoon.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "313359138372032",
-          "effectPrompt": "Moon Prism Power, Make Up!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Nezha: Wild Flame",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_nezha_250215.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321956534408064",
-          "effectPrompt": "Transform into Nezha and fight against fate!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Aobing: Icy Frost",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aobing_250215.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321957680919424",
-          "effectPrompt": "Transform into Aobing and fight for my own path!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
           "title": "God of Wealth",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_godofwealth_250124.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
@@ -406,58 +271,8 @@
       ]
     },
     {
-      "sectionTitle": "Villains & Heroes",
-      "containers": [
-        {
-          "title": "Joker's Rebirth",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jokerrebirth.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "304826126435072",
-          "effectPrompt": "Transform into a Joker",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Hot Harley Quinn",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_harleyquinn.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "307489434436288",
-          "effectPrompt": "Transform into Harley Quinn, mastering allure and chaos",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Crazy Cat Woman",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_catwoman.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "307489548427968", 
-          "effectPrompt": "Transform into a Crazy Cat Woman and slay",
-          "isPaid": false,
-          "isPika": false
-        }
-      ]
-    },
-    {
       "sectionTitle": "Seasonal Celebrations",
       "containers": [
-        {
-          "title": "Carnival Queen",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "325728504863808",
-          "effectPrompt": "Get the most eye-catching carnival costume in one second!",
-          "isPaid": false,
-          "isPika": false
-        },
-        {
-          "title": "Sakura Flood",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sakura_250305.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "325367418993728",
-          "effectPrompt": "Turn the world into a Sakura Utopia",
-          "isPaid": true,
-          "isPika": false
-        },
         {
           "title": "2025 Oscar Winner",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_oscar_250226.gif",
@@ -499,15 +314,6 @@
     {
       "sectionTitle": "Mythical & Mystical",
       "containers": [
-        {
-          "title": "Pomba Gira Slay",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "321958080134016",
-          "effectPrompt": "Unleash desire, embrace power! You are Pomba Gira!",
-          "isPaid": false,
-          "isPika": false
-        },
         {
           "title": "Smoking Vibe",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.gif",
@@ -565,29 +371,6 @@
           "effectID": "303788802773760",
           "effectPrompt": "The [SUBJECT] in the picture smiles wickedly and starts firing",
           "isPaid": false,
-          "isPika": false
-        }
-      ]
-    },
-     {
-      "sectionTitle": "Gaming Inspired",
-      "containers": [
-        {
-          "title": "Squid Game",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squid_250115.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "316139945292864",
-          "effectPrompt": "Put on the mask. The game begins now.",
-          "isPaid": true,
-          "isPika": false
-        },
-        {
-          "title": "Young-hee's Gaze",
-          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squiddoll_250115_1.gif",
-          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
-          "effectID": "317013620689664",
-          "effectPrompt": "Red Light, Green Light",
-          "isPaid": true,
           "isPika": false
         }
       ]
