@@ -45,11 +45,38 @@
           "isPika": false
         },
 {
+  "title": "My Boyfriendsssss",
+  "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.gif",
+  "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+  "effectID": "349232463042176",
+  "effectPrompt": "Too hot to handle. Too close to say no.",
+  "isPaid": true,
+  "isPika": false
+},
+{
+  "title": "Ride My Porsche",
+  "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
+  "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+  "effectID": "347130807494528",
+  "effectPrompt": "Get in the car, millionaire!",
+  "isPaid": true,
+  "isPika": false
+},
+{
   "title": "Earth Zoom Challenge",
   "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
   "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
   "effectID": "349110259052160",
   "effectPrompt": "From space to you — the world is watching",
+  "isPaid": true,
+  "isPika": false
+},
+{
+  "title": "Old Photo Revival",
+  "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
+  "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+  "effectID": "346384996936128",
+  "effectPrompt": "Breathe life into old photos—time travel through their eyes.",
   "isPaid": true,
   "isPika": false
 },
@@ -103,6 +130,32 @@
     {
       "sectionTitle": "Transform Me",
       "containers": [
+{
+  "title": "Fin-tastic Mermaid",
+  "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528.gif",
+  "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+  "effectID": "340541567573824",
+  "effectPrompt": "Dive in! Get your fins now",
+  "isPaid": true,
+  "isPika": false
+},
+{
+  "title": "Punch Face",
+  "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
+  "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+  "effectID": "338083197718400",
+  "effectPrompt": "One punch and you're a meme now",
+  "isPaid": true,
+  "isPika": false
+},{
+  "title": "Dad vs. Me",
+  "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fightingfather_0613.gif",
+  "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+  "effectID": "343410955453504",
+  "effectPrompt": "Time for a father-son face-off...",
+  "isPaid": true,
+  "isPika": false
+},
         {
           "title": "Muscle Surge",
           "image": "https://upload.orotv.shop/uploads/1742180009825-439113743.gif",
