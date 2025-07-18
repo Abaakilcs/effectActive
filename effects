@@ -44,6 +44,15 @@
           "isPaid": true,
           "isPika": false
         },
+{
+  "title": "Earth Zoom Challenge",
+  "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
+  "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+  "effectID": "349110259052160",
+  "effectPrompt": "From space to you — the world is watching",
+  "isPaid": true,
+  "isPika": false
+},
         {
           "title": "Let's Dance!",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250316.gif",
