@@ -1,9 +1,85 @@
 {
   "sections": [
-    
+    {
+      "sectionTitle": "Kiss or Hug",
+      "containers": [
+        {
+          "title": "Kiss Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1742180048616-421337023.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "315446315336768",
+          "effectPrompt": "Kiss each other",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Hug Your Partner",
+          "image": "https://upload.orotv.shop/uploads/1742180069008-913500857.gif",
+          "blurHash": "L9Fqdg00~V0g;JXnnhRk01x^R5%M",
+          "effectID": "303624424723200",
+          "effectPrompt": "Hug each other",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Kiss Me, AI!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "321958627120000",
+          "effectPrompt": "No Lover? Get an AI Sweetheart!",
+          "isPaid": true,
+          "isPika": false
+        }
+      ]
+    },
     {
       "sectionTitle": "Trending..",
       "containers": [
+        {
+          "title": "My Girlfriendssss",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.gif",
+          "blurHash": "LIJ@UQEO4;t7~BVs-;Rj?vjYjEog",
+          "effectID": "349232644550272",
+          "effectPrompt": "They\u2019re here for me, and I\u2019m here for them.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "My Boyfriendsssss",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "349232463042176",
+          "effectPrompt": "Too hot to handle. Too close to say no.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Ride My Porsche",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "347130807494528",
+          "effectPrompt": "Get in the car, millionaire!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Earth Zoom Challenge",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "349110259052160",
+          "effectPrompt": "From space to you \u2014 the world is watching",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Old Photo Revival",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "346384996936128",
+          "effectPrompt": "Breathe life into old photos\u2014time travel through their eyes.",
+          "isPaid": true,
+          "isPika": false
+        },
         {
           "title": "Let's Dance!",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250316.gif",
@@ -14,7 +90,7 @@
           "isPika": false
         },
         {
-          "title": "360 Microwave",
+          "title": "360\u00b0 Microwave",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.gif",
           "blurHash": "LMNJI800*0R47zI:%KM|R*r?$*jZ",
           "effectID": "324641385496960",
@@ -32,6 +108,15 @@
           "isPika": false
         },
         {
+          "title": "Minions Takeover!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minion_250312.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "326911344716672",
+          "effectPrompt": "Your little buddies got you styled!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
           "title": "Night Night",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sleep_250314.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
@@ -45,6 +130,33 @@
     {
       "sectionTitle": "Transform Me",
       "containers": [
+        {
+          "title": "Fin-tastic Mermaid",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "340541567573824",
+          "effectPrompt": "Dive in! Get your fins now",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Punch Face",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "338083197718400",
+          "effectPrompt": "One punch and you're a meme now",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Dad vs. Me",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fightingfather_0613.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343410955453504",
+          "effectPrompt": "Time for a father-son face-off...",
+          "isPaid": true,
+          "isPika": false
+        },
         {
           "title": "Muscle Surge",
           "image": "https://upload.orotv.shop/uploads/1742180009825-439113743.gif",
@@ -87,6 +199,74 @@
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "322852853601344",
           "effectPrompt": "Walk like a supermodel and shine brighter than ever",
+          "isPaid": false,
+          "isPika": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Marvel Fantasy",
+      "containers": [
+        {
+          "title": "We Are Venom!",
+          "image": "https://upload.orotv.shop/uploads/1740671604668-540382581.gif",
+          "blurHash": "LGDS:sNFMx~W^%?vx]Q,.9xCxuNG",
+          "effectID": "303624537709312",
+          "effectPrompt": "Transform into a [BLACK] Venom",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Hulk",
+          "image": "https://upload.orotv.shop/uploads/1740671733711-512080858.gif",
+          "blurHash": "LADvl]Vtu4KR00kp0V+s_MV[^FJ;",
+          "effectID": "304826314164992",
+          "effectPrompt": "Unleash the Beast",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Wonder Woman",
+          "image": "https://upload.orotv.shop/uploads/1740671809445-12242839.gif",
+          "blurHash": "LIDcEv~VE10KM_xY-p-:?v%2MxMy",
+          "effectID": "309283958194560",
+          "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Iron Man",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ironman.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304826054394624",
+          "effectPrompt": "Activate Iron Mode",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Batman",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_batman.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304826374632192",
+          "effectPrompt": "Transform into a Batman and embrace the night",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "COLORFUL Venom!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_colorfulvenom.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304358279051648",
+          "effectPrompt": "Transform into a [COLORFUL] Venom",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Get a Venom buddy",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_venombuddy.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "306059795500352",
+          "effectPrompt": "Your Venom buddy appears and gives you a hug",
           "isPaid": false,
           "isPika": false
         }
@@ -210,6 +390,33 @@
           "isPika": false
         },
         {
+          "title": "Sailor Moon",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sailormoon.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "313359138372032",
+          "effectPrompt": "Moon Prism Power, Make Up!",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Nezha: Wild Flame",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_nezha_250215.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "321956534408064",
+          "effectPrompt": "Transform into Nezha and fight against fate!",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Aobing: Icy Frost",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aobing_250215.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "321957680919424",
+          "effectPrompt": "Transform into Aobing and fight for my own path!",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
           "title": "God of Wealth",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_godofwealth_250124.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
@@ -271,8 +478,58 @@
       ]
     },
     {
+      "sectionTitle": "Villains & Heroes",
+      "containers": [
+        {
+          "title": "Joker's Rebirth",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jokerrebirth.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "304826126435072",
+          "effectPrompt": "Transform into a Joker",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Hot Harley Quinn",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_harleyquinn.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "307489434436288",
+          "effectPrompt": "Transform into Harley Quinn, mastering allure and chaos",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Crazy Cat Woman",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_catwoman.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "307489548427968",
+          "effectPrompt": "Transform into a Crazy Cat Woman and slay",
+          "isPaid": false,
+          "isPika": false
+        }
+      ]
+    },
+    {
       "sectionTitle": "Seasonal Celebrations",
       "containers": [
+        {
+          "title": "Carnival Queen",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "325728504863808",
+          "effectPrompt": "Get the most eye-catching carnival costume in one second!",
+          "isPaid": false,
+          "isPika": false
+        },
+        {
+          "title": "Sakura Flood",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sakura_250305.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "325367418993728",
+          "effectPrompt": "Turn the world into a Sakura Utopia",
+          "isPaid": true,
+          "isPika": false
+        },
         {
           "title": "2025 Oscar Winner",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_oscar_250226.gif",
@@ -287,7 +544,7 @@
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_santa%27sgift_0115.gif",
           "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
           "effectID": "311521768592256",
-          "effectPrompt": "I want a：",
+          "effectPrompt": "I want a\uff1a",
           "isPaid": false,
           "isPika": false
         },
@@ -314,6 +571,15 @@
     {
       "sectionTitle": "Mythical & Mystical",
       "containers": [
+        {
+          "title": "Pomba Gira Slay",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "321958080134016",
+          "effectPrompt": "Unleash desire, embrace power! You are Pomba Gira!",
+          "isPaid": false,
+          "isPika": false
+        },
         {
           "title": "Smoking Vibe",
           "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.gif",
@@ -371,6 +637,697 @@
           "effectID": "303788802773760",
           "effectPrompt": "The [SUBJECT] in the picture smiles wickedly and starts firing",
           "isPaid": false,
+          "isPika": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Gaming Inspired",
+      "containers": [
+        {
+          "title": "Squid Game",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squid_250115.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "316139945292864",
+          "effectPrompt": "Put on the mask. The game begins now.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Young-hee's Gaze",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squiddoll_250115_1.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "317013620689664",
+          "effectPrompt": "Red Light, Green Light",
+          "isPaid": true,
+          "isPika": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "New",
+      "containers": [
+        {
+          "title": "Private Airplane",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jet_250708.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "347847915659136",
+          "effectPrompt": "Luxury takes off. First class only.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Welcome to My House",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_house_250711.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "348369452948224",
+          "effectPrompt": "A sip of red, and the rich life appears.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Dust Me Away",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_part_250618.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "344080941597120",
+          "effectPrompt": "Catch me fading like a deleted file.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "US Yearbook Flash",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_usid_250706.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "347130211954560",
+          "effectPrompt": "Your best moment, frozen in a single flash",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Winged Wardrobe",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_winged_0623.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "345014411085376",
+          "effectPrompt": "Wear ethereal wings and dazzle like a supermodel",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Red or White? ",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_haircolor_250625.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "345536984247872",
+          "effectPrompt": "Test your soul\u2014are you fire or ice?",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Shake It to the Max",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shakeitmax_250626.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058758753344",
+          "effectPrompt": "Go on bend your knees, baby, shake it to the max",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "APT. Dance Challenge",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_apt_0624.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058141570112",
+          "effectPrompt": "Hey, so now you know the game! Are you ready?",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "99  Problems 1 Solution",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_991_250703.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "346969951527360",
+          "effectPrompt": "Cat, spa, coffin, or alcohol? ",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Rain of Redemption",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shawshank_250622.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343431441233856",
+          "effectPrompt": "Stand in the rain \u2014 every drop sets you free",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Gabu Dance",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_gabudance_0625.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058274917440",
+          "effectPrompt": "Eu Sento Gabu! Everywhere you walk is Runway",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Hands Up! Hands Up! ",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_handsup_250626.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058324329536",
+          "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Rat Dance Killer",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ratdance_250626.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058469676096",
+          "effectPrompt": "Do the rat dance anywhere in the world",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Neymar DJ Dance",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_neymardance_0624.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058215445568",
+          "effectPrompt": "Overly charming, let's possess this dance skills.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Li Xi Cheng Merch",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lixicheng_250626.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058574996544",
+          "effectPrompt": "Once upon a time, a legend was born",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Shake Shake  Disco",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shakeitdance_250625.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058524240960",
+          "effectPrompt": "The dance floor needs your wave",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Strikeout Dance",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_3wave_250626.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058619202624",
+          "effectPrompt": "Three strikes, one round",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "PASSO BEM SOLTO",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_passodance_250626.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343058408062016",
+          "effectPrompt": "Party at the weekend, only good vibes",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Hitchcock Dolly Zoom",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hitchcock_2500622.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343430955683776",
+          "effectPrompt": "Pull the world into a dizzying Hitchcock moment.",
+          "isPaid": true,
+          "isPika": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Hot",
+      "containers": [
+        {
+          "title": "Hug Together",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hug_250529.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "340712049100608",
+          "effectPrompt": "Merge photos, share love.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Who\u2019s Arrested?",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_arrest_250610.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "342847495240768",
+          "effectPrompt": "When the AI cop shows up, someone\u2019s in trouble!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Past Life Job",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_job_250624.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "344263482059200",
+          "effectPrompt": "Spin the career wheel and find out who you were before!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Baby Arrived",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_getbaby_250611.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "342874383633472",
+          "effectPrompt": "Mummy and daddy, I\u2019m here!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Blueprint Supreme",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dazhanhongtu_250710.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "345883170158144",
+          "effectPrompt": "Singing karaoke in the villa, silver dragon fish in the pool?",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Sharksnap!",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shark_250617.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "344131642438080",
+          "effectPrompt": "When life\u2019s behind you with shark energy.",
+          "isPaid": true,
+          "isPika": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Default",
+      "containers": [
+        {
+          "title": "Subject 3 Fever",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_subject3_250318.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "327828816843648",
+          "effectPrompt": "Subject 3 dance takes the world by storm!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Change My Outfit",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_changemyoutfit_250604.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "340952173729600",
+          "effectPrompt": "Different style matches different mood",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Grow Up",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_growup_250427.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "335104003407232",
+          "effectPrompt": "Start time travel with one click",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Vroom Vroom Step",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dance_250316.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "334053280928832",
+          "effectPrompt": "Vroom goes the beat, step hits the street",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "PUBG Winner Hit",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_winnerdance_250513.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "337792714792704",
+          "effectPrompt": "Victory secured, now hit the dance floor!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Jiggle Jiggle",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "333178074897472",
+          "effectPrompt": "Twist your waist, clap your hands, turn around and follow the beat.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Bald Swipe",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bald_250528.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "340361643937600",
+          "effectPrompt": "When hair meets monkey hands\u2014it\u2019s gone.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Huge Cutie",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hugecutie_250327.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "329607251526400",
+          "effectPrompt": "Transform into an urban giant!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Somber Embrace",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackwings_0609.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "342538347747072",
+          "effectPrompt": "Ebony wings unfold, a fallen angel's ascent",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Fairy Wings",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sprite_250605.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "341983360051008",
+          "effectPrompt": "Summon your ethereal wings and reveal your inner magic.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Sharking Summer",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skark_250608.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "342535507046144",
+          "effectPrompt": "Pet the danger. Taste the thrill.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Thunder God",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "340383170699072",
+          "effectPrompt": "Lightning in your eyes. Thunder in your stare.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "BOOM DROP",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_explode_250520.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "339133943656192",
+          "effectPrompt": "A real man never looks back at the explosion behind him",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Werewolf Rage",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "335610959448832",
+          "effectPrompt": "The full moon rises, your fangs come out.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Creepy Devil Smile",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_creepy_250516.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "338445884778240",
+          "effectPrompt": "Not a smile. A warning.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Dream Mount",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mount_250511.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "336699420635904",
+          "effectPrompt": "Choose your ride, and ride your vibe.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Emergency Beat",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_emergency_250409.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "331864971269184",
+          "effectPrompt": "Emergency on the dance floor \u2014 time to slay!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Baby Shroom",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babybite_250526.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "339673485621824",
+          "effectPrompt": "One bite of the shroom \u2014 boom, baby you again!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Eye Zoom Challenge",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "339848996187712",
+          "effectPrompt": "Zoom into your pupil \u2014 and the whole world falls with you",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Balloon Belly",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_belly_250508.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "336856634055424",
+          "effectPrompt": "One puff and\u2014boom! You\u2019re the cutest balloon in town.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Trippy Lilies",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lilies_250522.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "339398587639552",
+          "effectPrompt": "Dreams bloom in silence \u2014 beauty with a twist",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Just a Friend?",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_justafriendnew2_250517.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "338611800368896",
+          "effectPrompt": "One click from Chill to Slay",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Rainbow Moment",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_rainbow_250603.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "340894729537344",
+          "effectPrompt": "Add rainbow to your world \u2014pride shines all year",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Cry Me a River",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tears_250508.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "337052664588608",
+          "effectPrompt": "Let it out, let it out. Tears like a waterfall.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Cleopatra Reborn",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "343241420215360",
+          "effectPrompt": "No more pretending \u2014 I am Cleopatra.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Money Tornado",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_money360_250326.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "327829606196096",
+          "effectPrompt": "Money rains down, enjoy the wealth storm! ",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Suit Swagger",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_suit_250321.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "328545151283968",
+          "effectPrompt": "Suit up and be a real gentleman",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Meme Smash x3",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250527.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "339176058171136",
+          "effectPrompt": "One slap, three rage faces. Meme mode: activated!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Fish Dreamcore",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fish_250603.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "341651541059392",
+          "effectPrompt": "Dive deep in a dream, surrounded by fish, where visions flood.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Mega Dive",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_diving_250410.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "332074055488256",
+          "effectPrompt": "Jump into summer, cool off in the water!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Anime Story",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_250402.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "330523675191680",
+          "effectPrompt": "Turn your photo into a living anime story! ",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Paw Princess",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dresspet_250401.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "330448062595520",
+          "effectPrompt": "Dress up your pet like a royal princess",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Transition",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "334005897813056",
+          "effectPrompt": "You can become anyone you want",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Pixel World",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_minecraft_250509.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "337036093477184",
+          "effectPrompt": "One blast and you're all blocks \u2014pixel life begins now!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Simpsons Homie",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_simpson_250410.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "331927590628416",
+          "effectPrompt": "You're yellow, I'm yellow \u2014 Welcome to Springfield!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Honey Bee Magic",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bee_250523.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "339694359740224",
+          "effectPrompt": "One click, bee my honey magic buddy?",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Born to Barbie",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "335261821526784",
+          "effectPrompt": "Join the Global Barbie Craze! \u2728",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Skeleton Dance",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skeleton_250513.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "337572593925696",
+          "effectPrompt": "Shake it like that viral skeleton -  it\u2019s meme time!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Anime Magic",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "330688573362560",
+          "effectPrompt": "Turn your photo into am anime masterpiece!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Mint in Box",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_toyfigure_250421.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "333134794738752",
+          "effectPrompt": "Sealed, styled, and ready for display.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Liquid Metal",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_metal_250606.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "342180291926592",
+          "effectPrompt": "Melting in a flash, serving that blockbuster sci-fi vibe",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Clay Fool",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clay_250423.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "334237192507776",
+          "effectPrompt": "Turn into a wobbly wonder",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Retro Anime Pop",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "332758365690624",
+          "effectPrompt": "Pop yourself into a retro anime world!",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "KILL BILL",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_killbill_250424.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "333181805861952",
+          "effectPrompt": "Swing the blade. Make the cut.",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Forever Us",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fwedding_250321.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "326733946317888",
+          "effectPrompt": "Enjoy your wedding with the one you love most",
+          "isPaid": true,
+          "isPika": false
+        }
+      ]
+    },
+    {
+      "sectionTitle": "",
+      "containers": [
+        {
+          "title": "Call Me Tubeman",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tubeman_250611.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "335586897736448",
+          "effectPrompt": "Let\u2019s wiggle\u2014who needs dignity anyway?",
+          "isPaid": true,
+          "isPika": false
+        },
+        {
+          "title": "Love Punch",
+          "image": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lovepunch2_250521.gif",
+          "blurHash": "L8Hmrq00?a^k}6FOi^fP00x]I@Vs",
+          "effectID": "339376362313472",
+          "effectPrompt": "Give you a little punch with heart!",
+          "isPaid": true,
           "isPika": false
         }
       ]
