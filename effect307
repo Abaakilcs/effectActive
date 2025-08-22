@@ -23,14 +23,6 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1755896312584-432093864.jpg"
             },
             {
-              "title": "Earth Zoom Challenge",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.mp4",
-              "effectID": 349110259052160,
-              "effectPrompt": "From space to you — the world is watching",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1755694924335-909131502.jpg"
-            },
-            {
               "title": "My Girlfriendssss",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0125e7d1-caac-48df-b3ad-d30acd91b1df_seed1501329749.mp4",
               "effectID": 349232644550272,
@@ -139,14 +131,6 @@
         {
           "sectionTitle": "HOT This Week ",
           "effects": [
-            {
-              "title": "Earth Zoom Challenge",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.mp4",
-              "effectID": 349110259052160,
-              "effectPrompt": "From space to you — the world is watching",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1755694928191-270983854.jpg"
-            },
             {
               "title": "Old Photo Revival",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F49e21efa-6880-4afd-84ae-001b3a0925d1_seed264934742.mp4",
