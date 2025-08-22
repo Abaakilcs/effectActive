@@ -71,7 +71,7 @@
               "thumbnail": "https://upload.orotv.shop/uploads/1755694925906-508158013.jpg"
             },
             {
-              "title": "Hands Up! Hands Up! ",
+              "title": "Hands Up! Hands Up!",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
               "effectID": 343058324329536,
               "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
@@ -137,7 +137,7 @@
           ]
         },
         {
-          "sectionTitle": "HOT This Week ",
+          "sectionTitle": "HOT This Week",
           "effects": [
             {
               "title": "Old Photo Revival",
@@ -1173,19 +1173,6 @@
               "effectPrompt": "Let the battle begin",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1755695015860-617777638.jpg"
-            }
-          ]
-        },
-        {
-          "sectionTitle": "HOT This Week",
-          "effects": [
-            {
-              "title": "Earth Zoom Challenge",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86a0d5c7-257a-4ffb-bc37-1cfb02a1637a_seed1960151524.mp4",
-              "effectID": "349110259052160",
-              "effectPrompt": "From space to you — the world is watching",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1755897137436-461324934.jpg"
             }
           ]
         }
