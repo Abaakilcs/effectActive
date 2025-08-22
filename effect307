@@ -7,6 +7,14 @@
           "sectionTitle": "New and Trending",
           "effects": [
             {
+              "title": "Ninja Shadow Clone",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F62d78d26-4d60-43d1-b3f4-c7720703455c_seed1461172852.mp4",
+              "effectID": "354371350649280",
+              "effectPrompt": "Clone yourself, conquer the world",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755897214247-217226339.jpg"
+            },
+            {
               "title": "I Believe I Can Fly",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fe651cf-3dd0-489a-b662-66174c0f0b42_seed738904697.mp4",
               "effectID": "350827863568000",
@@ -1165,6 +1173,19 @@
               "effectPrompt": "Let the battle begin",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1755695015860-617777638.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "HOT This Week",
+          "effects": [
+            {
+              "title": "Earth Zoom Challenge",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86a0d5c7-257a-4ffb-bc37-1cfb02a1637a_seed1960151524.mp4",
+              "effectID": "349110259052160",
+              "effectPrompt": "From space to you — the world is watching",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755897137436-461324934.jpg"
             }
           ]
         }
