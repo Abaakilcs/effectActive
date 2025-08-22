@@ -7,6 +7,22 @@
           "sectionTitle": "New and Trending",
           "effects": [
             {
+              "title": "I Believe I Can Fly",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fe651cf-3dd0-489a-b662-66174c0f0b42_seed738904697.mp4",
+              "effectID": "350827863568000",
+              "effectPrompt": "Fly beyond the clouds, to a world of dreams.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755896427745-727223977.jpg"
+            },
+            {
+              "title": "Officer Crush",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4b6bc790-dcbe-4ba5-95c2-32200171b7fc_seed676291722.mp4",
+              "effectID": "353279785150016",
+              "effectPrompt": "Come closer, Officer. I’m almost yours.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755896312584-432093864.jpg"
+            },
+            {
               "title": "Earth Zoom Challenge",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.mp4",
               "effectID": 349110259052160,
@@ -307,6 +323,14 @@
           "sectionTitle": "Funky Vibes",
           "effects": [
             {
+              "title": "Rainbow Moment",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fc53634-8b7c-4ab5-961a-c6e21deedc70_seed634978002.mp4",
+              "effectID": 340894729537344,
+              "effectPrompt": "Add rainbow to your world —pride shines all year",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926584-786728283.jpg"
+            },
+            {
               "title": "Evil Trigger",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fb7bb161f-7d99-48d9-8807-cb435aeb3f8d_seed967405899.mp4",
               "effectID": 303788802773760,
@@ -367,6 +391,14 @@
         {
           "sectionTitle": "Cartoon Chaos",
           "effects": [
+            {
+              "title": "Neymar DJ Dance",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F75732365-00d7-4456-9146-c2a570d92d67_seed980343173.mp4",
+              "effectID": 343058215445568,
+              "effectPrompt": "Overly charming, let's possess this dance skills",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694925906-508158013.jpg"
+            },
             {
               "title": "Long Hair Magic",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fe6349250-681b-48eb-95b0-62ea0557cf02_seed1035152749.mp4",
@@ -436,6 +468,14 @@
         {
           "sectionTitle": "Superhero Mode",
           "effects": [
+            {
+              "title": "Hands Up! Hands Up! ",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
+              "effectID": 343058324329536,
+              "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926185-676612546.jpg"
+            },
             {
               "title": "Bald me",
               "video": "https://cdn.pika.art/v1/98b890a7-95ef-4ef5-a6d4-bf40054656d0/Bald_Me_seed541797747.mp4",
@@ -895,6 +935,14 @@
         {
           "sectionTitle": "Techno Style",
           "effects": [
+            {
+              "title": "Who’s Arrested?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
+              "effectID": 342847495240768,
+              "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694927758-885267965.jpg"
+            },
             {
               "title": "Zombie Hand",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc1ab9031-4be7-4912-8665-da6d51e9c753_seed1405497453.mp4",
