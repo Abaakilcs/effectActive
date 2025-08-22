@@ -109,6 +109,14 @@
               "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1755694927758-885267965.jpg"
+            },
+            {
+              "title": "Kitten Hide and Seek",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F8dfa46db-7993-4df0-94f4-b6dad9513bd5_seed641934406.mp4",
+              "effectID": "354568167143040",
+              "effectPrompt": "Cats love their hideaways, let’s go find them!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755886830409-749495487.jpg"
             }
           ]
         },
