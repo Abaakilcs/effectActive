@@ -7,6 +7,14 @@
           "sectionTitle": "New and Trending",
           "effects": [
             {
+              "title": "Middle Finger Up",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F27680cdf-bbcb-465b-a1eb-87a70fefff1a_seed551652117.mp4",
+              "effectID": "353326100438592",
+              "effectPrompt": "Show me your friendly",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755973369645-827769685.jpg"
+            },
+            {
               "title": "Ninja Shadow Clone",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F62d78d26-4d60-43d1-b3f4-c7720703455c_seed1461172852.mp4",
               "effectID": "354371350649280",
