@@ -1,0 +1,1342 @@
+{
+  "tabs": [
+    {
+      "tabTitle": "Effects",
+      "sections": [
+        {
+          "sectionTitle": "New and Trending",
+          "effects": [
+            {
+              "title": "Insta-Bangs Spray",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fbc4575b6-003d-4eed-8a49-598a8263a0d2_seed1960784665.mp4",
+              "effectID": "358127926981120",
+              "effectPrompt": "Free-flowing bangs, all thanks to magical shampoo",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1757436752374-439013906.jpg"
+            },
+            {
+              "title": "Middle Finger Up",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F27680cdf-bbcb-465b-a1eb-87a70fefff1a_seed551652117.mp4",
+              "effectID": "353326100438592",
+              "effectPrompt": "Show me your friendly",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755973369645-827769685.jpg"
+            },
+            {
+              "title": "Ninja Shadow Clone",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F62d78d26-4d60-43d1-b3f4-c7720703455c_seed1461172852.mp4",
+              "effectID": "354371350649280",
+              "effectPrompt": "Clone yourself, conquer the world",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755897214247-217226339.jpg"
+            },
+            {
+              "title": "I Believe I Can Fly",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fe651cf-3dd0-489a-b662-66174c0f0b42_seed738904697.mp4",
+              "effectID": "350827863568000",
+              "effectPrompt": "Fly beyond the clouds, to a world of dreams.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755896427745-727223977.jpg"
+            },
+            {
+              "title": "Officer Crush",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4b6bc790-dcbe-4ba5-95c2-32200171b7fc_seed676291722.mp4",
+              "effectID": "353279785150016",
+              "effectPrompt": "Come closer, Officer. I’m almost yours.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755896312584-432093864.jpg"
+            },
+            {
+              "title": "My Girlfriendssss",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0125e7d1-caac-48df-b3ad-d30acd91b1df_seed1501329749.mp4",
+              "effectID": 349232644550272,
+              "effectPrompt": "They’re here for me, and I’m here for them.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694924652-613855568.jpg"
+            },
+            {
+              "title": "My Boyfriendsssss",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d40d2a8-c69f-47cb-9f53-21eb8fb9f002_seed1629651568.mp4",
+              "effectID": 349232463042176,
+              "effectPrompt": "Too hot to handle. Too close to say no.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694925018-347599763.jpg"
+            },
+            {
+              "title": "Ride My Porsche",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd096a50c-a5cd-4e1e-9199-7200d862e6ff_seed634415694.mp4",
+              "effectID": 347130807494528,
+              "effectPrompt": "Get in the car, millionaire!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694925340-874767187.jpg"
+            },
+            {
+              "title": "Labubu Style",
+              "video": "https://cdn.pika.art/assets/pikaffects/labubu-style/video-0.mp4",
+              "effectID": "Labubu Style",
+              "effectPrompt": "Labubu Style",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694925609-958218150.jpg"
+            },
+            {
+              "title": "Neymar DJ Dance",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F75732365-00d7-4456-9146-c2a570d92d67_seed980343173.mp4",
+              "effectID": 343058215445568,
+              "effectPrompt": "Overly charming, let's possess this dance skills",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694925906-508158013.jpg"
+            },
+            {
+              "title": "Hands Up! Hands Up!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
+              "effectID": 343058324329536,
+              "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926185-676612546.jpg"
+            },
+            {
+              "title": "Rainbow Moment",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fc53634-8b7c-4ab5-961a-c6e21deedc70_seed634978002.mp4",
+              "effectID": 340894729537344,
+              "effectPrompt": "Add rainbow to your world —pride shines all year",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926584-786728283.jpg"
+            },
+            {
+              "title": "CCTV Me",
+              "video": "https://cdn.pika.art/assets/pikaffects/cctv-me/video-0.mp4",
+              "effectID": "CCTV Me",
+              "effectPrompt": "CCTV Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926795-525584198.jpg"
+            },
+            {
+              "title": "Chocolate Me",
+              "video": "https://cdn.pika.art/assets/pikaffects/choco-me/video-0.mp4",
+              "effectID": "Choco Me",
+              "effectPrompt": "Choco Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694927013-633939058.jpg"
+            },
+            {
+              "title": "Eyes Zoom in",
+              "video": "https://cdn.pika.art/assets/pikaffects/eyes-zoom-in/video-0.mp4",
+              "effectID": "Eyes Zoom in",
+              "effectPrompt": "Eyes Zoom in",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694927255-610426441.jpg"
+            },
+            {
+              "title": "Lo-Fi Me",
+              "video": "https://cdn.pika.art/assets/pikaffects/lo-fi-me/video-0.mp4",
+              "effectID": "Lo-Fi Me",
+              "effectPrompt": "Lo-Fi Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694927437-594284484.jpg"
+            },
+            {
+              "title": "Who’s Arrested?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
+              "effectID": 342847495240768,
+              "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694927758-885267965.jpg"
+            },
+            {
+              "title": "Kitten Hide and Seek",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F8dfa46db-7993-4df0-94f4-b6dad9513bd5_seed641934406.mp4",
+              "effectID": "354568167143040",
+              "effectPrompt": "Cats love their hideaways, let’s go find them!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755886830409-749495487.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "HOT This Week",
+          "effects": [
+            {
+              "title": "Earth Zoom Challenge",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fee5ff54d-1837-4a03-a77f-7d6a9bf69a42_seed1020447628.mp4",
+              "effectID": "349110259052160",
+              "effectPrompt": "From space to you — the world is watching",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755897729998-807842693.jpg"
+            },
+            {
+              "title": "Old Photo Revival",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F49e21efa-6880-4afd-84ae-001b3a0925d1_seed264934742.mp4",
+              "effectID": 346384996936128,
+              "effectPrompt": "Breathe life into old photos—time travel through their eyes !",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694928525-368663877.jpg"
+            },
+            {
+              "title": "Who’s Arrested?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
+              "effectID": 342847495240768,
+              "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694928872-732628591.jpg"
+            },
+            {
+              "title": "Baby Arrived",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0f716105-84fc-4c8e-8ade-d960c94d5ed2_seed913245063.mp4",
+              "effectID": 342874383633472,
+              "effectPrompt": "Mummy and daddy, I’m here!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694929513-802520429.jpg"
+            },
+            {
+              "title": "Blueprint Supreme",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc6e85cc7-d57b-4798-a8ce-1e87fd6fc103_seed1521644676.mp4",
+              "effectID": 345883170158144,
+              "effectPrompt": "Singing karaoke in the villa, silver dragon fish in the pool?.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694929763-75810010.jpg"
+            },
+            {
+              "title": "Sharksnap!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fb8f66d8a-4e27-42b8-beda-0afa43280710_seed179893417.mp4",
+              "effectID": 344131642438080,
+              "effectPrompt": "When life’s behind you with shark energy.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694930140-489293022.jpg"
+            },
+            {
+              "title": "Past Life Job",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F969db364-7a9f-4e86-8ae9-75b6bd11ff93_seed166399963.mp4",
+              "effectID": 344263482059200,
+              "effectPrompt": "Spin the career wheel and find out who you were before!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694930467-564255344.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Cinematic Shots",
+          "effects": [
+            {
+              "title": "Hands Up! Hands Up!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
+              "effectID": 343058324329536,
+              "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926185-676612546.jpg"
+            },
+            {
+              "title": "Kiss Kiss",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa7a330e8-cdfc-4948-8cf6-541cba49bf28_seed1752510427.mp4",
+              "effectID": 315446315336768,
+              "effectPrompt": "Kiss each other",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694930777-210626573.jpg"
+            },
+            {
+              "title": "Hug Your Love",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c76b36d-6a7a-4de1-a4e5-fbb8f58ee659_seed1632518676.mp4",
+              "effectID": 303624424723200,
+              "effectPrompt": "Hug each other",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694931059-599595342.jpg"
+            },
+            {
+              "title": "Subject 3 Fever",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86dc7d33-841d-4303-97bc-e644c9758205_seed1537586743.mp4",
+              "effectID": 327828816843648,
+              "effectPrompt": "Subject 3 dance takes the world by storm!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694931408-241140755.jpg"
+            },
+            {
+              "title": "The Tiger's Touch",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fcce4637f-dcb3-4b57-a9d5-0039d85439bd_seed1279182728.mp4",
+              "effectID": 313649491716544,
+              "effectPrompt": "A giant tiger appears and snuggles up with you.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694931863-578989928.jpg"
+            },
+            {
+              "title": "Born to Barbie",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fcce1f52c-ce3e-42ef-ae9b-fe26323045e6_seed502099998.mp4",
+              "effectID": 335261821526784,
+              "effectPrompt": "Join the Global Barbie Craze! ✨",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694932218-864690719.jpg"
+            },
+            {
+              "title": "Kiss Me, AI!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F86eacd94-b7ff-4d7c-a176-a571be752f27_seed612486461.mp4",
+              "effectID": 321958627120000,
+              "effectPrompt": "No Lover? Get an AI Sweetheart!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694932490-153891710.jpg"
+            },
+            {
+              "title": "Money Tornado",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F57372fd5-e023-4099-b82b-4af51bd14066_seed1254243651.mp4",
+              "effectID": 327829606196096,
+              "effectPrompt": "Money rains down, enjoy the wealth storm!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694932813-548219326.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Epic Transformations",
+          "effects": [
+            {
+              "title": "360 Microwave",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd3ae6762-9b57-45ba-8c85-7127c9a206c2_seed1760657503.mp4",
+              "effectID": 324641385496960,
+              "effectPrompt": "Rotate 360 degrees in the microwave oven",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694933151-357167275.jpg"
+            },
+            {
+              "title": "Cake-ify it",
+              "video": "https://cdn.pika.art/v1/751ce511-5773-490a-8c80-a78ff6b6b2ba/Cake-ify_it_seed949612924.mp4",
+              "effectID": "Cake-ify it",
+              "effectPrompt": "Cake-ify it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694933572-335946786.jpg"
+            },
+            {
+              "title": "Crumble it",
+              "video": "https://cdn.pika.art/v1/80c21b87-b119-47b4-9e9e-68461734cc92/Crumble_it_seed1479857820.mp4",
+              "effectID": "Crumble it",
+              "effectPrompt": "Crumble it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694934037-272209057.jpg"
+            },
+            {
+              "title": "Crush it",
+              "video": "https://cdn.pika.art/v1/0ff9f273-9e45-4014-942b-bcae15a8eeac/Crush_it_seed1634394166.mp4",
+              "effectID": "Crush it",
+              "effectPrompt": "Crush it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694934438-883926485.jpg"
+            },
+            {
+              "title": "Decapitate it",
+              "video": "https://cdn.pika.art/v1/60eb1b63-8f07-432c-85f5-42733a3dd59e/Decapitate_it_seed2594792943.mp4",
+              "effectID": "Decapitate it",
+              "effectPrompt": "Decapitate it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694934818-328142645.jpg"
+            },
+            {
+              "title": "Deflate it",
+              "video": "https://cdn.pika.art/v1/7bb2e02a-25f6-4b5d-b6f0-18c97b0d985e/Deflate_it_seed156394934.mp4",
+              "effectID": "Deflate it",
+              "effectPrompt": "Deflate it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694935263-492602394.jpg"
+            },
+            {
+              "title": "Dissolve it",
+              "video": "https://cdn.pika.art/v1/fee92ddb-4534-4e14-8cf6-70699c95710a/Dissolve_it_seed606411514.mp4",
+              "effectID": "Dissolve it",
+              "effectPrompt": "Dissolve it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694935783-124612437.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Funky Vibes",
+          "effects": [
+            {
+              "title": "Baby Arrived",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0f716105-84fc-4c8e-8ade-d960c94d5ed2_seed913245063.mp4",
+              "effectID": 342874383633472,
+              "effectPrompt": "Mummy and daddy, I’m here!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694929513-802520429.jpg"
+            },
+            {
+              "title": "Rainbow Moment",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7fc53634-8b7c-4ab5-961a-c6e21deedc70_seed634978002.mp4",
+              "effectID": 340894729537344,
+              "effectPrompt": "Add rainbow to your world —pride shines all year",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926584-786728283.jpg"
+            },
+            {
+              "title": "Evil Trigger",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fb7bb161f-7d99-48d9-8807-cb435aeb3f8d_seed967405899.mp4",
+              "effectID": 303788802773760,
+              "effectPrompt": "Grab the gun, pull the trigger, and let it rip!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694936153-685220569.jpg"
+            },
+            {
+              "title": "Explode it",
+              "video": "https://cdn.pika.art/v1/1ff5b065-35af-4bf8-9f80-80499e4869c1/Explode_it_seed594330941.mp4",
+              "effectID": "Explode it",
+              "effectPrompt": "Explode it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694936504-88213124.jpg"
+            },
+            {
+              "title": "Eye-pop it",
+              "video": "https://cdn.pika.art/v1/c311ad31-20c6-4cb6-bdda-1c80c37b42df/Eye-pop_it_seed1019075461.mp4",
+              "effectID": "Eye-pop it",
+              "effectPrompt": "Eye-pop it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694936919-927333227.jpg"
+            },
+            {
+              "title": "Gender Swap",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fccaedef1-a64c-41c4-b3ea-fd7807a90783_seed1038096276.mp4",
+              "effectID": 323578865822784,
+              "effectPrompt": "Change your gender with one click",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694938548-618040457.jpg"
+            },
+            {
+              "title": "Inflate it",
+              "video": "https://cdn.pika.art/v1/608e449a-5c83-4526-a79a-545f0799cea3/Inflate_it_seed1279684767.mp4",
+              "effectID": "Inflate it",
+              "effectPrompt": "Inflate it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694938926-489602874.jpg"
+            },
+            {
+              "title": "Jellycat Everything",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc7e62ca8-9b20-40f4-8c73-2951a39fef62_seed72811146.mp4",
+              "effectID": 324640938615168,
+              "effectPrompt": "Transform into a cute, cuddly plush toy!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694939263-227204510.jpg"
+            },
+            {
+              "title": "Leggy Run",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F06d1486e-68eb-4b11-a9dd-82f1fdbe1689_seed1025727880.mp4",
+              "effectID": 302325299711040,
+              "effectPrompt": "The [OBJECT] grows legs and runs away",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694939504-396447679.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Cartoon Chaos",
+          "effects": [
+            {
+              "title": "Neymar DJ Dance",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F75732365-00d7-4456-9146-c2a570d92d67_seed980343173.mp4",
+              "effectID": 343058215445568,
+              "effectPrompt": "Overly charming, let's possess this dance skills",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694925906-508158013.jpg"
+            },
+            {
+              "title": "Long Hair Magic",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fe6349250-681b-48eb-95b0-62ea0557cf02_seed1035152749.mp4",
+              "effectID": 308552687706496,
+              "effectPrompt": "Grow lots of hair. Never be bald.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694939801-36063557.jpg"
+            },
+            {
+              "title": "Melt it",
+              "video": "https://cdn.pika.art/v1/5729109e-a564-4f1e-806e-e00021f84e33/Melt_it_seed1207416118.mp4",
+              "effectID": "Melt it",
+              "effectPrompt": "Melt it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694940097-197918226.jpg"
+            },
+            {
+              "title": "Muscle Surge",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F5dd38473-1a1a-4417-8971-d837cebf2258_seed2140351299.mp4",
+              "effectID": 308621408717184,
+              "effectPrompt": "Show off your strong muscles and have everyone hooked",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694940613-164307285.jpg"
+            },
+            {
+              "title": "Peel it",
+              "video": "https://cdn.pika.art/v1/c1b51112-b01d-4fe1-bbdd-3a15edd8c445/Peel_it_seed1371861991.mp4",
+              "effectID": "Peel it",
+              "effectPrompt": "Peel it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694941047-512883028.jpg"
+            },
+            {
+              "title": "Poke it",
+              "video": "https://cdn.pika.art/v1/273f5053-d470-4181-af75-33430a4cf80f/Poke_it_seed1733374581.mp4",
+              "effectID": "Poke it",
+              "effectPrompt": "Poke it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694941434-801876328.jpg"
+            },
+            {
+              "title": "Sheep Curls",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fe6349250-681b-48eb-95b0-62ea0557cf02_seed1035152749.mp4",
+              "effectID": 310371322329472,
+              "effectPrompt": "Change hairstyle for a better mood",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694941764-897112406.jpg"
+            },
+            {
+              "title": "Squish It",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Ff2d4798b-67df-489d-bbd4-e5073bfaa1eb_seed1275483322.mp4",
+              "effectID": 302325299692608,
+              "effectPrompt": "A pair of hands appears and squishes the [OBJECT] as if it's slime",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694942048-506948517.jpg"
+            },
+            {
+              "title": "Ta-da it",
+              "video": "https://cdn.pika.art/v1/a3f7007f-a8d3-46ca-b7cc-baa447d79b3d/Ta-da_it_seed1471089843.mp4",
+              "effectID": "Ta-da it",
+              "effectPrompt": "Ta-da it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694942661-855498887.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Superhero Mode",
+          "effects": [
+            {
+              "title": "Hands Up! Hands Up! ",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
+              "effectID": 343058324329536,
+              "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926185-676612546.jpg"
+            },
+            {
+              "title": "Bald me",
+              "video": "https://cdn.pika.art/v1/98b890a7-95ef-4ef5-a6d4-bf40054656d0/Bald_Me_seed541797747.mp4",
+              "effectID": "Bald me",
+              "effectPrompt": "Bald me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694942986-991437048.jpg"
+            },
+            {
+              "title": "Tear it",
+              "video": "https://cdn.pika.art/v1/3f4dc630-7f3b-4189-9d49-a355b0edce48/Tear_it_seed2853570225.mp4",
+              "effectID": "Tear it",
+              "effectPrompt": "Tear it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694943318-302809668.jpg"
+            },
+            {
+              "title": "Baby Me",
+              "video": "https://cdn.pika.art/v1/67f2a50e-c233-4fcc-9db8-7c5867366026/Baby_Me_seed1245364039.mp4",
+              "effectID": "Baby Me",
+              "effectPrompt": "Baby Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694943733-756579623.jpg"
+            },
+            {
+              "title": "Captain Me",
+              "video": "https://cdn.pika.art/v1/1c8e7a1f-d965-4e32-9553-568f8a364d8b/Captain_Me_seed2262367743.mp4",
+              "effectID": "Captain Me",
+              "effectPrompt": "Captain Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694944210-557599042.jpg"
+            },
+            {
+              "title": "Classy Me",
+              "video": "https://cdn.pika.art/v1/3206fa7f-3dae-4f37-8243-38a5d14f95a6/Classy_Me_seed3263733515.mp4",
+              "effectID": "Classy Me",
+              "effectPrompt": "Classy Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694945072-347182591.jpg"
+            },
+            {
+              "title": "Epic Me",
+              "video": "https://cdn.pika.art/v1/6a46fec9-784e-4fad-84ff-e985cbed54d7/Epic_Me_seed2112793531.mp4",
+              "effectID": "Epic Me",
+              "effectPrompt": "Epic Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694945511-18186021.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Fantasy Realm",
+          "effects": [
+            {
+              "title": "Neymar DJ Dance",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F75732365-00d7-4456-9146-c2a570d92d67_seed980343173.mp4",
+              "effectID": 343058215445568,
+              "effectPrompt": "Overly charming, let's possess this dance skills",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694925906-508158013.jpg"
+            },
+            {
+              "title": "Past Life Job",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F969db364-7a9f-4e86-8ae9-75b6bd11ff93_seed166399963.mp4",
+              "effectID": 344263482059200,
+              "effectPrompt": "Spin the career wheel and find out who you were before!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694930467-564255344.jpg"
+            },
+            {
+              "title": "Fairytale Me",
+              "video": "https://cdn.pika.art/v1/a801e6d4-9e57-4a16-9d72-ea4471ab682a/Fairytale_Me_seed1275033404.mp4",
+              "effectID": "Fairytale Me",
+              "effectPrompt": "Fairytale Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694946006-536674322.jpg"
+            },
+            {
+              "title": "Hero Me",
+              "video": "https://cdn.pika.art/v1/f2444a4b-e68e-4459-b0f2-f3475988aa51/Hero_Me_seed4218116091.mp4",
+              "effectID": "Hero Me",
+              "effectPrompt": "Hero Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694946533-798975839.jpg"
+            },
+            {
+              "title": "Jungle Me",
+              "video": "https://cdn.pika.art/v1/fc7d6227-28a2-45b6-ae66-341096e8cd4c/Jungle_Me_seed2310579511.mp4",
+              "effectID": "Jungle Me",
+              "effectPrompt": "Jungle Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694947090-944852752.jpg"
+            },
+            {
+              "title": "Leprechaun Me",
+              "video": "https://cdn.pika.art/v1/51fcba34-dd14-40b6-9b50-4e314d632788/Leprechaun_Me_seed1009964083.mp4",
+              "effectID": "Leprechaun Me",
+              "effectPrompt": "Leprechaun Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694947634-630416115.jpg"
+            },
+            {
+              "title": "Levitate it",
+              "video": "https://cdn.pika.art/v1/d304e717-b5b7-415b-90ae-6edd2634a54f/Levitate_it_seed542635557.mp4",
+              "effectID": "Levitate it",
+              "effectPrompt": "Levitate it",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694948056-3801147.jpg"
+            },
+            {
+              "title": "Mona Me",
+              "video": "https://cdn.pika.art/v1/c5e80455-6176-4b05-8576-81ab4b423daf/Mona_Me_seed3614724140.mp4",
+              "effectID": "Mona Me",
+              "effectPrompt": "Mona Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694948588-307017505.jpg"
+            },
+            {
+              "title": "Mrs. Me",
+              "video": "https://cdn.pika.art/v1/bf4cd7e4-d675-47cb-a26d-32bd04618c8a/Mrs._Me_seed2519287754.mp4",
+              "effectID": "Mrs. Me",
+              "effectPrompt": "Mrs. Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694949144-157344064.jpg"
+            },
+            {
+              "title": "Museum Me",
+              "video": "https://cdn.pika.art/v1/1440fb84-b26e-4f96-954f-798b558bab41/Museum_Me_seed224884728.mp4",
+              "effectID": "Museum Me",
+              "effectPrompt": "Museum Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694949581-336751753.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Romantic Sparks",
+          "effects": [
+            {
+              "title": "Princess Me",
+              "video": "https://cdn.pika.art/v1/0a676046-bac3-4fe5-b5d0-f869971edaf1/Princess_Me_seed4062612671.mp4",
+              "effectID": "Princess Me",
+              "effectPrompt": "Princess Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694950078-468998212.jpg"
+            },
+            {
+              "title": "Puppy Me",
+              "video": "https://cdn.pika.art/v1/c02e1be9-0d1c-4725-98ee-8b8828c3e96c/Puppy_Me_seed198862487.mp4",
+              "effectID": "Puppy Me",
+              "effectPrompt": "Puppy Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694950586-584957488.jpg"
+            },
+            {
+              "title": "Royal Me",
+              "video": "https://cdn.pika.art/v1/d85b30f4-6b4b-4918-b6a4-e44f157dac7f/Royal_Me_seed4177431538.mp4",
+              "effectID": "Royal Me",
+              "effectPrompt": "Royal Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694951030-463402980.jpg"
+            },
+            {
+              "title": "VIP Me",
+              "video": "https://cdn.pika.art/v1/3da57121-e2d6-4a96-bb55-4fa119399517/VIP_Me_seed972775894.mp4",
+              "effectID": "VIP Me",
+              "effectPrompt": "VIP Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694951665-591626194.jpg"
+            },
+            {
+              "title": "Warrior Me",
+              "video": "https://cdn.pika.art/v1/56706a15-0b53-4b97-9060-b06bbef6d8f0/Warrior_Me_seed266756699.mp4",
+              "effectID": "Warrior Me",
+              "effectPrompt": "Warrior Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694952207-214512630.jpg"
+            },
+            {
+              "title": "Zen Me",
+              "video": "https://cdn.pika.art/v1/a820b5ce-bb54-4505-b90f-134a1a22677e/Zen_Me_seed3297442116.mp4",
+              "effectID": "Zen Me",
+              "effectPrompt": "Zen Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694952700-383717747.jpg"
+            },
+            {
+              "title": "Chinese New Year Dress",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fba21b543-543c-496b-a3f9-c3f7af371096_seed680175568.mp4",
+              "effectID": 317013509917440,
+              "effectPrompt": "Have good luck in 2025",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694953116-989127934.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Holiday Magic",
+          "effects": [
+            {
+              "title": "Christmas OOTD",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F2652c708-2fd3-4b9c-b72c-9e1b8343d9d2_seed2048723211.mp4",
+              "effectID": 312314911869312,
+              "effectPrompt": "Dress up as a Christmas star",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694953457-739621310.jpg"
+            },
+            {
+              "title": "Crazy in Love",
+              "video": "https://cdn.pika.art/v1/f256f6d3-a834-4956-b3a9-68495431339a/Crazy_in_Love_seed3990730681.mp4",
+              "effectID": "Crazy in Love",
+              "effectPrompt": "Crazy in Love",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694953844-790861400.jpg"
+            },
+            {
+              "title": "Cupid Strike",
+              "video": "https://cdn.pika.art/v1/6b425a88-cd13-4ce2-a2f2-f63ae7325610/Cupid_Strike_seed87760278.mp4",
+              "effectID": "Cupid Strike",
+              "effectPrompt": "Cupid Strike",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694954243-111784808.jpg"
+            },
+            {
+              "title": "God of Wealth",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F547c5843-ee67-45f2-9e60-8772400b0422_seed290448124.mp4",
+              "effectID": 313358844899776,
+              "effectPrompt": "Wear the Wealth Armor and have a prosperous New Year!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694956245-157713023.jpg"
+            },
+            {
+              "title": "Hearts Bouquet",
+              "video": "https://cdn.pika.art/v1/91c070ce-2be4-4c70-8855-10373bb93778/Hearts_Bouquet_seed3904645063.mp4",
+              "effectID": "Hearts Bouquet",
+              "effectPrompt": "Hearts Bouquet",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694956696-539542136.jpg"
+            },
+            {
+              "title": "Proposal",
+              "video": "https://cdn.pika.art/v1/b2d9b653-8e94-44af-a902-af7376fde592/Proposal_seed2076928367.mp4",
+              "effectID": "Proposal",
+              "effectPrompt": "Proposal",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694957227-419086788.jpg"
+            },
+            {
+              "title": "Santa's Secret Gifts",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F9efe5d4f-6a1c-4a56-b4f1-1e94a802401f_seed2009122544.mp4",
+              "effectID": 311521768592256,
+              "effectPrompt": "I want a：",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694959496-958863632.jpg"
+            },
+            {
+              "title": "Squid Game",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0ed97e84-eba0-40a1-adfa-6f8bc1c423c0_seed961679399.mp4",
+              "effectID": 316139945292864,
+              "effectPrompt": "Put on the mask. The game begins now.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694959826-735459283.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Action Overdrive",
+          "effects": [
+            {
+              "title": "Batman Back",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Ffa8e6ef8-82f5-4482-b5c7-5087af1387c5_seed1814623358.mp4",
+              "effectID": 304826374632192,
+              "effectPrompt": "Transform into a Batman and embrace the night",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694960129-197136630.jpg"
+            },
+            {
+              "title": "Black Myth: Wukong",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4c657bd7-be81-40dd-9ba6-9d694f0f122d_seed580271295.mp4",
+              "effectID": 313359209531840,
+              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694960451-111626396.jpg"
+            },
+            {
+              "title": "COLORFUL Venom!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F20b2932c-2b25-4782-8ff9-afe453669d25_seed797661691.mp4",
+              "effectID": 304358279051648,
+              "effectPrompt": "Transform into a [COLORFUL] Venom",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694960784-442760077.jpg"
+            },
+            {
+              "title": "Crazy Cat Woman",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F2739194b-1832-4526-b6ad-5bd99d122aa3_seed1111151117.mp4",
+              "effectID": 307489548427968,
+              "effectPrompt": "Transform into a Crazy Cat Woman and slay",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694962157-80843082.jpg"
+            },
+            {
+              "title": "Hot Harley Quinn",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F17b4419b-813c-48bb-b04a-17f7e2c75e3d_seed780562008.mp4",
+              "effectID": 307489434436288,
+              "effectPrompt": "Transform into Harley Quinn, mastering allure and chaos",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694962622-665509728.jpg"
+            },
+            {
+              "title": "Hulk",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa130dca2-8368-4f4d-8e38-d3656ef4c1bb_seed1109430399.mp4",
+              "effectID": 304826314164992,
+              "effectPrompt": "Unleash the Beast",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694962931-124714141.jpg"
+            },
+            {
+              "title": "Where is Santa?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc09fbeb3-8593-49aa-b7b3-b16e2e270592_seed1373204993.mp4",
+              "effectID": 311521879229312,
+              "effectPrompt": "Discovering Santa Claus in the parallel world!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694964618-168939548.jpg"
+            },
+            {
+              "title": "Aobing: Icy Frost",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F48685d84-68a2-4b68-a0c9-77d12b195809_seed1414569094.mp4",
+              "effectID": 321957680919424,
+              "effectPrompt": "Transform into Aobing and fight for my own path!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694965030-112425204.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Anime Adventures",
+          "effects": [
+            {
+              "title": "Iron Man",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F2e469ea5-ae7a-4900-a140-400c9b5c4a1b_seed1964307625.mp4",
+              "effectID": 304826054394624,
+              "effectPrompt": "Activate Iron Mode",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694965322-895326864.jpg"
+            },
+            {
+              "title": "Joker's Rebirth",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fd577ff5e-c9c7-4891-9cad-7bf692e9ed78_seed2043275925.mp4",
+              "effectID": 304826126435072,
+              "effectPrompt": "Transform into a Joker",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694965609-35445765.jpg"
+            },
+            {
+              "title": "KILL BILL",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc34998fa-56fc-4b2d-9f96-4adfb004e23d_seed28551126.mp4",
+              "effectID": 333181805861952,
+              "effectPrompt": "Swing the blade. Make the cut.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694965911-476514595.jpg"
+            },
+            {
+              "title": "Monster Invades",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa3277c13-4061-4cc5-b3dc-5ff52816d4e7_seed791183500.mp4",
+              "effectID": 302325299682368,
+              "effectPrompt": "A monster suddenly appears in the [SCENE] and starts walking around",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694966212-205152329.jpg"
+            },
+            {
+              "title": "Nezha: Wild Flame",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F471f12ab-f9a8-4397-871b-0a77f191a7b2_seed1074683192.mp4",
+              "effectID": 321956534408064,
+              "effectPrompt": "Transform into Nezha and fight against fate!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694969481-140049160.jpg"
+            },
+            {
+              "title": "Pomba Gira Slay",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F0f7786be-ffe7-416b-be0f-1133c306ffe4_seed1771089396.mp4",
+              "effectID": 321958080134016,
+              "effectPrompt": "Unleash desire, embrace power! You are  Pomba Gira!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694969959-532938187.jpg"
+            },
+            {
+              "title": "Sailor Moon",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fffbc2cd9-a0a5-436b-9e9a-c892339f94fd_seed220333029.mp4",
+              "effectID": 313359138372032,
+              "effectPrompt": "Moon Prism Power, Make Up!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694970264-164792949.jpg"
+            },
+            {
+              "title": "We Are Venom!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fed127584-a26c-4259-b0cf-8560eb3187bf_seed555178994.mp4",
+              "effectID": 303624537709312,
+              "effectPrompt": "Transform into a [BLACK] Venom",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694971399-439640542.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Mythical Legends",
+          "effects": [
+            {
+              "title": "Wonder Woman",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F99bb981d-bd44-47be-bdca-85eeb17ce65c_seed1883955125.mp4",
+              "effectID": 309283958194560,
+              "effectPrompt": "Transform into Wonder Woman and conquer the impossible",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694971651-83885663.jpg"
+            },
+            {
+              "title": "Young-hee's Gaze",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F72bb052b-6e7d-4e78-a60d-69d02c577c42_seed1503469213.mp4",
+              "effectID": 317013620689664,
+              "effectPrompt": "Red Light, Green Light",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694972025-978685855.jpg"
+            },
+            {
+              "title": "Alive Art",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F2a530b2a-0df5-4794-957c-5bc87eb1c101_seed1571742112.mp4",
+              "effectID": 302325299721280,
+              "effectPrompt": "Make everything alive",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694972361-117874049.jpg"
+            },
+            {
+              "title": "Fire Roar",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F56d71e86-95ad-4869-849f-b78f5f2bc131_seed1457782325.mp4",
+              "effectID": 326607027713088,
+              "effectPrompt": "Unleash your inner flame",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694973638-136874932.jpg"
+            },
+            {
+              "title": "Ghibli Live!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F1373286d-fa08-41b3-a4d0-6e34c547e505_seed1452735808.mp4",
+              "effectID": 330523675191680,
+              "effectPrompt": "Turn your photo into a living Ghibli story!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694975191-129101223.jpg"
+            },
+            {
+              "title": "Holy Wings",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F4612f6ae-baf2-4f9a-aa43-72dbf4f6eaa1_seed966144552.mp4",
+              "effectID": 313649622731200,
+              "effectPrompt": "Get beautiful wings and lift off into sky",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694976906-970285207.jpg"
+            },
+            {
+              "title": "Sakura Flood",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fb175f60d-18ea-4ee5-a121-75517c2b3622_seed1730150864.mp4",
+              "effectID": 325367418993728,
+              "effectPrompt": "Turn the world into a Sakura Utopia",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694992514-5846711.jpg"
+            },
+            {
+              "title": "Wizard Hat",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F418d07c5-2c76-40e0-9b87-99248357e091_seed614675149.mp4",
+              "effectID": 302325299661888,
+              "effectPrompt": "The [SUBJECT] wears a magic wizard hat",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694993480-998187597.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Techno Style",
+          "effects": [
+            {
+              "title": "Sharksnap!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fb8f66d8a-4e27-42b8-beda-0afa43280710_seed179893417.mp4",
+              "effectID": 344131642438080,
+              "effectPrompt": "When life’s behind you with shark energy.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694930140-489293022.jpg"
+            },
+            {
+              "title": "Who’s Arrested?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
+              "effectID": 342847495240768,
+              "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694927758-885267965.jpg"
+            },
+            {
+              "title": "Zombie Hand",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc1ab9031-4be7-4912-8665-da6d51e9c753_seed1405497453.mp4",
+              "effectID": 302325299672128,
+              "effectPrompt": "A zombie hand appears in the [SCENE]",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694993774-458067402.jpg"
+            },
+            {
+              "title": "Zombie Mode",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F2e8f92c2-56bb-4e26-acf2-44ef8ffae066_seed405750299.mp4",
+              "effectID": 302325299651648,
+              "effectPrompt": "The [SUBJECT] suddenly transforms into a zombie.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694994084-575360334.jpg"
+            },
+            {
+              "title": "Bikini Up!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Ffd1aa344-1ade-47bb-a420-a0644489e017_seed587556791.mp4",
+              "effectID": 313555098280384,
+              "effectPrompt": "Catch the wave, rock that bikini vibe!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694994498-379576770.jpg"
+            },
+            {
+              "title": "Huge Cutie",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F9f6ad52d-a27c-438e-b1d8-03ea00543af7_seed1755554884.mp4",
+              "effectID": 329607251526400,
+              "effectPrompt": "Transform into an urban giant!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694996445-716832322.jpg"
+            },
+            {
+              "title": "Mint in Box",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa110db59-faea-4726-9ae7-dc33bba43c46_seed711158552.mp4",
+              "effectID": 333134794738752,
+              "effectPrompt": "Sealed, styled, and ready for display.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694997893-696602189.jpg"
+            },
+            {
+              "title": "Suit Swagger",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fb5da0e8c-eb7a-464a-aea2-fc9a9405f4b3_seed769665105.mp4",
+              "effectID": 328545151283968,
+              "effectPrompt": "Suit up and be a real gentleman",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694998211-865546684.jpg"
+            },
+            {
+              "title": "Vogue Walk",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc2bc6cbf-2b9f-4050-b70a-f1a005742a01_seed2076188134.mp4",
+              "effectID": 322852853601344,
+              "effectPrompt": "Walk like a supermodel and shine brighter than ever",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694998579-46306487.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Dance Floor Fever",
+          "effects": [
+            {
+              "title": "Baby Face",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa0de624a-6fe5-41d6-8886-51db0e24ab97_seed914441052.mp4",
+              "effectID": 315446232403008,
+              "effectPrompt": "Take off the mask and return to childhood",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694998859-871176798.jpg"
+            },
+            {
+              "title": "Lego Blast",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F704d8fff-f692-402b-9565-f42aca8ebe7b_seed996835961.mp4",
+              "effectID": 302325299702848,
+              "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694999211-122418879.jpg"
+            },
+            {
+              "title": "Minions Takeover!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fef7ec333-57a6-4702-886d-6a2ec3edc8f3_seed220168345.mp4",
+              "effectID": 326911344716672,
+              "effectPrompt": "Your little buddies got you styled!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694999478-793199604.jpg"
+            },
+            {
+              "title": "Puppy Me",
+              "video": "https://cdn.pika.art/v1/c02e1be9-0d1c-4725-98ee-8b8828c3e96c/Puppy_Me_seed198862487.mp4",
+              "effectID": "Puppy Me",
+              "effectPrompt": "Puppy Me",
+              "type": "Pika.art",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694999781-65860489.jpg"
+            },
+            {
+              "title": "Simpsons Homie",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6a8a0f31-3106-4e5e-ad8c-9ba183c1379e_seed2038816139.mp4",
+              "effectID": 331927590628416,
+              "effectPrompt": "You're yellow, I'm yellow — Welcome to Springfield!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695001200-944231046.jpg"
+            },
+            {
+              "title": "Carnival Queen",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7f100ba3-37de-4bfc-b6f2-74a1f7aee15e_seed512263876.mp4",
+              "effectID": 325728504863808,
+              "effectPrompt": "Get the most eye-catching carnival costume in one second!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695001609-192932543.jpg"
+            },
+            {
+              "title": "Emergency Beat",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F29ef8b1d-9d20-4bde-80ba-bd55debeb8a9_seed1429573695.mp4",
+              "effectID": 331864971269184,
+              "effectPrompt": "Emergency on the dance floor — time to slay!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695001961-352528711.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Wild Surprises",
+          "effects": [
+            {
+              "title": "Who’s Arrested?",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
+              "effectID": 342847495240768,
+              "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694927758-885267965.jpg"
+            },
+            {
+              "title": "Jiggle Jiggle",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6c330831-e4ec-4e0d-b7a8-31c62fbf2b58_seed638165965.mp4",
+              "effectID": 333178074897472,
+              "effectPrompt": "Twist your waist, clap your hands, turn around and follow the beat.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695002295-667621831.jpg"
+            },
+            {
+              "title": "Let's YMCA!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Ffe5822e6-c1a7-44ed-8dfa-db133ba04ed1_seed2073249611.mp4",
+              "effectID": 324641581197696,
+              "effectPrompt": "Everyone, join the Disco Party Jam!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695002539-685299019.jpg"
+            },
+            {
+              "title": "Mega Dive",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7725e815-12bc-4c1c-bb9a-7d9b88bc4650_seed550522056.mp4",
+              "effectID": 332074055488256,
+              "effectPrompt": "Jump into summer, cool off in the water!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695002948-496970510.jpg"
+            },
+            {
+              "title": "Vroom Vroom Step",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Ff4d36b6d-c682-46ea-836a-abec82605f6b_seed1252621530.mp4",
+              "effectID": 334053280928832,
+              "effectPrompt": "Vroom goes the beat, step hits the street",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695003249-736981413.jpg"
+            },
+            {
+              "title": "2025 Oscar Winner",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F95e813f1-352a-4640-b1be-d3c01fdf6a62_seed1092348084.mp4",
+              "effectID": 321956810449792,
+              "effectPrompt": "Pick up the Oscar trophy and cheer for yourself",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695005370-638835759.jpg"
+            },
+            {
+              "title": "Anything, Robot",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F845f888e-ee76-4dcd-8e0d-cbf4104bff04_seed1881981048.mp4",
+              "effectID": 313358700761536,
+              "effectPrompt": "Transform into a robot",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695007394-694378173.jpg"
+            },
+            {
+              "title": "Clay Fool",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa692570a-436d-4144-894b-bca2569eab0e_seed470788188.mp4",
+              "effectID": 334237192507776,
+              "effectPrompt": "Turn into a wobbly wonder",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695009142-745735423.jpg"
+            },
+            {
+              "title": "Polar Bear Shock",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F7501973c-22f6-44a4-9bd4-89a2609c8b3a_seed96031837.mp4",
+              "effectID": 325501134629952,
+              "effectPrompt": "A polar bear suddenly jumps out and hugs you",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695010618-64588991.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Street Style",
+          "effects": [
+            {
+              "title": "Night Night",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fcec7d2db-a685-490b-89bc-98cbcd304e25_seed377431798.mp4",
+              "effectID": 327306291348352,
+              "effectPrompt": "It's time to take a good rest",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695010948-415728906.jpg"
+            },
+            {
+              "title": "Paw Princess",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F71ace6dc-802a-4eae-9e11-b70563226b41_seed1388027221.mp4",
+              "effectID": 330448062595520,
+              "effectPrompt": "Dress up your pet like a royal princess",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695011268-540460704.jpg"
+            },
+            {
+              "title": "Warmth of Jesus",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fdf254ee2-16a6-46f4-b869-3cd1ea8e64bd_seed448608029.mp4",
+              "effectID": 316826014376384,
+              "effectPrompt": "Find peace in Jesus' arms.",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695011605-880277833.jpg"
+            },
+            {
+              "title": "Retro Anime Pop",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F742073f2-0574-4321-a49e-391b6023a117_seed510891103.mp4",
+              "effectID": 332758365690624,
+              "effectPrompt": "Pop yourself into a retro anime world!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695013094-77143935.jpg"
+            },
+            {
+              "title": "Snake Snuggle\n",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F5b497431-e2ef-45fd-800c-ea0f8fd21cc3_seed1484738985.mp4",
+              "effectID": 313359048325568,
+              "effectPrompt": "Anyone with the cute little snake will have good luck in the Year of the Snake!",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695014798-316568357.jpg"
+            },
+            {
+              "title": "Kungfu Club\n",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F9b4ae03d-5b50-4412-b9b5-c870095a2377_seed1530588576.mp4",
+              "effectID": 315447659476032,
+              "effectPrompt": "Let the battle begin",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695015860-617777638.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tabTitle": "aiimages",
+      "sections": [
+        {
+          "sectionTitle": "Cartoon and Toys",
+          "effects": [
+            {
+              "title": "Ghibli-Style Image",
+              "video": "https://upload.orotv.shop/videos/ghibli.mp4",
+              "effectPrompt": "Reimagine this image in the style of a Ghibli animation scene, with soft pastel tones, whimsical charm, and hand-drawn texture",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695016403-317296099.jpg"
+            },
+            {
+              "title": "Toy Box",
+              "video": "https://upload.orotv.shop/videos/toybox.mp4",
+              "effectPrompt": "Turn this person into a realistic action figure inside a collector’s toy box, including accessories and packaging design",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695016670-99142448.jpg"
+            },
+            {
+              "title": "Pixar Style",
+              "video": "https://upload.orotv.shop/videos/pixar.mp4",
+              "effectPrompt": "Transform this image into a Pixar-style 3D animation character with stylized proportions, bright lighting, and cinematic polish",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695016992-976918356.jpg"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "More Anime Styles",
+          "effects": [
+            {
+              "title": "DreamWork Style",
+              "video": "https://upload.orotv.shop/videos/dreamworks.mp4",
+              "effectPrompt": "Transform this image into a 3D animated DreamWorks character with expressive facial features, vibrant lighting, and cinematic rendering",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695017302-910075186.jpg"
+            },
+            {
+              "title": "Painting Style",
+              "video": "https://upload.orotv.shop/videos/anime.mp4",
+              "effectPrompt": "Turn this image into a detailed oil painting with rich textures and expressive brushstrokes, inspired by Van Gogh or classical artists",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695017540-68561011.jpg"
+            },
+            {
+              "title": "Anime Style",
+              "video": "https://upload.orotv.shop/videos/painting.mp4",
+              "effectPrompt": "Convert this image into a clean, vibrant anime style illustration with sharp lines, cell shading, and expressive anime eyes",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695018019-401278090.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tabTitle": "frames",
+      "sections": [
+        {
+          "sectionTitle": "Transitions",
+          "effects": [
+            {
+              "title": "Transition to Superhero",
+              "video": "https://upload.orotv.shop/videos/superhero.mp4",
+              "lastFrame": "https://upload.orotv.shop/uploads/1750095066455-465186522.png",
+              "effectPrompt": "seamless clean transition",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695018392-741852883.jpg"
+            },
+            {
+              "title": "Transition to Weather",
+              "video": "https://upload.orotv.shop/videos/weather.mp4",
+              "lastFrame": "https://upload.orotv.shop/uploads/1750095211382-614135497.jpeg",
+              "effectPrompt": "seamless smooth transition",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695018753-62399680.jpg"
+            },
+            {
+              "title": "Transition to Anime",
+              "video": "https://upload.orotv.shop/videos/animeFrames.mp4",
+              "lastFrame": "https://upload.orotv.shop/uploads/1750095144386-109341622.jpeg",
+              "effectPrompt": "smooth and seamless transition",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755695018975-914099017.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
