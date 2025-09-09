@@ -7,6 +7,14 @@
           "sectionTitle": "New and Trending",
           "effects": [
             {
+              "title": "Insta-Bangs Spray",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fbc4575b6-003d-4eed-8a49-598a8263a0d2_seed1960784665.mp4",
+              "effectID": "358127926981120",
+              "effectPrompt": "Free-flowing bangs, all thanks to magical shampoo",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1757436752374-439013906.jpg"
+            },
+            {
               "title": "Middle Finger Up",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F27680cdf-bbcb-465b-a1eb-87a70fefff1a_seed551652117.mp4",
               "effectID": "353326100438592",
