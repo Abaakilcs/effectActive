@@ -7,6 +7,14 @@
           "sectionTitle": "New and Trending",
           "effects": [
             {
+              "title": "3D Figurine Factory",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2F3dtoy_250909_2.mp4",
+              "effectID": "358817882065344",
+              "effectPrompt": "Upload your photo to generate a unique full set of 3D figurine collectibles!",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2F3dtoy_250909_2.jpg"
+            },
+            {
               "title": "Insta-Bangs Spray",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fbc4575b6-003d-4eed-8a49-598a8263a0d2_seed1960784665.mp4",
               "effectID": "358127926981120",
