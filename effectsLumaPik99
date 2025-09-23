@@ -1,6 +1,6 @@
-{
-  "tabTitle": "Effects",
-  "sections": [
+    {
+      "tabTitle": "Effects",
+      "sections": [
         {
           "sectionTitle": "New and Trending",
           "effects": [
@@ -918,4 +918,4 @@
           ]
         }
       ]
-}
+    }
