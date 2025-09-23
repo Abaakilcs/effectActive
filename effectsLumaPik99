@@ -100,8 +100,7 @@
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1755694926584-786728283.jpg"
             },
-            
-    
+
             {
               "title": "Who’s Arrested?",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fc3da6fca-108d-4408-9f34-4128da38769c_seed1714490758.mp4",
@@ -185,14 +184,6 @@
           "sectionTitle": "Cinematic Shots",
           "effects": [
             {
-              "title": "Hands Up! Hands Up!",
-              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
-              "effectID": 343058324329536,
-              "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
-              "type": "PixVerse",
-              "thumbnail": "https://upload.orotv.shop/uploads/1755694926185-676612546.jpg"
-            },
-            {
               "title": "Kiss Kiss",
               "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2Fa7a330e8-cdfc-4948-8cf6-541cba49bf28_seed1752510427.mp4",
               "effectID": 315446315336768,
@@ -260,6 +251,14 @@
               "effectPrompt": "Rotate 360 degrees in the microwave oven",
               "type": "PixVerse",
               "thumbnail": "https://upload.orotv.shop/uploads/1755694933151-357167275.jpg"
+            },
+            {
+              "title": "Hands Up! Hands Up!",
+              "video": "https://media.pixverse.ai/pixverse%2Fmp4%2Fmedia%2Fweb%2Fori%2F6d47f823-81cd-41da-a485-4884b311128e_seed375253503.mp4",
+              "effectID": 343058324329536,
+              "effectPrompt": "Raise your hands, stamp your feet, and detonate summer together ",
+              "type": "PixVerse",
+              "thumbnail": "https://upload.orotv.shop/uploads/1755694926185-676612546.jpg"
             }
           ]
         },
