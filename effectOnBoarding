@@ -1,34 +1,34 @@
 {
-[
-            {
-              "title": "Pomba Gira Slay",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_pombagira_250213.mp4",
-              "effectID": "321958080134016",
-              "effectPrompt": "Unleash desire, embrace power! You are  Pomba Gira!",
-              "type": "Epic Morph",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.png",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
-              "title": "Sailor Moon",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sailormoon_0114.mp4",
-              "effectID": "313359138372032",
-              "effectPrompt": "Moon Prism Power, Make Up!",
-              "type": "Epic Morph",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sailormoon_0115.png",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
-              "title": "Fin-tastic Mermaid",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_mermaid_250528.mp4",
-              "effectID": "340541567573824",
-              "effectPrompt": "Dive in! Get your fins now",
-              "type": "Epic Morph",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528_2.png",
-              "trending": "false",
-              "marker": "default"
-            }
-          ]
-        }
+  "effects": [
+    {
+      "title": "Pomba Gira Slay",
+      "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_pombagira_250213.mp4",
+      "effectID": "321958080134016",
+      "effectPrompt": "Unleash desire, embrace power! You are  Pomba Gira!",
+      "type": "Epic Morph",
+      "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.png",
+      "trending": "false",
+      "marker": "default"
+    },
+    {
+      "title": "Sailor Moon",
+      "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sailormoon_0114.mp4",
+      "effectID": "313359138372032",
+      "effectPrompt": "Moon Prism Power, Make Up!",
+      "type": "Epic Morph",
+      "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sailormoon_0115.png",
+      "trending": "false",
+      "marker": "default"
+    },
+    {
+      "title": "Fin-tastic Mermaid",
+      "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_mermaid_250528.mp4",
+      "effectID": "340541567573824",
+      "effectPrompt": "Dive in! Get your fins now",
+      "type": "Epic Morph",
+      "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528_2.png",
+      "trending": "false",
+      "marker": "default"
+    }
+  ]
+}
