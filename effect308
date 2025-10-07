@@ -3374,8 +3374,15 @@
       "tabTitle": "aiimages",
       "sections": [
         {
-          "sectionTitle": "Cartoon and Toys",
+          "sectionTitle": "Trending",
           "effects": [
+            {
+              "title": "Ai Homless",
+              "video": "https://upload.orotv.shop/videos/homless.mp4",
+              "effectPrompt": "Put a Homeless man in here",
+              "type": "AIimages",
+              "thumbnail": "https://upload.orotv.shop/uploads/1.jpeg"
+            },
             {
               "title": "Ghibli-Style Image",
               "video": "https://upload.orotv.shop/videos/ghibli.mp4",
