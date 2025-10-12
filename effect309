@@ -7,16 +7,6 @@
           "sectionTitle": "Trending",
           "effects": [
             {
-              "title": "Life Figurine Collector",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_toylife_250915.mp4",
-              "effectID": "359155391147328",
-              "effectPrompt": "Your game of life, archived forever.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_toylife_250915.jpg",
-              "trending": "true",
-              "marker": "new"
-            },
-            {
               "title": "Self-Figurine Roast",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_funnytoy_250916.mp4",
               "effectID": "358981599265216",
@@ -27,14 +17,24 @@
               "marker": "new"
             },
             {
-              "title": "Sharkie Plush Delivery",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sharktoy_250922.mp4",
-              "effectID": "361263764141120",
-              "effectPrompt": "Ding! Your cuteness has arrived, please sign for it.",
+              "title": "Photobooth Flashback",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_headshot_250925.mp4",
+              "effectID": "361616191476480",
+              "effectPrompt": "Cuteness overload, in a flash.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sharktoy_250922.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_headshot_250925.jpg",
               "trending": "true",
               "marker": "hot"
+            },
+            {
+              "title": "Life Figurine Collector",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_toylife_250915.mp4",
+              "effectID": "359155391147328",
+              "effectPrompt": "Your game of life, archived forever.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_toylife_250915.jpg",
+              "trending": "true",
+              "marker": "new"
             },
             {
               "title": "Forever Us",
@@ -47,12 +47,12 @@
               "marker": "default"
             },
             {
-              "title": "Photobooth Flashback",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_headshot_250925.mp4",
-              "effectID": "361616191476480",
-              "effectPrompt": "Cuteness overload, in a flash.",
+              "title": "Sharkie Plush Delivery",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sharktoy_250922.mp4",
+              "effectID": "361263764141120",
+              "effectPrompt": "Ding! Your cuteness has arrived, please sign for it.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_headshot_250925.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sharktoy_250922.jpg",
               "trending": "true",
               "marker": "hot"
             },
@@ -357,16 +357,6 @@
               "marker": "default"
             },
             {
-              "title": "Coral Dreamscape",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_coral_250903.mp4",
-              "effectID": "357903949828480",
-              "effectPrompt": "Dive in, your coral fantasy awaits",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_coral_250903.jpg",
-              "trending": "true",
-              "marker": "new"
-            },
-            {
               "title": "Anime Magic",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_ghibli_i2i_250402.mp4",
               "effectID": "330688573362560",
@@ -375,6 +365,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.png",
               "trending": "true",
               "marker": "default"
+            },
+            {
+              "title": "Coral Dreamscape",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_coral_250903.mp4",
+              "effectID": "357903949828480",
+              "effectPrompt": "Dive in, your coral fantasy awaits",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_coral_250903.jpg",
+              "trending": "true",
+              "marker": "new"
             },
             {
               "title": "Hug Lord Ganesha",
@@ -527,16 +527,6 @@
               "marker": "default"
             },
             {
-              "title": "Rat Dance Killer",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_ratdance_250626.mov",
-              "effectID": "343058469676096",
-              "effectPrompt": "Do the rat dance anywhere in the world",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ratdance_250626.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Gabu Dance",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_gabudance_0624.mp4",
               "effectID": "343058274917440",
@@ -547,12 +537,12 @@
               "marker": "default"
             },
             {
-              "title": "Black Myth: Wukong",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_blackmyth_0114.mp4",
-              "effectID": "313359209531840",
-              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
+              "title": "Rat Dance Killer",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_ratdance_250626.mov",
+              "effectID": "343058469676096",
+              "effectPrompt": "Do the rat dance anywhere in the world",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth_0115.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ratdance_250626.png",
               "trending": "true",
               "marker": "default"
             },
@@ -563,6 +553,16 @@
               "effectPrompt": "Join the Global Barbie Craze! ✨",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Black Myth: Wukong",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_blackmyth_0114.mp4",
+              "effectID": "313359209531840",
+              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth_0115.png",
               "trending": "true",
               "marker": "default"
             },
@@ -607,16 +607,6 @@
               "marker": "default"
             },
             {
-              "title": "Blueprint Supreme",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dazhanhongtu_250710.mov",
-              "effectID": "345883170158144",
-              "effectPrompt": "Singing karaoke in the villa, silver dragon fish in the pool?",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dazhanhongtu_250710.png",
-              "trending": "true",
-              "marker": "hot"
-            },
-            {
               "title": "Squid Game",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_squidgame_250121.mp4",
               "effectID": "316139945292864",
@@ -625,6 +615,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squid_250115.png",
               "trending": "true",
               "marker": "default"
+            },
+            {
+              "title": "Blueprint Supreme",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dazhanhongtu_250710.mov",
+              "effectID": "345883170158144",
+              "effectPrompt": "Singing karaoke in the villa, silver dragon fish in the pool?",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_dazhanhongtu_250710.png",
+              "trending": "true",
+              "marker": "hot"
             },
             {
               "title": "3D Figurine Factory",
@@ -667,16 +667,6 @@
               "marker": "default"
             },
             {
-              "title": "Honey Bee Magic",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bee_250523.mp4",
-              "effectID": "339694359740224",
-              "effectPrompt": "One click, bee my honey magic buddy?",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bee_250523.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Kitten Hide and Seek",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_cat_250815_4.mp4",
               "effectID": "354568167143040",
@@ -685,6 +675,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_250815_2.jpg",
               "trending": "true",
               "marker": "new"
+            },
+            {
+              "title": "Honey Bee Magic",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bee_250523.mp4",
+              "effectID": "339694359740224",
+              "effectPrompt": "One click, bee my honey magic buddy?",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_bee_250523.png",
+              "trending": "true",
+              "marker": "default"
             },
             {
               "title": "Aobing: Icy Frost",
@@ -737,14 +737,14 @@
               "marker": "default"
             },
             {
-              "title": "Holy Wings",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_anglewings_250210_1.mp4",
-              "effectID": "313649622731200",
-              "effectPrompt": "Get beautiful wings and lift off into sky",
+              "title": "Buddha’s Blessing",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_buddha_250814.mp4",
+              "effectID": "354340119359936",
+              "effectPrompt": "Feel the power, embrace the peace.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_buddha_250814.jpg",
               "trending": "true",
-              "marker": "default"
+              "marker": "new"
             },
             {
               "title": "Suit Swagger",
@@ -757,14 +757,14 @@
               "marker": "default"
             },
             {
-              "title": "Buddha’s Blessing",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_buddha_250814.mp4",
-              "effectID": "354340119359936",
-              "effectPrompt": "Feel the power, embrace the peace.",
+              "title": "Holy Wings",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_anglewings_250210_1.mp4",
+              "effectID": "313649622731200",
+              "effectPrompt": "Get beautiful wings and lift off into sky",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_buddha_250814.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.png",
               "trending": "true",
-              "marker": "new"
+              "marker": "default"
             },
             {
               "title": "Kungfu Club",
@@ -807,22 +807,22 @@
               "marker": "default"
             },
             {
-              "title": "Sharksnap!",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_shark_250617.mov",
-              "effectID": "344131642438080",
-              "effectPrompt": "When life’s behind you with shark energy.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shark_250617.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Mega Dive",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_diving_250410.mp4",
               "effectID": "332074055488256",
               "effectPrompt": "Jump into summer, cool off in the water!",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_diving_250410.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Sharksnap!",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_shark_250617.mov",
+              "effectID": "344131642438080",
+              "effectPrompt": "When life’s behind you with shark energy.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shark_250617.png",
               "trending": "true",
               "marker": "default"
             },
@@ -897,12 +897,12 @@
               "marker": "default"
             },
             {
-              "title": "Baby Arrived",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_getbaby_250611.mov",
-              "effectID": "342874383633472",
-              "effectPrompt": "Mummy and daddy, I’m here!",
+              "title": "Just a Friend?",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_justafriendnew2_250517.mp4",
+              "effectID": "338611800368896",
+              "effectPrompt": "One click from Chill to Slay",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_getbaby_250611.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2FMaddy+.PNG",
               "trending": "true",
               "marker": "default"
             },
@@ -917,12 +917,12 @@
               "marker": "default"
             },
             {
-              "title": "Just a Friend?",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_justafriendnew2_250517.mp4",
-              "effectID": "338611800368896",
-              "effectPrompt": "One click from Chill to Slay",
+              "title": "Baby Arrived",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_getbaby_250611.mov",
+              "effectID": "342874383633472",
+              "effectPrompt": "Mummy and daddy, I’m here!",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2FMaddy+.PNG",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_getbaby_250611.png",
               "trending": "true",
               "marker": "default"
             },
@@ -987,22 +987,22 @@
               "marker": "new"
             },
             {
-              "title": "Emergency Beat",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.mp4",
-              "effectID": "331864971269184",
-              "effectPrompt": "Emergency on the dance floor — time to slay!",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_emergency_250409.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Transition",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_transition_250422.mp4",
               "effectID": "334005897813056",
               "effectPrompt": "You can become anyone you want",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Emergency Beat",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.mp4",
+              "effectID": "331864971269184",
+              "effectPrompt": "Emergency on the dance floor — time to slay!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_emergency_250409.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1037,16 +1037,6 @@
               "marker": "default"
             },
             {
-              "title": "Winged Wardrobe",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_winged_0623.mp4",
-              "effectID": "345014411085376",
-              "effectPrompt": "Wear ethereal wings and dazzle like a supermodel",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_modelangel_0622.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Welcome to My House",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_house_250711.mp4",
               "effectID": "348369452948224",
@@ -1055,6 +1045,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_house_250711.png",
               "trending": "true",
               "marker": "new"
+            },
+            {
+              "title": "Winged Wardrobe",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_winged_0623.mp4",
+              "effectID": "345014411085376",
+              "effectPrompt": "Wear ethereal wings and dazzle like a supermodel",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_modelangel_0622.png",
+              "trending": "true",
+              "marker": "default"
             },
             {
               "title": "Dream Mount",
@@ -1067,16 +1067,6 @@
               "marker": "default"
             },
             {
-              "title": "Skull Multiverse ",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_skull_250825_3.mp4",
-              "effectID": "356317200152960",
-              "effectPrompt": "Which skull is your true face?",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skull_250825.jpg",
-              "trending": "true",
-              "marker": "new"
-            },
-            {
               "title": "Emoji Check!",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_phoneemoji_250731.mp4",
               "effectID": "351913231468160",
@@ -1087,14 +1077,14 @@
               "marker": "new"
             },
             {
-              "title": "Werewolf Rage",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_werewolf_250430.mp4",
-              "effectID": "335610959448832",
-              "effectPrompt": "The full moon rises, your fangs come out.",
+              "title": "Skull Multiverse ",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_skull_250825_3.mp4",
+              "effectID": "356317200152960",
+              "effectPrompt": "Which skull is your true face?",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_skull_250825.jpg",
               "trending": "true",
-              "marker": "default"
+              "marker": "new"
             },
             {
               "title": "Figurine Me Up!",
@@ -1105,6 +1095,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3dtoy_250911.jpg",
               "trending": "true",
               "marker": "hot"
+            },
+            {
+              "title": "Werewolf Rage",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_werewolf_250430.mp4",
+              "effectID": "335610959448832",
+              "effectPrompt": "The full moon rises, your fangs come out.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.png",
+              "trending": "true",
+              "marker": "default"
             },
             {
               "title": "My Destiny Tarot Card",
@@ -1207,16 +1207,6 @@
               "marker": "default"
             },
             {
-              "title": "Alive Art",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_aliveart_250121.mp4",
-              "effectID": "302325299721280",
-              "effectPrompt": "Make everything alive",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aliveart_0115.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Ninja Shadow Clone",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_clone_250814.mp4",
               "effectID": "354371350649280",
@@ -1225,6 +1215,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clone_250814.jpg",
               "trending": "true",
               "marker": "new"
+            },
+            {
+              "title": "Alive Art",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_aliveart_250121.mp4",
+              "effectID": "302325299721280",
+              "effectPrompt": "Make everything alive",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aliveart_0115.png",
+              "trending": "true",
+              "marker": "default"
             },
             {
               "title": "Dust Me Away",
