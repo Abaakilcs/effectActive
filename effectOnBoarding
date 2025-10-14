@@ -1,15 +1,15 @@
 {
   "effects": [
-    {
-      "title": "Pomba Gira Slay",
-      "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_pombagira_250213.mp4",
-      "effectID": "321958080134016",
-      "effectPrompt": "Unleash desire, embrace power! You are  Pomba Gira!",
-      "type": "PixVerse",
-      "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.png",
-      "trending": "false",
-      "marker": "default"
-    },
+            {
+              "title": "Kiss Kiss",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kisskiss_250610.mp4",
+              "effectID": "315446315336768",
+              "effectPrompt": "One click to send your kiss",
+              "type": "PixVerse",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_250610.png",
+              "trending": "true",
+   "marker": "default"
+     },
     {
      "title": "Ai Homless",
      "video": "https://upload.orotv.shop/videos/homless.mp4",
