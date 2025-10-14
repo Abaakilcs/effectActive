@@ -11,15 +11,12 @@
       "marker": "default"
     },
     {
-      "title": "Sailor Moon",
-      "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sailormoon_0114.mp4",
-      "effectID": "313359138372032",
-      "effectPrompt": "Moon Prism Power, Make Up!",
-      "type": "PixVerse",
-      "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sailormoon_0115.png",
-      "trending": "false",
-      "marker": "default"
-    },
+     "title": "Ai Homless",
+     "video": "https://upload.orotv.shop/videos/homless.mp4",
+     "effectPrompt": "Put a Homeless man in here",
+     "type": "AIimages",
+    "thumbnail": "https://upload.orotv.shop/uploads/1.jpeg"
+     },
     {
       "title": "Fin-tastic Mermaid",
       "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_mermaid_250528.mp4",
