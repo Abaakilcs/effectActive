@@ -3663,20 +3663,6 @@
         {
           "sectionTitle": "Cartoon and Toys",
           "effects": [
-{
-              "title": "AI Polaroid",
-              "video": "https://upload.orotv.shop/videos/homless.mp4",
-              "effectPrompt": "Create a Polaroid-style photo, as if it were taken with a Polaroid camera. The photo should look like a regular snapshot, without any obvious props or staged elements. Add a slight blur and a consistent light source, such as a flash from a dim room, scattered throughout the photo. Don’t alter the faces. Replace the background with soft white curtains. Show two people looking directly at the camera while hugging or laughing, capturing a natural, candid moment",
-              "type": "AIimages",
-              "thumbnail": "https://file.aiquickdraw.com/custom-page/akr/section-images/1758175621091a0zoizxy.png"
-            },
-            {
-              "title": "Ai Homless",
-              "video": "https://upload.orotv.shop/videos/homless.mp4",
-              "effectPrompt": "Put a Homeless man in here",
-              "type": "AIimages",
-              "thumbnail": "https://upload.orotv.shop/uploads/1.jpeg"
-            },
             {
               "title": "Ghibli-Style Image",
               "video": "https://upload.orotv.shop/videos/ghibli.mp4",
