@@ -7,34 +7,14 @@
           "sectionTitle": "Trending",
           "effects": [
             {
-              "title": "Sharkie Plush Delivery",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sharktoy_250922.mp4",
-              "effectID": "361263764141120",
-              "effectPrompt": "Ding! Your cuteness has arrived, please sign for it.",
+              "title": "Photobooth Flashback",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_headshot_250925.mp4",
+              "effectID": "361616191476480",
+              "effectPrompt": "Cuteness overload, in a flash.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sharktoy_250922.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_headshot_250925.jpg",
               "trending": "true",
               "marker": "hot"
-            },
-            {
-              "title": "Life Figurine Collector",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_toylife_250915.mp4",
-              "effectID": "359155391147328",
-              "effectPrompt": "Your game of life, archived forever.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_toylife_250915.jpg",
-              "trending": "true",
-              "marker": "new"
-            },
-            {
-              "title": "Self-Figurine Roast",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_funnytoy_250916.mp4",
-              "effectID": "358981599265216",
-              "effectPrompt": "Upload photo to see who has the ugliest figurine.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_funnytoy_250915.jpg",
-              "trending": "true",
-              "marker": "new"
             },
             {
               "title": "Forever Us",
@@ -47,14 +27,34 @@
               "marker": "default"
             },
             {
-              "title": "Photobooth Flashback",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_headshot_250925.mp4",
-              "effectID": "361616191476480",
-              "effectPrompt": "Cuteness overload, in a flash.",
+              "title": "Life Figurine Collector",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_toylife_250915.mp4",
+              "effectID": "359155391147328",
+              "effectPrompt": "Your game of life, archived forever.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_headshot_250925.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_toylife_250915.jpg",
+              "trending": "true",
+              "marker": "new"
+            },
+            {
+              "title": "Sharkie Plush Delivery",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sharktoy_250922.mp4",
+              "effectID": "361263764141120",
+              "effectPrompt": "Ding! Your cuteness has arrived, please sign for it.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sharktoy_250922.jpg",
               "trending": "true",
               "marker": "hot"
+            },
+            {
+              "title": "Self-Figurine Roast",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_funnytoy_250916.mp4",
+              "effectID": "358981599265216",
+              "effectPrompt": "Upload photo to see who has the ugliest figurine.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_funnytoy_250915.jpg",
+              "trending": "true",
+              "marker": "new"
             },
             {
               "title": "Lego Blast",
@@ -357,16 +357,6 @@
               "marker": "default"
             },
             {
-              "title": "Anime Magic",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_ghibli_i2i_250402.mp4",
-              "effectID": "330688573362560",
-              "effectPrompt": "Turn your photo into am anime masterpiece!",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Hug Lord Ganesha",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_india_250905.mp4",
               "effectID": "339164540606208",
@@ -385,6 +375,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_coral_250903.jpg",
               "trending": "true",
               "marker": "new"
+            },
+            {
+              "title": "Anime Magic",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_ghibli_i2i_250402.mp4",
+              "effectID": "330688573362560",
+              "effectPrompt": "Turn your photo into am anime masterpiece!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.png",
+              "trending": "true",
+              "marker": "default"
             },
             {
               "title": "Neymar DJ Dance",
@@ -547,22 +547,22 @@
               "marker": "default"
             },
             {
-              "title": "Black Myth: Wukong",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_blackmyth_0114.mp4",
-              "effectID": "313359209531840",
-              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth_0115.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Born to Barbie",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_barbie_250429.mov",
               "effectID": "335261821526784",
               "effectPrompt": "Join the Global Barbie Craze! ✨",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Black Myth: Wukong",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_blackmyth_0114.mp4",
+              "effectID": "313359209531840",
+              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth_0115.png",
               "trending": "true",
               "marker": "default"
             },
@@ -587,22 +587,22 @@
               "marker": "default"
             },
             {
-              "title": "360° Microwave",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_360_250227.mp4",
-              "effectID": "324641385496960",
-              "effectPrompt": "Rotate 360 degrees in the microwave oven",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Strikeout Dance",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3wave_250626.mov",
               "effectID": "343058619202624",
               "effectPrompt": "Three strikes, one round",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_3wave_250626.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "360° Microwave",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_360_250227.mp4",
+              "effectID": "324641385496960",
+              "effectPrompt": "Rotate 360 degrees in the microwave oven",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_360_250227.png",
               "trending": "true",
               "marker": "default"
             },
@@ -737,16 +737,6 @@
               "marker": "default"
             },
             {
-              "title": "Holy Wings",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_anglewings_250210_1.mp4",
-              "effectID": "313649622731200",
-              "effectPrompt": "Get beautiful wings and lift off into sky",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Suit Swagger",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_suit_250324.mp4",
               "effectID": "328545151283968",
@@ -765,6 +755,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_buddha_250814.jpg",
               "trending": "true",
               "marker": "new"
+            },
+            {
+              "title": "Holy Wings",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_anglewings_250210_1.mp4",
+              "effectID": "313649622731200",
+              "effectPrompt": "Get beautiful wings and lift off into sky",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anglewings_250208.png",
+              "trending": "true",
+              "marker": "default"
             },
             {
               "title": "Kungfu Club",
@@ -857,22 +857,22 @@
               "marker": "default"
             },
             {
-              "title": "Cleopatra Reborn",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_cleopatra_250613.mov",
-              "effectID": "343241420215360",
-              "effectPrompt": "No more pretending — I am Cleopatra.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "My Chanel",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_mychanel_0717.mp4",
               "effectID": "349454446560896",
               "effectPrompt": "Fashion fades, only style remains the same",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_chanel_0717.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Cleopatra Reborn",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_cleopatra_250613.mov",
+              "effectID": "343241420215360",
+              "effectPrompt": "No more pretending — I am Cleopatra.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_cleopatra_250613.png",
               "trending": "true",
               "marker": "default"
             },
@@ -907,22 +907,22 @@
               "marker": "default"
             },
             {
-              "title": "Baby Arrived",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_getbaby_250611.mov",
-              "effectID": "342874383633472",
-              "effectPrompt": "Mummy and daddy, I’m here!",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_getbaby_250611.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Past Life Job",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_job_250624.mov",
               "effectID": "344263482059200",
               "effectPrompt": "Spin the career wheel and find out who you were before!",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_job_250624.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Baby Arrived",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_getbaby_250611.mov",
+              "effectID": "342874383633472",
+              "effectPrompt": "Mummy and daddy, I’m here!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_getbaby_250611.png",
               "trending": "true",
               "marker": "default"
             },
@@ -987,22 +987,22 @@
               "marker": "new"
             },
             {
-              "title": "Emergency Beat",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.mp4",
-              "effectID": "331864971269184",
-              "effectPrompt": "Emergency on the dance floor — time to slay!",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_emergency_250409.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Transition",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_transition_250422.mp4",
               "effectID": "334005897813056",
               "effectPrompt": "You can become anyone you want",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Emergency Beat",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.mp4",
+              "effectID": "331864971269184",
+              "effectPrompt": "Emergency on the dance floor — time to slay!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_emergency_250409.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1087,16 +1087,6 @@
               "marker": "new"
             },
             {
-              "title": "Werewolf Rage",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_werewolf_250430.mp4",
-              "effectID": "335610959448832",
-              "effectPrompt": "The full moon rises, your fangs come out.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Figurine Me Up!",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3dtoy_250911_2.mp4",
               "effectID": "359328847686976",
@@ -1105,6 +1095,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3dtoy_250911.jpg",
               "trending": "true",
               "marker": "hot"
+            },
+            {
+              "title": "Werewolf Rage",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_werewolf_250430.mp4",
+              "effectID": "335610959448832",
+              "effectPrompt": "The full moon rises, your fangs come out.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.png",
+              "trending": "true",
+              "marker": "default"
             },
             {
               "title": "My Destiny Tarot Card",
@@ -1207,16 +1207,6 @@
               "marker": "default"
             },
             {
-              "title": "Ninja Shadow Clone",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_clone_250814.mp4",
-              "effectID": "354371350649280",
-              "effectPrompt": "Clone yourself, conquer the world",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clone_250814.jpg",
-              "trending": "true",
-              "marker": "new"
-            },
-            {
               "title": "Alive Art",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_aliveart_250121.mp4",
               "effectID": "302325299721280",
@@ -1225,6 +1215,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_aliveart_0115.png",
               "trending": "true",
               "marker": "default"
+            },
+            {
+              "title": "Ninja Shadow Clone",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_clone_250814.mp4",
+              "effectID": "354371350649280",
+              "effectPrompt": "Clone yourself, conquer the world",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clone_250814.jpg",
+              "trending": "true",
+              "marker": "new"
             },
             {
               "title": "Dust Me Away",
@@ -1537,6 +1537,16 @@
               "marker": "default"
             },
             {
+              "title": "Elevator photoshoot",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Elevator+photoshootbgm2_251013.mp4",
+              "effectID": "364673505073920",
+              "effectPrompt": "Single or group photos are acceptable.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_Elevator+photoshoot_251013.png",
+              "trending": "true",
+              "marker": "new"
+            },
+            {
               "title": "Dad vs. Me",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_fightingfather_0613.mp4",
               "effectID": "343410955453504",
@@ -1627,16 +1637,6 @@
               "marker": "new"
             },
             {
-              "title": "Elevator photoshoot",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Elevator+photoshootbgm2_251013.mp4",
-              "effectID": "364673505073920",
-              "effectPrompt": "Single or group photos are acceptable.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_Elevator+photoshoot_251013.png",
-              "trending": "true",
-              "marker": "new"
-            },
-            {
               "title": "Subject 3 Fever",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_subject3_250318.mp4",
               "effectID": "327828816843648",
@@ -1685,6 +1685,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_250610.png",
               "trending": "true",
               "marker": "default"
+            },
+            {
+              "title": "Halloween Voodoo Doll",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_doll_251016.mp4",
+              "effectID": "365519364076288",
+              "effectPrompt": "The ropes are tightening. Your voodoo transformation starts now.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_doll_251016.jpg",
+              "trending": "true",
+              "marker": "new"
             }
           ]
         },
@@ -1722,6 +1732,16 @@
               "marker": "new"
             },
             {
+              "title": "Werewolf Rage",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_werewolf_250430.mp4",
+              "effectID": "335610959448832",
+              "effectPrompt": "The full moon rises, your fangs come out.",
+              "type": "Halloween",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.png",
+              "trending": "false",
+              "marker": "default"
+            },
+            {
               "title": "Creepy Devil Smile",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_creepy_250516.mp4",
               "effectID": "338445884778240",
@@ -1740,6 +1760,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_scream_250930.jpg",
               "trending": "false",
               "marker": "hot"
+            },
+            {
+              "title": "Halloween Voodoo Doll",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_doll_251016.mp4",
+              "effectID": "365519364076288",
+              "effectPrompt": "The ropes are tightening. Your voodoo transformation starts now.",
+              "type": "Halloween",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_doll_251016.jpg",
+              "trending": "false",
+              "marker": "new"
             }
           ]
         },
@@ -3257,6 +3287,16 @@
               "marker": "default"
             },
             {
+              "title": "Elevator photoshoot",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Elevator+photoshootbgm2_251013.mp4",
+              "effectID": "364673505073920",
+              "effectPrompt": "Single or group photos are acceptable.",
+              "type": "Heart Echo",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_Elevator+photoshoot_251013.png",
+              "trending": "false",
+              "marker": "new"
+            },
+            {
               "title": "Mwah Mwah",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kiss2_250805.mp4",
               "effectID": "352802159378368",
@@ -3283,16 +3323,6 @@
               "effectPrompt": "Kissing non-stop, feeling the endless desire ",
               "type": "Heart Echo",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_wetkiss_250910.jpg",
-              "trending": "false",
-              "marker": "new"
-            },
-            {
-              "title": "Elevator photoshoot",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Elevator+photoshootbgm2_251013.mp4",
-              "effectID": "364673505073920",
-              "effectPrompt": "Single or group photos are acceptable.",
-              "type": "Heart Echo",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_Elevator+photoshoot_251013.png",
               "trending": "false",
               "marker": "new"
             },
