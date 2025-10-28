@@ -7,6 +7,26 @@
           "sectionTitle": "Trending",
           "effects": [
             {
+              "title": "Fresh Face for Sale",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_freshface_251017.mp4",
+              "effectID": "365711597798144",
+              "effectPrompt": "Special delivery for Halloween.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_freshface_251017.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Supermarket AD",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B63.mp4",
+              "effectID": "365192361458432",
+              "effectPrompt": "Display your products centrally in the supermarket.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B62.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
               "title": "Self-Figurine Roast",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_funnytoy_250916.mp4",
               "effectID": "358981599265216",
@@ -37,32 +57,12 @@
               "marker": "default"
             },
             {
-              "title": "Supermarket AD",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B63.mp4",
-              "effectID": "365192361458432",
-              "effectPrompt": "Display your products centrally in the supermarket.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%A3%9F%E5%93%81%E8%B4%A7%E6%9E%B62.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Sharkie Plush Delivery",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sharktoy_250922.mp4",
               "effectID": "361263764141120",
               "effectPrompt": "Ding! Your cuteness has arrived, please sign for it.",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sharktoy_250922.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
-              "title": "Fresh Face for Sale",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_freshface_251017.mp4",
-              "effectID": "365711597798144",
-              "effectPrompt": "Special delivery for Halloween.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_freshface_251017.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -97,22 +97,22 @@
               "marker": "default"
             },
             {
-              "title": "99  Problems 1 Solution",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_991_250703.mp4",
-              "effectID": "346969951527360",
-              "effectPrompt": "Cat, spa, coffin, or alcohol? ",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_991_250703.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Lego Blast",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Flego_250715.mp4",
               "effectID": "302325299702848",
               "effectPrompt": "The [OBJECT] shatters into pieces of Legos",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_legoblast_0115.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "99  Problems 1 Solution",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_991_250703.mp4",
+              "effectID": "346969951527360",
+              "effectPrompt": "Cat, spa, coffin, or alcohol? ",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_991_250703.png",
               "trending": "true",
               "marker": "default"
             },
@@ -387,12 +387,42 @@
               "marker": "default"
             },
             {
+              "title": "Easter Serenity",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fdd1c3395-8303-4721-b1db-b1aa32f568e9.mp4",
+              "effectID": "365301137193286",
+              "effectPrompt": "From spring’s heart — hope is reborn.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Fa7fb36ea-9af7-46a8-aea9-fcac272f4820.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Fairy Awakening",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fca76474d-f2d4-4bbc-8f9d-1cabdd271628.mp4",
+              "effectID": "362996370267867",
+              "effectPrompt": "From the fairy’s light — dreams take flight.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F7a157a9c-7cee-4618-a6f9-ca8c97e40399.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
               "title": "Coral Dreamscape",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_coral_250903.mp4",
               "effectID": "357903949828480",
               "effectPrompt": "Dive in, your coral fantasy awaits",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_coral_250903.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "I Want to Be a Beer",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fbabdfb69-46b4-4b76-9c32-80942acd8f9b.mp4",
+              "effectID": "361993440092761",
+              "effectPrompt": "Weary of being human? It's time to transform into a beer!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Faf2164c0-6c44-4cbe-adc1-f8ed17a96790.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -477,16 +507,6 @@
               "marker": "default"
             },
             {
-              "title": "Gender Swap",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_genderchange_250221.mp4",
-              "effectID": "323578865822784",
-              "effectPrompt": "Change your gender with one click",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ganderchange_250221.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Skeleton Dance",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_skeleton_250513_2.mp4",
               "effectID": "337572593925696",
@@ -497,12 +517,12 @@
               "marker": "default"
             },
             {
-              "title": "Carnival Queen",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_carnival_250308.mp4",
-              "effectID": "325728504863808",
-              "effectPrompt": "Get the most eye-catching carnival costume in one second!",
+              "title": "Gender Swap",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_genderchange_250221.mp4",
+              "effectID": "323578865822784",
+              "effectPrompt": "Change your gender with one click",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ganderchange_250221.png",
               "trending": "true",
               "marker": "default"
             },
@@ -517,12 +537,12 @@
               "marker": "default"
             },
             {
-              "title": "Anime Magic",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_ghibli_i2i_250402.mp4",
-              "effectID": "330688573362560",
-              "effectPrompt": "Turn your photo into am anime masterpiece!",
+              "title": "Carnival Queen",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_carnival_250308.mp4",
+              "effectID": "325728504863808",
+              "effectPrompt": "Get the most eye-catching carnival costume in one second!",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.png",
               "trending": "true",
               "marker": "default"
             },
@@ -533,6 +553,26 @@
               "effectPrompt": "The ropes are tightening. Your voodoo transformation starts now.",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_doll_251016.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Anime Magic",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_ghibli_i2i_250402.mp4",
+              "effectID": "330688573362560",
+              "effectPrompt": "Turn your photo into am anime masterpiece!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ghibli_i2i_250402.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Freddy Krueger Chase",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1e2f821e-beef-4357-bf2b-e6356297733a.mp4",
+              "effectID": "362793479876345",
+              "effectPrompt": "Transform any photo into a chilling horror scene.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F3870a3fc-61c1-4b75-927a-817aefe67039.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -577,26 +617,6 @@
               "marker": "default"
             },
             {
-              "title": "Black Myth: Wukong",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_blackmyth_0114.mp4",
-              "effectID": "313359209531840",
-              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth_0115.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
-              "title": "Rain of Redemption",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_shawshank_250622_2.mov",
-              "effectID": "343431441233856",
-              "effectPrompt": "Stand in the rain — every drop sets you free",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shawshank_250622.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "2025 Oscar Winner",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_oscar_250226_3.mp4",
               "effectID": "321956810449792",
@@ -607,12 +627,32 @@
               "marker": "default"
             },
             {
+              "title": "Black Myth: Wukong",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_blackmyth_0114.mp4",
+              "effectID": "313359209531840",
+              "effectPrompt": "I am Sun Wukong, the Victorious Fighting Buddha!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth_0115.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
               "title": "Ocean AD",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%811.mp4",
               "effectID": "364649375312640",
               "effectPrompt": "Place your product under the sea",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2F%E6%B5%B7%E6%B4%8B%E5%8C%96%E5%A6%86%E5%93%81.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Rain of Redemption",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_shawshank_250622_2.mov",
+              "effectID": "343431441233856",
+              "effectPrompt": "Stand in the rain — every drop sets you free",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_shawshank_250622.png",
               "trending": "true",
               "marker": "default"
             },
@@ -827,22 +867,22 @@
               "marker": "default"
             },
             {
-              "title": "Insta-Bangs Spray",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_spray_250904.mp4",
-              "effectID": "358127926981120",
-              "effectPrompt": "Free-flowing bangs, all thanks to magical shampoo",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_spray_250904.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Born to Barbie",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_barbie_250429.mov",
               "effectID": "335261821526784",
               "effectPrompt": "Join the Global Barbie Craze! ✨",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Insta-Bangs Spray",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_spray_250904.mp4",
+              "effectID": "358127926981120",
+              "effectPrompt": "Free-flowing bangs, all thanks to magical shampoo",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_spray_250904.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -927,12 +967,12 @@
               "marker": "default"
             },
             {
-              "title": "Vampire Royalty",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_vampire_250911.mp4",
-              "effectID": "359516293494080",
-              "effectPrompt": "Lift the eternal veil, reveal your crimson elegance.",
+              "title": "Haunting Doll",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_tim_250917.mp4",
+              "effectID": "360405191066176",
+              "effectPrompt": "Being human is tiring. Let me become a ghost and rest for a bit!",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_vampire_250911.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tim_250917.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -947,12 +987,12 @@
               "marker": "default"
             },
             {
-              "title": "Haunting Doll",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_tim_250917.mp4",
-              "effectID": "360405191066176",
-              "effectPrompt": "Being human is tiring. Let me become a ghost and rest for a bit!",
+              "title": "Vampire Royalty",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_vampire_250911.mp4",
+              "effectID": "359516293494080",
+              "effectPrompt": "Lift the eternal veil, reveal your crimson elegance.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tim_250917.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_vampire_250911.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -997,12 +1037,12 @@
               "marker": "default"
             },
             {
-              "title": "Trippy Lilies",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_lilies_250522.mp4",
-              "effectID": "339398587639552",
-              "effectPrompt": "Dreams bloom in silence — beauty with a twist",
+              "title": "Kitten Hide and Seek",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_cat_250815_4.mp4",
+              "effectID": "354568167143040",
+              "effectPrompt": "Cats love their hideaways, let’s go find them!",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lilies_250522.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_250815_2.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -1017,12 +1057,12 @@
               "marker": "default"
             },
             {
-              "title": "Kitten Hide and Seek",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_cat_250815_4.mp4",
-              "effectID": "354568167143040",
-              "effectPrompt": "Cats love their hideaways, let’s go find them!",
+              "title": "Trippy Lilies",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_lilies_250522.mp4",
+              "effectID": "339398587639552",
+              "effectPrompt": "Dreams bloom in silence — beauty with a twist",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_250815_2.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_lilies_250522.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1127,22 +1167,22 @@
               "marker": "default"
             },
             {
-              "title": "Transition",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_transition_250422.mp4",
-              "effectID": "334005897813056",
-              "effectPrompt": "You can become anyone you want",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Dream Mount",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_mount_250511.mp4",
               "effectID": "336699420635904",
               "effectPrompt": "Choose your ride, and ride your vibe.",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mount_250511.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Transition",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_transition_250422.mp4",
+              "effectID": "334005897813056",
+              "effectPrompt": "You can become anyone you want",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_transition_250422.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1227,22 +1267,22 @@
               "marker": "default"
             },
             {
-              "title": "Eye Zoom Challenge",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_eye_250524.mp4",
-              "effectID": "339848996187712",
-              "effectPrompt": "Zoom into your pupil — and the whole world falls with you",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Cry Me a River",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_tears_250508.mp4",
               "effectID": "337052664588608",
               "effectPrompt": "Let it out, let it out. Tears like a waterfall.",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tears_250508.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Eye Zoom Challenge",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_eye_250524.mp4",
+              "effectID": "339848996187712",
+              "effectPrompt": "Zoom into your pupil — and the whole world falls with you",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1267,22 +1307,22 @@
               "marker": "default"
             },
             {
-              "title": "Long Hair Magic",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Flonghair_250715.mp4",
-              "effectID": "308552687706496",
-              "effectPrompt": "Grow lots of hair. Never be bald.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hairgrowth_0115.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Werewolf Rage",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_werewolf_250430.mp4",
               "effectID": "335610959448832",
               "effectPrompt": "The full moon rises, your fangs come out.",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_werewolf_250430.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Long Hair Magic",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Flonghair_250715.mp4",
+              "effectID": "308552687706496",
+              "effectPrompt": "Grow lots of hair. Never be bald.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_hairgrowth_0115.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1357,22 +1397,22 @@
               "marker": "default"
             },
             {
-              "title": "Muscle Pro: Born to Built",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_250914.mp4",
-              "effectID": "359850491398912",
-              "effectPrompt": "Your body, born powerful.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_250914.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Ninja Shadow Clone",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_clone_250814.mp4",
               "effectID": "354371350649280",
               "effectPrompt": "Clone yourself, conquer the world",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_clone_250814.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Muscle Pro: Born to Built",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_250914.mp4",
+              "effectID": "359850491398912",
+              "effectPrompt": "Your body, born powerful.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_250914.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -1647,26 +1687,6 @@
               "marker": "default"
             },
             {
-              "title": "Easter Serenity",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fdd1c3395-8303-4721-b1db-b1aa32f568e9.mp4",
-              "effectID": "365301137193286",
-              "effectPrompt": "From spring’s heart — hope is reborn.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Fa7fb36ea-9af7-46a8-aea9-fcac272f4820.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
-              "title": "Fairy Awakening",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fca76474d-f2d4-4bbc-8f9d-1cabdd271628.mp4",
-              "effectID": "362996370267867",
-              "effectPrompt": "From the fairy’s light — dreams take flight.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F7a157a9c-7cee-4618-a6f9-ca8c97e40399.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
               "title": "Punch Face",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_punch_250515_2.mp4",
               "effectID": "338083197718400",
@@ -1687,12 +1707,12 @@
               "marker": "default"
             },
             {
-              "title": "I Want to Be a Beer",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fbabdfb69-46b4-4b76-9c32-80942acd8f9b.mp4",
-              "effectID": "361993440092761",
-              "effectPrompt": "Weary of being human? It's time to transform into a beer!",
+              "title": "Diwali Radiance",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_diwali_251021.mp4",
+              "effectID": "366381407789888",
+              "effectPrompt": "Light up Diwali, be the centerpiece.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Faf2164c0-6c44-4cbe-adc1-f8ed17a96790.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_diwali_251021.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -1713,16 +1733,6 @@
               "effectPrompt": "Surprise! Your birthday just got extra special",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_birthday_250806.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
-              "title": "Freddy Krueger Chase",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1e2f821e-beef-4357-bf2b-e6356297733a.mp4",
-              "effectID": "362793479876345",
-              "effectPrompt": "Transform any photo into a chilling horror scene.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F3870a3fc-61c1-4b75-927a-817aefe67039.jpg",
               "trending": "true",
               "marker": "default"
             },
@@ -1817,14 +1827,14 @@
               "marker": "default"
             },
             {
-              "title": "Diwali Radiance",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_diwali_251021.mp4",
-              "effectID": "366381407789888",
-              "effectPrompt": "Light up Diwali, be the centerpiece.",
+              "title": "God Wing Gacha",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3gods_251022.mp4",
+              "effectID": "366592384473920",
+              "effectPrompt": "Red, Yellow, or Blue? Unbox your destiny, claim your God Wing.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_diwali_251021.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_3gods_251022.jpg",
               "trending": "true",
-              "marker": "default"
+              "marker": "new"
             },
             {
               "title": "Subject 3 Fever",
@@ -1853,36 +1863,6 @@
               "effectPrompt": "Merge photos, share love.",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2F250919.jpg",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
-              "title": "God Wing Gacha",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3gods_251022.mp4",
-              "effectID": "366592384473920",
-              "effectPrompt": "Red, Yellow, or Blue? Unbox your destiny, claim your God Wing.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_3gods_251022.jpg",
-              "trending": "true",
-              "marker": "new"
-            },
-            {
-              "title": "Muscle Surge",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_0610.mp4",
-              "effectID": "308621408717184",
-              "effectPrompt": "Show off your strong muscles and have everyone hooked.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.png",
-              "trending": "true",
-              "marker": "default"
-            },
-            {
-              "title": "Old Photo Revival",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_old_250630.mov",
-              "effectID": "346384996936128",
-              "effectPrompt": "Breathe life into old photos—time travel through their eyes.",
-              "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1917,12 +1897,22 @@
               "marker": "new"
             },
             {
-              "title": "Kiss Kiss",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kisskiss_250610.mp4",
-              "effectID": "315446315336768",
-              "effectPrompt": "One click to send your kiss",
+              "title": "Muscle Surge",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_0610.mp4",
+              "effectID": "308621408717184",
+              "effectPrompt": "Show off your strong muscles and have everyone hooked.",
               "type": "Trending",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_250610.png",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Old Photo Revival",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_old_250630.mov",
+              "effectID": "346384996936128",
+              "effectPrompt": "Breathe life into old photos—time travel through their eyes.",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.png",
               "trending": "true",
               "marker": "default"
             },
@@ -1947,12 +1937,32 @@
               "marker": "default"
             },
             {
+              "title": "Kiss Kiss",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kisskiss_250610.mp4",
+              "effectID": "315446315336768",
+              "effectPrompt": "One click to send your kiss",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kisskiss_250610.png",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
               "title": "Why didn’t you call me Godfather",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_whydidn%E2%80%99tyoucallmegodfather_252026.mp4",
               "effectID": "367301708446528",
               "effectPrompt": "You never ask me about my business, you never ask me to be godfather to your child.",
               "type": "Trending",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_whydidn%E2%80%99tyoucallmegodfather_252026.jpg",
+              "trending": "true",
+              "marker": "default"
+            },
+            {
+              "title": "Test your workplace persona",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_testyourworkplacepersona_251027.mp4",
+              "effectID": "367472828659200",
+              "effectPrompt": "Take a look and discover your workplace persona!",
+              "type": "Trending",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_testyourworkplacepersona_251027.jpg",
               "trending": "true",
               "marker": "default"
             }
@@ -2022,6 +2032,16 @@
               "marker": "default"
             },
             {
+              "title": "Freddy Krueger Chase",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1e2f821e-beef-4357-bf2b-e6356297733a.mp4",
+              "effectID": "362793479876345",
+              "effectPrompt": "Transform any photo into a chilling horror scene.",
+              "type": "🎃Halloween",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F3870a3fc-61c1-4b75-927a-817aefe67039.jpg",
+              "trending": "false",
+              "marker": "default"
+            },
+            {
               "title": "Haunting Doll",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_tim_250917.mp4",
               "effectID": "360405191066176",
@@ -2062,16 +2082,6 @@
               "marker": "default"
             },
             {
-              "title": "Freddy Krueger Chase",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1e2f821e-beef-4357-bf2b-e6356297733a.mp4",
-              "effectID": "362793479876345",
-              "effectPrompt": "Transform any photo into a chilling horror scene.",
-              "type": "🎃Halloween",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F3870a3fc-61c1-4b75-927a-817aefe67039.jpg",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
               "title": "Ghostface Terror",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_scream_250930.mp4",
               "effectID": "362704938833536",
@@ -2093,16 +2103,6 @@
               "effectPrompt": "Transform your face into a realistic elderly version of yourself in a sudden, shocking jump.",
               "type": "From Creator",
               "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F1dd83584-df63-4773-bf46-49996df922dd.jpg",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
-              "title": "PARTY HARD",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2F84015468-b1a7-408c-88a6-d0bcea3e9787.mp4",
-              "effectID": "361988459862630",
-              "effectPrompt": "Transform yourself and your friends into party animals, let the wild celebration commence!",
-              "type": "From Creator",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Fff0111bb-9bcc-4d95-bbde-d37b5bc0c580.jpg",
               "trending": "false",
               "marker": "default"
             },
@@ -2143,6 +2143,16 @@
               "effectPrompt": "Transform any photo into a chilling horror scene.",
               "type": "From Creator",
               "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F3870a3fc-61c1-4b75-927a-817aefe67039.jpg",
+              "trending": "false",
+              "marker": "default"
+            },
+            {
+              "title": "PARTY HARD",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2F84015468-b1a7-408c-88a6-d0bcea3e9787.mp4",
+              "effectID": "361988459862630",
+              "effectPrompt": "Transform yourself and your friends into party animals, let the wild celebration commence!",
+              "type": "From Creator",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Fff0111bb-9bcc-4d95-bbde-d37b5bc0c580.jpg",
               "trending": "false",
               "marker": "default"
             }
@@ -2502,6 +2512,26 @@
               "marker": "default"
             },
             {
+              "title": "Fairy Awakening",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fca76474d-f2d4-4bbc-8f9d-1cabdd271628.mp4",
+              "effectID": "362996370267867",
+              "effectPrompt": "From the fairy’s light — dreams take flight.",
+              "type": "Weirdo's Party",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F7a157a9c-7cee-4618-a6f9-ca8c97e40399.jpg",
+              "trending": "false",
+              "marker": "default"
+            },
+            {
+              "title": "I Want to Be a Beer",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fbabdfb69-46b4-4b76-9c32-80942acd8f9b.mp4",
+              "effectID": "361993440092761",
+              "effectPrompt": "Weary of being human? It's time to transform into a beer!",
+              "type": "Weirdo's Party",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Faf2164c0-6c44-4cbe-adc1-f8ed17a96790.jpg",
+              "trending": "false",
+              "marker": "default"
+            },
+            {
               "title": "Lionfish Venomous",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Flionfish_250903.mp4",
               "effectID": "357905373827456",
@@ -2528,6 +2558,16 @@
               "effectPrompt": "Change your gender with one click",
               "type": "Weirdo's Party",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ganderchange_250221.png",
+              "trending": "false",
+              "marker": "default"
+            },
+            {
+              "title": "Freddy Krueger Chase",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1e2f821e-beef-4357-bf2b-e6356297733a.mp4",
+              "effectID": "362793479876345",
+              "effectPrompt": "Transform any photo into a chilling horror scene.",
+              "type": "Weirdo's Party",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F3870a3fc-61c1-4b75-927a-817aefe67039.jpg",
               "trending": "false",
               "marker": "default"
             },
@@ -2752,16 +2792,6 @@
               "marker": "default"
             },
             {
-              "title": "Fairy Awakening",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fca76474d-f2d4-4bbc-8f9d-1cabdd271628.mp4",
-              "effectID": "362996370267867",
-              "effectPrompt": "From the fairy’s light — dreams take flight.",
-              "type": "Weirdo's Party",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F7a157a9c-7cee-4618-a6f9-ca8c97e40399.jpg",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
               "title": "Punch Face",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_punch_250515_2.mp4",
               "effectID": "338083197718400",
@@ -2772,32 +2802,12 @@
               "marker": "default"
             },
             {
-              "title": "I Want to Be a Beer",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fbabdfb69-46b4-4b76-9c32-80942acd8f9b.mp4",
-              "effectID": "361993440092761",
-              "effectPrompt": "Weary of being human? It's time to transform into a beer!",
-              "type": "Weirdo's Party",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Faf2164c0-6c44-4cbe-adc1-f8ed17a96790.jpg",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
               "title": "Who’s Arrested?",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_arrest_250610.mov",
               "effectID": "342847495240768",
               "effectPrompt": "When the AI cop shows up, someone’s in trouble!",
               "type": "Weirdo's Party",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_arrest_250610.png",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
-              "title": "Freddy Krueger Chase",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fprod%2F1e2f821e-beef-4357-bf2b-e6356297733a.mp4",
-              "effectID": "362793479876345",
-              "effectPrompt": "Transform any photo into a chilling horror scene.",
-              "type": "Weirdo's Party",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2F3870a3fc-61c1-4b75-927a-817aefe67039.jpg",
               "trending": "false",
               "marker": "default"
             },
@@ -3452,16 +3462,6 @@
               "marker": "default"
             },
             {
-              "title": "My Girlfriendssss",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_girls_250716.mp4",
-              "effectID": "349232644550272",
-              "effectPrompt": "They’re here for me, and I’m here for them.",
-              "type": "Alpha Boss",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.png",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
               "title": "God Wing Gacha",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_3gods_251022.mp4",
               "effectID": "366592384473920",
@@ -3470,6 +3470,16 @@
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_3gods_251022.jpg",
               "trending": "false",
               "marker": "new"
+            },
+            {
+              "title": "My Girlfriendssss",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_girls_250716.mp4",
+              "effectID": "349232644550272",
+              "effectPrompt": "They’re here for me, and I’m here for them.",
+              "type": "Alpha Boss",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.png",
+              "trending": "false",
+              "marker": "default"
             },
             {
               "title": "Muscle Surge",
@@ -4122,6 +4132,16 @@
               "marker": "default"
             },
             {
+              "title": "Easter Serenity",
+              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fdd1c3395-8303-4721-b1db-b1aa32f568e9.mp4",
+              "effectID": "365301137193286",
+              "effectPrompt": "From spring’s heart — hope is reborn.",
+              "type": "Festival Vibe",
+              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Fa7fb36ea-9af7-46a8-aea9-fcac272f4820.jpg",
+              "trending": "false",
+              "marker": "default"
+            },
+            {
               "title": "Snake Snuggle",
               "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_chinesesnake_250127.mp4",
               "effectID": "313359048325568",
@@ -4182,12 +4202,12 @@
               "marker": "default"
             },
             {
-              "title": "Easter Serenity",
-              "video": "https://media.pixverse.ai/studio%2Fvideo%2Fdd1c3395-8303-4721-b1db-b1aa32f568e9.mp4",
-              "effectID": "365301137193286",
-              "effectPrompt": "From spring’s heart — hope is reborn.",
+              "title": "Diwali Radiance",
+              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_diwali_251021.mp4",
+              "effectID": "366381407789888",
+              "effectPrompt": "Light up Diwali, be the centerpiece.",
               "type": "Festival Vibe",
-              "thumbnail": "https://media.pixverse.ai/studio%2Fimg%2Fa7fb36ea-9af7-46a8-aea9-fcac272f4820.jpg",
+              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_diwali_251021.jpg",
               "trending": "false",
               "marker": "default"
             },
@@ -4198,16 +4218,6 @@
               "effectPrompt": "Time for a father-son face-off...",
               "type": "Festival Vibe",
               "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fightingfather_0613.png",
-              "trending": "false",
-              "marker": "default"
-            },
-            {
-              "title": "Diwali Radiance",
-              "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_diwali_251021.mp4",
-              "effectID": "366381407789888",
-              "effectPrompt": "Light up Diwali, be the centerpiece.",
-              "type": "Festival Vibe",
-              "thumbnail": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_diwali_251021.jpg",
               "trending": "false",
               "marker": "default"
             }
