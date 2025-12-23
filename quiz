@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "id": "math_algebra",
+      "title": "Algebra Basics",
+      "questions": [
+        {
+          "id": "a1",
+          "question": "Solve: 2x + 3 = 11",
+          "options": ["x = 4", "x = 5", "x = 6", "x = 7"],
+          "correctIndex": 0,
+          "explanation": "2x = 8 → x = 4"
+        },
+        {
+          "id": "a2",
+          "question": "What is the value of x in: x/3 = 5 ?",
+          "options": ["8", "12", "15", "18"],
+          "correctIndex": 2
+        },
+        {
+          "id": "a3",
+          "question": "Simplify: 3(a + 2)",
+          "options": ["3a + 2", "a + 6", "3a + 6", "a + 2"],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "biology_cells",
+      "title": "Cells",
+      "questions": [
+        {
+          "id": "b1",
+          "question": "What controls what enters and leaves the cell?",
+          "options": ["Cell wall", "Cell membrane", "Nucleus", "Cytoplasm"],
+          "correctIndex": 1
+        },
+        {
+          "id": "b2",
+          "question": "Where is DNA primarily stored in a eukaryotic cell?",
+          "options": ["Ribosomes", "Mitochondria", "Nucleus", "Golgi apparatus"],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ]
+}
