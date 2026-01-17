@@ -1,8 +1,8 @@
 {
   "offerpaywall": 0,
-  "NotifcationTrue": 0,
-  "title": "Your title here",
-  "subtitle": "Your subtitle here",
-  "image": "https://upload.orotv.shop/uploads/1755973369645-827769685.jpg",
-  "link": "https://example.com"
+  "NotifcationTrue": 1,
+  "title": "Important Update",
+  "subtitle": "Click to read Notice",
+  "image": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/chat-g-p-tin-flutter-flow-mz9xk6/assets/h0p5ph6qcg56/Logo_of_Socratic_(educational_software).png",
+  "link": "https://linktr.ee/socraticai"
 }
