@@ -1,7 +1,7 @@
 {
-  "image": 0,
-  "pixreplicate": 0,
-  "pixeffect": 0,
+  "image": 1,
+  "pixreplicate": 1,
+  "pixeffect": 2,
   "month": 25,
   "week": 10
 }
