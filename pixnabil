@@ -432,18 +432,6 @@
         "i18n_json": "{\"zh-CN\":{\"channel_name\":\"热门\"},\"ko-KR\":{\"channel_name\":\"인기 급상승\"},\"ja-JP\":{\"channel_name\":\"トレンド\"},\"pt-BR\":{\"channel_name\":\"Em alta\"},\"es-ES\":{\"channel_name\":\"Tendencias\"},\"fr-FR\":{\"channel_name\":\"Tendance\"},\"de-DE\":{\"channel_name\":\"Angesagt\"},\"ru-RU\":{\"channel_name\":\"В тренде\"},\"it-IT\":{\"channel_name\":\"In tendenza\"},\"tr-TR\":{\"channel_name\":\"Trend\"},\"id-ID\":{\"channel_name\":\"Tren\"},\"th-TH\":{\"channel_name\":\"แนวโน้ม\"},\"vi-VN\":{\"channel_name\":\"Xu hướng\"}}",
         "effect_items": [
           {
-            "id": 381089861204928,
-            "tag": "new",
-            "model": "pixverse-v5",
-            "prompt": "Big muscles, bigger vibes!",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_381089861204928.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_381089861204928.mp4",
-            "duration_sec": 14,
-            "name": "Big Guy Flex",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"猛男律动\",\"display_prompt\":\"力量感拉满，自信心爆棚！大块头也要秀出范儿。\"},\"en-US\":{\"display_name\":\"Big Guy Flex\",\"display_prompt\":\"Big muscles, bigger vibes!\"},\"ko-KR\":{\"display_name\":\"빅 가이 플렉스\",\"display_prompt\":\"강한 근육, 더 강한 스웨그!\"},\"ja-JP\":{\"display_name\":\"ビッグガイ・フレックス\",\"display_prompt\":\"マッスル＆リズム、これが俺のスタイル。\"},\"pt-BR\":{\"display_name\":\"Big Guy Flex\",\"display_prompt\":\"Músculos grandes, vibe maior ainda!\"}}",
-            "display_prompt": "Big muscles, bigger vibes!"
-          },
-          {
             "id": 381090080287680,
             "tag": "new",
             "model": "pixverse-v5",
@@ -576,18 +564,6 @@
             "display_prompt": "One punch and you're a meme now"
           },
           {
-            "id": 340541567573824,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Dive in! Get your fins now",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_340541567573824.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_340541567573824.mp4",
-            "duration_sec": 5,
-            "name": "Fin-tastic Mermaid",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"鱼你同行美人鱼\",\"display_prompt\":\"即刻变身！秀出你的鱼尾 \"},\"es-ES\":{\"display_name\":\"Sirena Fabulosa\",\"display_prompt\":\"¡Sumérgete! Consigue tus aletas ya \"},\"ja-JP\":{\"display_name\":\"フィンタスティック・マーメイド\",\"display_prompt\":\"さあ、飛び込もう！今すぐヒレを手に入れよう \"},\"ko-KR\":{\"display_name\":\"환상적인 인어\",\"display_prompt\":\"풍덩! 지금 바로 인어가 되어보세요 \"},\"pt-BR\":{\"display_name\":\"Sereia Fantástica\",\"display_prompt\":\"Mergulhe de cabeça! Tenha suas barbatanas já \"},\"fr-FR\":{\"display_name\":\"Sirène Fantastique\",\"display_prompt\":\"Plongez ! Obtenez vos nageoires maintenant \"},\"de-DE\":{\"display_name\":\"Flossen-fabelhafte Meerjungfrau\",\"display_prompt\":\"Tauche ein! Hol dir jetzt deine Flossen \"},\"ru-RU\":{\"display_name\":\"Русалка-Чудо\",\"display_prompt\":\"Ныряй! Получи свой хвост сейчас же \"}}",
-            "display_prompt": "Dive in! Get your fins now"
-          },
-          {
             "id": 342847495240768,
             "tag": "default",
             "model": "pixverse-v5",
@@ -634,18 +610,6 @@
             "name": "Jiggle Jiggle",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"Jiggle Jiggle摇摆舞\",\"display_prompt\":\"扭一扭，拍拍手，转一圈呀跟你走\"},\"es-ES\":{\"display_name\":\"Jiggle Jiggle\",\"display_prompt\":\"¡Menéate, aplaude, da una vuelta y sígueme!\"},\"ja-JP\":{\"display_name\":\"Jiggle Jiggle\",\"display_prompt\":\"くねくねして、手拍子して、くるりと回って、ついておいで\"},\"ko-KR\":{\"display_name\":\"Jiggle Jiggle\",\"display_prompt\":\"흔들흔들, 박수치고, 빙 돌아서 따라오세요\"},\"pt-BR\":{\"display_name\":\"Jiggle Jiggle\",\"display_prompt\":\"Rebole, bata palmas, dê uma volta e me siga\"},\"fr-FR\":{\"display_name\":\"Jiggle Jiggle\",\"display_prompt\":\"Remuez-vous, applaudissez, tournez et suivez-moi\"},\"de-DE\":{\"display_name\":\"Jiggle Jiggle\",\"display_prompt\":\"Wackeln Sie, klatschen Sie, drehen Sie sich und folgen Sie mir\"},\"ru-RU\":{\"display_name\":\"Jiggle Jiggle\",\"display_prompt\":\"Покачайтесь, похлопайте в ладоши, повернитесь и следуйте за мной\"}}",
             "display_prompt": "Twist your waist, clap your hands, turn around and follow the beat."
-          },
-          {
-            "id": 353279785150016,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Come closer, Officer. I’m almost yours.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_353279785150016.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_353279785150016.mp4",
-            "duration_sec": 5,
-            "name": "Officer Crush",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"霸道警官爱上我\",\"display_prompt\":\"再近一点，警官，我几乎就是你的了。\"},\"en-US\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Get closer, officer, I’m almost yours.\"},\"es-ES\":{\"display_name\":\"Crush del Oficial\",\"display_prompt\":\"Acércate más, oficial, casi soy tuyo.\"},\"ja-JP\":{\"display_name\":\"警官の恋\",\"display_prompt\":\"もっと近づいて、警官、私はほぼあなたのものだわ\"},\"ko-KR\":{\"display_name\":\"경찰관 crush\",\"display_prompt\":\"더 가까이 와 주세요, 경찰관님, 나는 거의 당신의 것이에요\"},\"pt-BR\":{\"display_name\":\"Crush do Oficial\",\"display_prompt\":\"Chegue mais perto, oficial, quase sou sua.\"},\"fr-FR\":{\"display_name\":\"Crush de l'Officier\",\"display_prompt\":\"Rapproche-toi, officier, je suis presque à toi.\"},\"de-DE\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Komm näher, Officer, ich gehöre fast dir.\"},\"ru-RU\":{\"display_name\":\"Крэш офицера\",\"display_prompt\":\"Подойди ближе, офицер, я почти твоя.\"},\"th-TH\":{\"display_name\":\"ตำรวจสุดเผ็ด\",\"display_prompt\":\"ใกล้เข้ามาหน่อยสิครับตำรวจ ฉันเกือบเป็นของคุณแล้ว\"},\"id-ID\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Dekatlah, petugas, aku hampir menjadi milikmu.\"},\"vi-VN\":{\"display_name\":\"Crush Cảnh Sát\",\"display_prompt\":\"Lại gần đi, cảnh sát, tôi gần như là của bạn.\"},\"tr-TR\":{\"display_name\":\"Memur Aşkı\",\"display_prompt\":\"Daha yaklaş, memur, neredeyse seninim.\"},\"it-IT\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Avvicinati, ufficiale, sono quasi tuo.\"}}",
-            "display_prompt": "Come closer, Officer. I’m almost yours."
           },
           {
             "id": 313649491716544,
@@ -6481,18 +6445,6 @@
             "display_prompt": "Show off your strong muscles and have everyone hooked."
           },
           {
-            "id": 340541567573824,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Dive in! Get your fins now",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_340541567573824.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_340541567573824.mp4",
-            "duration_sec": 5,
-            "name": "Fin-tastic Mermaid",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"鱼你同行美人鱼\",\"display_prompt\":\"即刻变身！秀出你的鱼尾 \"},\"es-ES\":{\"display_name\":\"Sirena Fabulosa\",\"display_prompt\":\"¡Sumérgete! Consigue tus aletas ya \"},\"ja-JP\":{\"display_name\":\"フィンタスティック・マーメイド\",\"display_prompt\":\"さあ、飛び込もう！今すぐヒレを手に入れよう \"},\"ko-KR\":{\"display_name\":\"환상적인 인어\",\"display_prompt\":\"풍덩! 지금 바로 인어가 되어보세요 \"},\"pt-BR\":{\"display_name\":\"Sereia Fantástica\",\"display_prompt\":\"Mergulhe de cabeça! Tenha suas barbatanas já \"},\"fr-FR\":{\"display_name\":\"Sirène Fantastique\",\"display_prompt\":\"Plongez ! Obtenez vos nageoires maintenant \"},\"de-DE\":{\"display_name\":\"Flossen-fabelhafte Meerjungfrau\",\"display_prompt\":\"Tauche ein! Hol dir jetzt deine Flossen \"},\"ru-RU\":{\"display_name\":\"Русалка-Чудо\",\"display_prompt\":\"Ныряй! Получи свой хвост сейчас же \"}}",
-            "display_prompt": "Dive in! Get your fins now"
-          },
-          {
             "id": 349110259052160,
             "tag": "default",
             "model": "pixverse-v5",
@@ -7431,18 +7383,6 @@
             "display_prompt": "Breathe life into old photos—time travel through their eyes."
           },
           {
-            "id": 353279785150016,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Come closer, Officer. I’m almost yours.",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_353279785150016.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_353279785150016.mp4",
-            "duration_sec": 5,
-            "name": "Officer Crush",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"霸道警官爱上我\",\"display_prompt\":\"再近一点，警官，我几乎就是你的了。\"},\"en-US\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Get closer, officer, I’m almost yours.\"},\"es-ES\":{\"display_name\":\"Crush del Oficial\",\"display_prompt\":\"Acércate más, oficial, casi soy tuyo.\"},\"ja-JP\":{\"display_name\":\"警官の恋\",\"display_prompt\":\"もっと近づいて、警官、私はほぼあなたのものだわ\"},\"ko-KR\":{\"display_name\":\"경찰관 crush\",\"display_prompt\":\"더 가까이 와 주세요, 경찰관님, 나는 거의 당신의 것이에요\"},\"pt-BR\":{\"display_name\":\"Crush do Oficial\",\"display_prompt\":\"Chegue mais perto, oficial, quase sou sua.\"},\"fr-FR\":{\"display_name\":\"Crush de l'Officier\",\"display_prompt\":\"Rapproche-toi, officier, je suis presque à toi.\"},\"de-DE\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Komm näher, Officer, ich gehöre fast dir.\"},\"ru-RU\":{\"display_name\":\"Крэш офицера\",\"display_prompt\":\"Подойди ближе, офицер, я почти твоя.\"},\"th-TH\":{\"display_name\":\"ตำรวจสุดเผ็ด\",\"display_prompt\":\"ใกล้เข้ามาหน่อยสิครับตำรวจ ฉันเกือบเป็นของคุณแล้ว\"},\"id-ID\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Dekatlah, petugas, aku hampir menjadi milikmu.\"},\"vi-VN\":{\"display_name\":\"Crush Cảnh Sát\",\"display_prompt\":\"Lại gần đi, cảnh sát, tôi gần như là của bạn.\"},\"tr-TR\":{\"display_name\":\"Memur Aşkı\",\"display_prompt\":\"Daha yaklaş, memur, neredeyse seninim.\"},\"it-IT\":{\"display_name\":\"Officer Crush\",\"display_prompt\":\"Avvicinati, ufficiale, sono quasi tuo.\"}}",
-            "display_prompt": "Come closer, Officer. I’m almost yours."
-          },
-          {
             "id": 342535507046144,
             "tag": "default",
             "model": "pixverse-v5",
@@ -7954,18 +7894,6 @@
             "display_prompt": "Your world in a snowglobe"
           },
           {
-            "id": 312314911869312,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Dress up as a Christmas star",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_312314911869312.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_312314911869312.mp4",
-            "duration_sec": 5,
-            "name": "Christmas OOTD",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"圣诞战袍\",\"display_prompt\":\"测测什么圣诞装适合你\"},\"es-ES\":{\"display_name\":\"Atuendo de Guerra Navideño\",\"display_prompt\":\"¡Descubre qué traje navideño te queda mejor!\"},\"ja-JP\":{\"display_name\":\"クリスマスバトルローブ\",\"display_prompt\":\"あなたに合うクリスマス衣装をテストしてみよう\"},\"ko-KR\":{\"display_name\":\"크리스마스 전투 로브\",\"display_prompt\":\"어떤 크리스마스 의상이 당신에게 어울리는지 테스트해보세요\"},\"pt-BR\":{\"display_name\":\"Vestes de Guerra Natalinas\",\"display_prompt\":\"Teste qual traje de Natal combina com você\"},\"fr-FR\":{\"display_name\":\"Tenue de Guerre de Noël\",\"display_prompt\":\"Testez quelle tenue de Noël vous convient le mieux\"},\"de-DE\":{\"display_name\":\"Weihnachtliche Kampfrobe\",\"display_prompt\":\"Teste, welches Weihnachtsoutfit zu dir passt\"},\"ru-RU\":{\"display_name\":\"Рождественские боевые одежды\",\"display_prompt\":\"Проверьте, какой рождественский наряд вам подходит\"}}",
-            "display_prompt": "Dress up as a Christmas star"
-          },
-          {
             "id": 311521768592256,
             "tag": "default",
             "model": "pixverse-v5",
@@ -8223,18 +8151,6 @@
             "name": "The Tiger's Touch",
             "i18n_json": "{\"zh-CN\":{\"display_name\":\"猛虎的抱抱\",\"display_prompt\":\"一只大老虎突然出现并亲昵地搂住你\"},\"es-ES\":{\"display_name\":\"El abrazo del tigre feroz\",\"display_prompt\":\"¡Un gran tigre aparece de repente y te abraza cariñosamente!\"},\"ja-JP\":{\"display_name\":\"猛虎のハグ\",\"display_prompt\":\"大きな虎が突然現れて、親しげにあなたを抱きしめる\"},\"ko-KR\":{\"display_name\":\"맹호의 포옹\",\"display_prompt\":\"커다란 호랑이가 갑자기 나타나서 친근하게 당신을 안아줍니다\"},\"pt-BR\":{\"display_name\":\"O abraço do tigre feroz\",\"display_prompt\":\"Um grande tigre aparece de repente e te abraça afetuosamente\"},\"fr-FR\":{\"display_name\":\"L'étreinte du tigre féroce\",\"display_prompt\":\"Un grand tigre apparaît soudainement et t'enlace affectueusement\"},\"de-DE\":{\"display_name\":\"Die Umarmung des wilden Tigers\",\"display_prompt\":\"Ein großer Tiger erscheint plötzlich und umarmt dich liebevoll\"},\"ru-RU\":{\"display_name\":\"Объятия свирепого тигра\",\"display_prompt\":\"Большой тигр внезапно появляется и ласково обнимает тебя\"}}",
             "display_prompt": "A giant tiger appears and snuggles up with you."
-          },
-          {
-            "id": 353326100438592,
-            "tag": "default",
-            "model": "pixverse-v5",
-            "prompt": "Show me your friendly",
-            "image": "https://www.transcript.club/dream/styles/videos/pixverse_353326100438592.jpg",
-            "preview_video_url": "https://www.transcript.club/dream/styles/videos/pixverse_353326100438592.mp4",
-            "duration_sec": 5,
-            "name": "Middle Finger Up",
-            "i18n_json": "{\"zh-CN\":{\"display_name\":\"国际友好手势\",\"display_prompt\":\"亲爱的，展示一下你的友好\"},\"en-US\":{\"display_name\":\"Middle Finger Up\",\"display_prompt\":\"Show me your friendly, no filters needed\"},\"es-ES\":{\"display_name\":\"Gesto Amistoso\",\"display_prompt\":\"Muéstrame tu saludo, sin filtros\"},\"ja-JP\":{\"display_name\":\"国際的な親指\",\"display_prompt\":\"あなたのフレンドリーを見せて、フィルターなしで\"},\"ko-KR\":{\"display_name\":\"친근한 중지\",\"display_prompt\":\"친근한 모습을 보여줘, 필터는 필요 없어\"},\"pt-BR\":{\"display_name\":\"Sinal Amigável\",\"display_prompt\":\"Me mostre o seu gesto amigável, sem filtros\"},\"fr-FR\":{\"display_name\":\"Doigt Amical\",\"display_prompt\":\"Montre-moi ton geste amical, sans filtres\"},\"de-DE\":{\"display_name\":\"Freundlicher Mittelfinger\",\"display_prompt\":\"Zeig mir deinen freundlichen Gruß, keine Filter nötig\"},\"ru-RU\":{\"display_name\":\"Дружелюбный жест\",\"display_prompt\":\"Покажи мне свой дружелюбный жест, без фильтров\"},\"th-TH\":{\"display_name\":\"ท่าทางที่เป็นมิตร\",\"display_prompt\":\"แสดงท่าทางที่เป็นมิตรให้ดูหน่อย, ไม่มีฟิลเตอร์\"},\"id-ID\":{\"display_name\":\"Tangan Ramah\",\"display_prompt\":\"Tunjukkan gerakan ramahmu, tanpa filter\"},\"vi-VN\":{\"display_name\":\"Cử Chỉ Thân Thiện\",\"display_prompt\":\"Cho tôi xem cử chỉ thân thiện của bạn, không cần filter\"},\"tr-TR\":{\"display_name\":\"Dostça Orta Parmak\",\"display_prompt\":\"Bana dostça bir işaret göster, filtreye gerek yok\"},\"it-IT\":{\"display_name\":\"Il Dito Amichevole\",\"display_prompt\":\"Fammi vedere il tuo gesto amichevole, senza filtri\"}}",
-            "display_prompt": "Show me your friendly"
           },
           {
             "id": 310371322329472,
